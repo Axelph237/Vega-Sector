@@ -1,24 +1,24 @@
 ![[banner_1.jpg|p+tcc banner+small]]
 > [!infobox|wikipedia right n-th t-w txt-c]
 > ![[race_1_1.jpg||wsmall]]
->> [!kith|friend] Picture Description
+>> [!|bg-green+c-green] Picture Description
 > ##### Name of Race
-> ##### Location
+> ##### _Location_
 > | Type | Location |
 > | ---- | ---- |
 > | Planet | Lorem Ipsum |
 > | Habitat | Lorem Ipsum |
 > 
 > ##### _Relations_
-> |  |
+> | Allegiance | Faction |
 > | ---- | ---- |
 > | Allies | Lorem Ipsum |
 > | Enemies | Lorem Ipsum |
 > 
-> ##### Stats
+> ##### _Stats_
 > | Stat | Value |
 > | ---- | ----|
-> | Stat 1 | 0 |
+> | Stat 1 | zero |
 
 **This is the overall summary:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam maecenas sed enim. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. Suspendisse interdum consectetur libero id faucibus nisl tincidunt. Tristique senectus et netus et malesuada fames ac turpis egestas.
 

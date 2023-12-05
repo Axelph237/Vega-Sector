@@ -1,8 +1,6 @@
 ![[banner_1.jpg|p+tcc banner+small]]
 > [!infobox|wikipedia right n-th t-w txt-c]
-> [!caption]
 > ![[race_1_1.jpg||wsmall]]
-> Caption text
 >> [!info|bg-green c-green ] Picture Description
 >##### Race Name
 > ##### _Location_
@@ -10,12 +8,6 @@
 > | ---- | ---- |
 > | Planet | Lorem Ipsum |
 > | Habitat | Lorem Ipsum |
-> 
-> ##### _Relations_
-> | Allegiance | Faction |
-> | ---- | ---- |
-> | Allies | Lorem Ipsum |
-> | Enemies | Lorem Ipsum |
 > 
 > ##### _Stats_
 > | Stat | Value |
@@ -29,6 +21,11 @@
 
 ## Description
 Augue eget arcu dictum varius duis at. Id eu nisl nunc mi. Aliquet enim tortor at auctor urna nunc id. Volutpat maecenas volutpat blandit aliquam etiam erat velit. Et magnis dis parturient montes nascetur ridiculus mus. Nunc sed id semper risus in hendrerit. Dictum varius duis at consectetur lorem donec massa sapien faucibus. In nibh mauris cursus mattis molestie a. Risus pretium quam vulputate dignissim suspendisse in. Mauris sit amet massa vitae tortor.
+# Relationships
+> [!aside]
+> [!kith|friend] **Ally** _Reason for relation_
+
+> [!kith|antagonist] **Enemy** _Reason for relation_
 # Subraces
 Augue eget arcu dictum varius duis at. Id eu nisl nunc mi. Aliquet enim tortor at auctor urna nunc id. Volutpat maecenas volutpat blandit aliquam etiam erat velit. Et magnis dis parturient montes nascetur ridiculus mus. Nunc sed id semper risus in hendrerit. Dictum varius duis at consectetur lorem donec massa sapien faucibus. In nibh mauris cursus mattis molestie a. Risus pretium quam vulputate dignissim suspendisse in. Mauris sit amet massa vitae tortor.
 # Abilities

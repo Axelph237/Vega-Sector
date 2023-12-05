@@ -1,17 +1,12 @@
 > [!infobox|wikipedia right]
-> **Name of Race** 
-> "Race tid-bit."
 > ![[race_1.jpg]]
-> ##### Race Details
-> | Head | Body |
+> ##### Name of Race
+> | Basic Information |
 > | ---- | ---- |
-> | Ind 1 | Lorem Ipsum |
-> | Ind 2 | Lorem Ipsum |
+> | Planet | Lorem Ipsum |
+> | Habitat | Lorem Ipsum |
 > | Ind 3 | Lorem Ipsum |
 > | Ind 4 | Lorem Ipsum |
-> 
-> ##### Section 2
-> ***Hello!*** This is a small example text section inside of the info box
 > 
 > ##### Section 3
 > | Head | Body |

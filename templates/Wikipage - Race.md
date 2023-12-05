@@ -44,10 +44,10 @@ Augue eget arcu dictum varius duis at. Id eu nisl nunc mi. Aliquet enim tortor a
 # Key Figures
 Augue eget arcu dictum varius duis at. Id eu nisl nunc mi. Aliquet enim tortor at auctor urna nunc id. Volutpat maecenas volutpat blandit aliquam etiam erat velit. Et magnis dis parturient montes nascetur ridiculus mus. Nunc sed id semper risus in hendrerit. Dictum varius duis at consectetur lorem donec massa sapien faucibus. In nibh mauris cursus mattis molestie a. Risus pretium quam vulputate dignissim suspendisse in. Mauris sit amet massa vitae tortor.
 
-> [!kith|figure] **Figure One**
+> [!kith|figure]- **Figure One**
 _Brief description_
 
-> [!kith|figure] **Figure Two**
+> [!kith|figure]- **Figure Two**
 > Brief description
 
 # History

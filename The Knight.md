@@ -1,7 +1,8 @@
 
 
-> [!infobox|right]
->> [!kith|friend]  **Sir Wynhelm** _A powerful friend, and much more dangerous foe._
+> [!infobox|right|bg-green]
+> **Sir Wynhelm** 
+> "_A powerful friend, and much more dangerous foe._"
 > ![[knight_1.jpg]]
 > ##### Section 1
 > | Head | Body |
@@ -21,7 +22,6 @@
 > | Ind 2 | Lorem Ipsum |
 > | Ind 3 | Lorem Ipsum |
 > | Ind 4 | Lorem Ipsum |
-
 
 # Section 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam maecenas sed enim. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. Suspendisse interdum consectetur libero id faucibus nisl tincidunt. Tristique senectus et netus et malesuada fames ac turpis egestas. Tristique senectus et netus et malesuada fames ac turpis egestas. Id venenatis a condimentum vitae sapien pellentesque. Erat imperdiet sed euismod nisi porta. Ipsum consequat nisl vel pretium lectus quam id leo in. Volutpat commodo sed egestas egestas fringilla. Sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque. Turpis cursus in hac habitasse platea. Rutrum quisque non tellus orci. Nunc sed augue lacus viverra. Ut porttitor leo a diam sollicitudin tempor. Lacinia quis vel eros donec ac odio tempor orci dapibus.

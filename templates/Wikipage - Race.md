@@ -1,9 +1,7 @@
-
-
 > [!infobox|right]
 > **Sir Wynhelm** 
 > "_A powerful friend, and much more dangerous foe._"
-> ![[example_knight_1.jpg]]
+> ![[race_1.jpg]]
 > ##### Section 1
 > | Head | Body |
 > | ---- | ---- |

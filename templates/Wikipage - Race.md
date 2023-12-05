@@ -1,8 +1,10 @@
 ![[banner_1.jpg|p+tcc banner+small]]
 > [!infobox|wikipedia right n-th t-w txt-c]
+> [!caption]
 > ![[race_1_1.jpg||wsmall]]
->> [!|bg-green+c-green] Picture Description
-> ##### Name of Race
+> Caption text
+>> [!info|bg-green c-green ] Picture Description
+>##### Race Name
 > ##### _Location_
 > | Type | Location |
 > | ---- | ---- |

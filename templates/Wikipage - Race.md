@@ -1,4 +1,4 @@
-[[]]
+![[banner_1.jpg|loc sban]]
 > [!infobox|wikipedia right n-th t-w txt-c]
 > ![[race_1_1.jpg||wsmall]]
 >> [!kith|friend] Picture Description

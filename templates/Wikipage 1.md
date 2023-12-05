@@ -1,6 +1,6 @@
 
 
-> [!infobox|right|bg-green]
+> [!infobox|right]
 > **Sir Wynhelm** 
 > "_A powerful friend, and much more dangerous foe._"
 > ![[knight_1.jpg]]

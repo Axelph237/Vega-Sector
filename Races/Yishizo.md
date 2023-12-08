@@ -6,7 +6,7 @@
 > ##### _Location_
 > | Type | Location |
 > | ---- | ---- |
-> | Planet | Lorem Ipsum |
+> | Planet | [[Ourobos]] |
 > | Habitat | Lorem Ipsum |
 > 
 > ##### _Stats_

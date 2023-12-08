@@ -7,6 +7,8 @@
 > | Info | Description |
 > | ---- | ---- |
 > | Index | Example-c6 |
+> | Body Type | |
+> | E.S.S. |  |
 > | Natives |  |
 
 *Return to parent page: [[Celestial Bodies]]*

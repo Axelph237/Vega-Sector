@@ -37,6 +37,14 @@ Due to high electric charge within the system, weather conditions are extreme, w
 
 > [!biome]+ Biome 2
 
+> [!biome]+ Biome 3
+
+> [!biome]+ Biome 4
+
+> [!biome]+ Biome 5
+
+> [!biome]+ Biome 6
+
 ### Settlements
 
 > [!location]+ Location 1

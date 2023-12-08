@@ -6,12 +6,12 @@
 > ##### _Basic Information_
 > | Info | Description |
 > | ---- | ---- |
-> | Item 1 |  |
-> | Item 2 |  |
+> | Index | Example-c6 |
+> | Natives |  |
 
 *Return to parent page: [[Celestial Bodies]]*
 
-Vega-b3, also known as Ourobos, is one of the few habitabl
+**This is the overall summary:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam maecenas sed enim. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. Suspendisse interdum consectetur libero id faucibus nisl tincidunt. Tristique senectus et netus et malesuada fames ac turpis egestas.
 
 ## Description
 

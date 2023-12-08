@@ -14,5 +14,8 @@ Here is an example of how to format callouts you've added:
 > Icon: ad
 > Color: \#85E08B
 
-
+> [!skill] Example Skill
+> Type: skill
+> Title: "Skill"
+> Default Title
 

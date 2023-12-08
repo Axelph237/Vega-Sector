@@ -17,8 +17,6 @@
 
 ### Phenomena
 
-### Flora & Fauna
-
 ## Locations
 
 ### Biomes
@@ -33,3 +31,4 @@
 
 ## Inhabitants
 
+### Flora & Fauna

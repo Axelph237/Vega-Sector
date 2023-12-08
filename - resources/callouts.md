@@ -23,3 +23,19 @@ Here is an example of how to format callouts you've added:
 > Copy Button: yes
 > Icon: atom
 > Color: \#6DDFD2
+
+> [!biome] Example Biome
+> Type: biome
+> Title: "Biome"
+> Default Title: no
+> Copy Button: no
+> Icon: tree
+> Color: \#56E68D
+
+> [!location] Example Location
+> Type: location
+> Title: "Location"
+> Default Title: no
+> Copy Button: no
+> Icon: home-fill
+> Color: \#

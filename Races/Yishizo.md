@@ -58,4 +58,4 @@ _Brief description_
 # History
 The Yishizo are descendants of a lost group of forerunners from Earth. During the Olympia mission (the first manned exploration of the Vega Sector), the United Space Committee lost control with all 12 members aboard. This, likely caused by an unexpected increase of charged particles in the system, made all communication void. Left without any other option, the team, lead by Chinese astronaut Qian Xifeng, landed on Vega-c. The planet, called Ourobos, had been identified as part of the habitable zone. 
 
-Up
+Upon landing, it was noted that the planet was covered in lush flora and unknown fauna. With this knowledge, the company

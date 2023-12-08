@@ -29,7 +29,7 @@ Augue eget arcu dictum varius duis at. Id eu nisl nunc mi. Aliquet enim tortor a
 # Subraces
 Augue eget arcu dictum varius duis at. Id eu nisl nunc mi. Aliquet enim tortor at auctor urna nunc id. Volutpat maecenas volutpat blandit aliquam etiam erat velit. Et magnis dis parturient montes nascetur ridiculus mus. Nunc sed id semper risus in hendrerit. Dictum varius duis at consectetur lorem donec massa sapien faucibus. In nibh mauris cursus mattis molestie a. Risus pretium quam vulputate dignissim suspendisse in. Mauris sit amet massa vitae tortor.
 # Relations
-> [!column|3 no-t] 
+> [!column|3 no-t]
 >> [!kith|friend] **Allies**
 >> Faction 1
 >

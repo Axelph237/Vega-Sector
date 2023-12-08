@@ -16,9 +16,9 @@
 **Vega-b3**, also known as **Ourobos**, is one of the few habitable bodies within the Vega system. The gravitation pull of Vega-b allows for a moon such as **Ourobos** to exist. Additionally, due to the extreme light conditions, it has grown to house an extremely lush environment.
 
 ## Description
-`Written by ChatGPT (change)`
-The moon is characterized by a diverse landscape, filled with various habitats and landscapes keeping its 
-Ourobos experiences a gravitational oddity where gravity is higher at night than during the day, creating a dynamic and physically demanding daily rhythm for both the terrain and the lifeforms. 
+Ourobos is a place that instantly quenches all other ideas of beauty upon arrival. The moon flaunts a diverse landscape, filled with both extremely elevated mountain ranges, and extensive flat deserts. Not only this, but the body is adorned with a broad spectrum of different colors. A full and bright spectrum of light being presented to the flora on Ourobos makes its inhabitants equally vibrant.
+
+The moon experiences a higher gravity at night than during the day, creating a dynamic and physically demanding daily rhythm for both the terrain and the lifeforms. 
 
 ### Phenomena
 `Written by ChatGPT (change)`

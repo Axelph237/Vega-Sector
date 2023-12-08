@@ -19,7 +19,7 @@
 
 *Return to parent page: [[Races]]*
 
-The Yishizo are descendants of a once lost group of forerunners from Earth. The group of explorers from the 
+The Yishizo are descendants of a  lost group of forerunners from Earth. During the first manned exploration of the Vega Sector, outposts on Earth suddenly lost connection to the Olympia
 
 >[!quote|author] Famous Figurehead <br>Figurehead description
 > _Race standard quote_

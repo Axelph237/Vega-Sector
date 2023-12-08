@@ -1,7 +1,10 @@
->Custom Callout Format:
->
-> - Icon: \<ICON>
-> - Key: \<KEY>
-> - Light Color Hex: \<LCH> 
-> - Dark Color Hex: \<DCH>
+> [!tip] How to share custom callouts
+
+
+
+> [!new]
+> 
+> Hello nurse!
+
+
 

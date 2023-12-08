@@ -2,7 +2,7 @@
 > [!infobox|wikipedia right n-th t-w txt-c]
 > ![[race_1_1.jpg||wsmall]]
 >> [!info|bg-green c-green ] Picture Description
->##### Race Name
+>##### Yishizo
 > ##### _Location_
 > | Type | Location |
 > | ---- | ---- |
@@ -12,7 +12,10 @@
 > ##### _Stats_
 > | Stat | Value |
 > | ---- | ----|
-> | Stat 1 | zero |
+> | Heft | 0 |
+> | Grace | 0|
+> | Ingenuity |0 |
+> | Empathy |0 |
 
 *Return to parent page: [[Races]]*
 

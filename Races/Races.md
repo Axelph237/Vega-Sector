@@ -4,7 +4,7 @@
 ## List of Races
 | Name   | Overview | Etc. |
 | ------ | -------- | ---- |
-| Item 1 |          |      |
+| [[Yishizo]] |          |      |
 | Item 2 |          |      |
 | Item 3 |          |      |
 | Item 4 |          |      |

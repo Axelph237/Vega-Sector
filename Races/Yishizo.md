@@ -19,7 +19,7 @@
 
 *Return to parent page: [[Races]]*
 
-The Yishizo are descendants of a  lost group of forerunners from Earth. During the first manned exploration of the Vega Sector, outposts on Earth suddenly lost connection to the Olympia
+
 
 >[!quote|author] Famous Figurehead <br>Figurehead description
 > _Race standard quote_
@@ -56,4 +56,4 @@ _Brief description_
 > Brief description
 
 # History
-Augue eget arcu dictum varius duis at. Id eu nisl nunc mi. Aliquet enim tortor at auctor urna nunc id. Volutpat maecenas volutpat blandit aliquam etiam erat velit. Et magnis dis parturient montes nascetur ridiculus mus. Nunc sed id semper risus in hendrerit. Dictum varius duis at consectetur lorem donec massa sapien faucibus. In nibh mauris cursus mattis molestie a. Risus pretium quam vulputate dignissim suspendisse in. Mauris sit amet massa vitae tortor.
+The Yishizo are descendants of a lost group of forerunners from Earth. During the Olympia mission (the first manned exploration of the Vega Sector), the U.S.C. lost control with all 12 members aboard. This, likely caused by an unexpected increase of charged particles in the system, made all communication void. Left without any other option, the team 

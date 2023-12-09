@@ -95,6 +95,12 @@
 				- They then sit on the web and shine, their glow reflected by the crystals
 				- This simulates the same glow of the hanging fruit of the berries
 				- Their main source of food are the geckos
+			- Worm species that hides near geothermal vents
+				- In contest with the ants
+				- secretes a tar like substance
+				- The tar coalesces onto debris dug by the worms
+				- This creates a multitude of spikes attached to the worms
+				- Like a porcupine, they can launch these spikes
 	- Volcano
 	- Ocean
 		- Counter shading

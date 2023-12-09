@@ -13,13 +13,16 @@
 - Biomes
 	- Desert
 	- Forest
-	- Lush Forest
+	- Lush Forest [Color Palette](https://colorhunt.co/palette/f6e3c5a0d9956cc4a14cacbc)
 		- Extreme verticality and cliffsides
 		- Large, green trees
 		- Wide rivers and lakes
 		- Small, reptilian creatures scutter across the ground
 		- Many small bird species live here
-		- Nocturnal predators lie camoflauged in the 
+		- Nocturnal predators lie camouflaged in the trees during the day
+			- These creatures, of a slick form, come out at night to hunt prey
+			- They will generally eat whatever seems possible to them
+		- 
 	- Hills [Color Palette](https://colorhunt.co/palette/fde5ecfcbaade48586916db3)
 		- Covered in vast fields of a light purple grass
 		- The grass sparkles at the blinking of stars in the night
@@ -31,7 +34,7 @@
 			- These creatures make a migration their whole lives from one end of the fields to the other, birthing their young near the ocean
 			- The ability of plants to grow on their porous exoskeletons allows the plants to spread their seeds further
 			- The plants also attract prey, allowing the arachne to idly hunt approaching food
-	- Swamp
+	- Swamp [Color Palette](https://colorhunt.co/palette/eac696c8ae7d76582765451f)
 		- inconsistent depth, muddy waters fill this biome
 		- Small shrubbery, but few trees
 		- Below the surface are large underwater creatures
@@ -45,5 +48,6 @@
 			- These boars are the prey of the monkey-like creatures
 			- These are vegetarians, despite their huge teeth
 			- The monkeys use the shallow waters to evade herds of the boars
+		- Tectonic shifts agitate the waters, sometimes angering the larger worms and drawing them to the surface of the water
 	- Tundra
 	- Beach

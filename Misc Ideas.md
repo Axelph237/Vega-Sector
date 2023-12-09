@@ -12,7 +12,13 @@
 
 - Biomes
 	- Desert
-	- Forest
+	- Forest [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
+		- Bushy trees
+		- Large fields of grass
+		- High levels of sunlight
+		- Peaceful ambiance
+		- A creature that resembles an inviting species (from wherever you are native)
+			- 
 	- Lush Forest [Color Palette](https://colorhunt.co/palette/f6e3c5a0d9956cc4a14cacbc)
 		- Extreme verticality and cliffsides
 		- Large, green trees
@@ -22,7 +28,8 @@
 		- Nocturnal predators lie camouflaged in the trees during the day
 			- These creatures, of a slick form, come out at night to hunt prey
 			- They will generally eat whatever seems possible to them
-		- 
+		- Some insects have eyes across their back abdomen
+			- This allows them to crawl along trees and look out into the grottos
 	- Hills [Color Palette](https://colorhunt.co/palette/fde5ecfcbaade48586916db3)
 		- Covered in vast fields of a light purple grass
 		- The grass sparkles at the blinking of stars in the night

@@ -18,9 +18,12 @@
 		- after it had dried up, the residual sand is a mix of black and white
 		- Due to tectonic shifts, the larger quartz pebbles are sifted from the darker sands creating streams of white and black pebbles across the desert
 		- Photosynthesizing animals
-			- Lizard with a coat of scales that reflect and absorb light for energy
+			- Big lizard with a coat of scales that reflect and absorb light for energy
+				- This makes them a great mode of transportation due to their passive mode of energizing
 			- Insects with transparent wings that refract sunlight, creating a dazzling display as they skim over the sand. Their bodies are equipped with crystalline structures that allow them to convert sunlight into energy.
+				- Maybe also potentially rideable 👀
 		- Birds with reflective feathers that use the shimmering of the light to communicate
+			- Feast on a plant that extracts minerals from the quartz. They use these minerals to produce their reflective sheen
 	- Forest [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
 		- Bushy trees
 		- Large fields of grass
@@ -72,6 +75,10 @@
 	- Tundra
 	- Beach
 	- Underground
+		- Larger interconnected tunnels created by a civilization past
+		- Tunnels were made by the taming of some large subterranean creature
+		- These creatures are now extinct and the civilization gone
+		- But ruins remain
 	- Volcano
 	- Ocean
 		- Counter shading

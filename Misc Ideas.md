@@ -82,6 +82,7 @@
 		- Current creatures: 
 			- Enormous moth-like insects with long proboscises that can tap into underground reservoirs to extract water. Their iridescent wings filter and refract the ambient light, providing an otherworldly spectacle. `GPT`
 			- Giant ants that cultivate fungi around geothermal vents, using the heat to stimulate the growth of luminescent mushrooms. They have a complex caste system and navigate through the tunnels with exceptional teamwork. `GPT`
+			- Squid polyp like creature that feeds off of toxic gasses in the air. They are indications of toxic environments.
 			- 
 	- Volcano
 	- Ocean

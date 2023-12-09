@@ -19,6 +19,8 @@
 		- The grass sparkles at the blinking of stars in the night
 		- Adorned with a variety of saturated orange and white flowers
 		- Hilly terrain with a variety of streams running along it
-		- 
+		- Mostly maintains prey vegetarians
+		- Some flying creatures make migrations across the fields during the day
+		- A species of massive arachnae creatures roam the fields
 	- Tundra
 	- Beach

@@ -17,6 +17,8 @@
 		- The volcanic rock was eroded by an ocean that was once there
 		- after it had dried up, the residual sand is a mix of black and white
 		- Due to tectonic shifts, the larger quartz pebbles are sifted from the darker sands creating streams of white and black pebbles across the desert
+		- Photosynthesizing animals
+			- Lizard with a coat of scales that reflect and absorb light for energy
 		- 
 	- Forest [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
 		- Bushy trees

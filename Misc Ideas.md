@@ -29,6 +29,13 @@
 		- inconsistent depth, muddy waters fill this biome
 		- Small shrubbery, but few trees
 		- Below the surface are large underwater creatures
-			- Person size carnivour
+			- Person size carnivorous worms in the deeper areas
+			- Amphibious monkey-like creatures in the shallower areas
+		- At night, flocks of firefly-like insects fill the air
+			- The lights signal a rare species of flower to bloom
+			- The fireflies nest within the blooms of the flower, laying their eggs
+			- When the parent dies, its body is used as a host to grow a new flower where it fell
+		- Hippo-like boars roam the surface areas of the swamp
+			- These boars a
 	- Tundra
 	- Beach

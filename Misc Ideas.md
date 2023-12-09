@@ -19,7 +19,7 @@
 		- Due to tectonic shifts, the larger quartz pebbles are sifted from the darker sands creating streams of white and black pebbles across the desert
 		- Photosynthesizing animals
 			- Lizard with a coat of scales that reflect and absorb light for energy
-		- 
+		- Birds with reflective feathers that use the shimmering of the light to 
 	- Forest [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
 		- Bushy trees
 		- Large fields of grass

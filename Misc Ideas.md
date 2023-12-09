@@ -12,7 +12,9 @@
 
 - Biomes
 	- Desert [Color Palette](https://colorhunt.co/palette/352f445c5470b9b4c7faf0e6)
-		- Largely covered 
+		- Largely covered in a sand made from volcanic rock
+			- Combination darker rocks and quartz
+		- The volcanic rock was eroded 
 	- Forest [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
 		- Bushy trees
 		- Large fields of grass

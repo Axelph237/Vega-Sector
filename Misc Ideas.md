@@ -72,8 +72,6 @@
 			- These are vegetarians, despite their huge teeth
 			- The monkeys use the shallow waters to evade herds of the boars
 		- Tectonic shifts agitate the waters, sometimes angering the larger worms and drawing them to the surface of the water
-	- Tundra
-	- Beach
 	- Underground
 		- Larger interconnected tunnels created by a civilization past
 		- Tunnels were made by the taming of some large subterranean creature
@@ -102,5 +100,7 @@
 				- This creates a multitude of spikes attached to the worms
 				- Like a porcupine, they can launch these spikes
 	- Volcano
+	- Tundra
+	- Beach
 	- Ocean
 		- Counter shading

@@ -24,17 +24,17 @@
 				- Maybe also potentially rideable 👀
 		- Birds with reflective feathers that use the shimmering of the light to communicate
 			- Feast on a plant that extracts minerals from the quartz. They use these minerals to produce their reflective sheen
-	- Forest [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
-		- Bushy trees
-		- Large fields of grass
-		- High levels of sunlight
+	- Silent Forest (variant)
 		- Peaceful ambiance
 		- A creature that resembles an inviting species (from wherever you are native)
 			- No one knows what it truly looks like
 			- But no one survives a close proximity encounter with it
 			- Due to this, the forest is largely silent aside from these creatures
 			- Although not carnivorous, they are highly territorial, leading to the aggressive nature
+			- These creatures are nomadic
 		- The forests are... oddly silent
+	- Forest  [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
+		- 
 	- Lush Forest [Color Palette](https://colorhunt.co/palette/f6e3c5a0d9956cc4a14cacbc)
 		- Extreme verticality and cliffsides
 		- Large, green trees
@@ -79,6 +79,9 @@
 		- Tunnels were made by the taming of some large subterranean creature
 		- These creatures are now extinct and the civilization gone
 		- But ruins remain
+		- Current creatures: 
+			- Enormous moth-like insects with long proboscises that can tap into underground reservoirs to extract water. Their iridescent wings filter and refract the ambient light, providing an otherworldly spectacle.
+			- Giant ants that cultivate fungi around geothermal vents, using the heat to stimulate the growth of luminescent mushrooms. They have a complex caste system and navigate through the tunnels with exceptional teamwork.
 	- Volcano
 	- Ocean
 		- Counter shading

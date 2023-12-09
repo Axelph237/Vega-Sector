@@ -6,8 +6,4 @@ Grace
 Ingenuity
 Empathy
 
-> [!callout|red] Callout
-> Test callout
-
-
 

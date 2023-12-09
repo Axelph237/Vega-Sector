@@ -9,3 +9,7 @@
 	- Diurnal animals have lots of passive self defense mechanics to avoid said predators
 	- Plants that can store electric charge from lightning strikes (voltflare bush)
 		- These plants act like lightning rods
+
+> [!callout|255,0,0] Callout
+> Test callout
+

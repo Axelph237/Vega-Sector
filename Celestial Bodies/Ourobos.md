@@ -32,7 +32,7 @@ Due to high electric charge within the system, weather conditions are extreme, w
 
 ### Biomes
 
-> [!biome|c-blue]+ Plains
+> [!biome]+ Plains
 
 > [!biome]+ Forest
 

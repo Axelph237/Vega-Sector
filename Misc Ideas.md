@@ -15,5 +15,7 @@
 	- Forest
 	- Lush Forest
 	- Plains
+		- Covered in vast fields of a light blue grass
+		- 
 	- Tundra
 	- Beach

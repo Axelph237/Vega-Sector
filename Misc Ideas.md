@@ -14,6 +14,12 @@
 	- Desert
 	- Forest
 	- Lush Forest
+		- Extreme verticality and cliffsides
+		- Large, green trees
+		- Wide rivers and lakes
+		- Small, reptilian creatures scutter across the ground
+		- Many small bird species live here
+		- Nocturnal predators lie camoflauged in the 
 	- Hills [Color Palette](https://colorhunt.co/palette/fde5ecfcbaade48586916db3)
 		- Covered in vast fields of a light purple grass
 		- The grass sparkles at the blinking of stars in the night
@@ -36,6 +42,8 @@
 			- The fireflies nest within the blooms of the flower, laying their eggs
 			- When the parent dies, its body is used as a host to grow a new flower where it fell
 		- Hippo-like boars roam the surface areas of the swamp
-			- These boars a
+			- These boars are the prey of the monkey-like creatures
+			- These are vegetarians, despite their huge teeth
+			- The monkeys use the shallow waters to evade herds of the boars
 	- Tundra
 	- Beach

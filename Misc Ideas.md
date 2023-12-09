@@ -14,9 +14,10 @@
 	- Desert
 	- Forest
 	- Lush Forest
-	- Plains
-		- Covered in vast fields of a light blue grass
-		- Adorned with a variety of white flowers and flora
+	- Hills
+		- Covered in vast fields of a light purple grass
+		- Adorned with a variety of saturated orange and white flowers
+		- Hilly terrain with a variety of streams running along it
 		- 
 	- Tundra
 	- Beach

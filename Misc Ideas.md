@@ -18,7 +18,11 @@
 		- High levels of sunlight
 		- Peaceful ambiance
 		- A creature that resembles an inviting species (from wherever you are native)
-			- 
+			- No one knows what it truly looks like
+			- But no one survives a close proximity encounter with it
+			- Due to this, the forest is largely silent aside from these creatures
+			- Although not carnivorous, they are highly territorial, leading to the aggressive nature
+		- The forests are... oddly silent
 	- Lush Forest [Color Palette](https://colorhunt.co/palette/f6e3c5a0d9956cc4a14cacbc)
 		- Extreme verticality and cliffsides
 		- Large, green trees

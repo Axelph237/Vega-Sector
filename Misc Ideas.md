@@ -14,7 +14,10 @@
 	- Desert [Color Palette](https://colorhunt.co/palette/352f445c5470b9b4c7faf0e6)
 		- Largely covered in a sand made from volcanic rock
 			- Combination darker rocks and quartz
-		- The volcanic rock was eroded 
+		- The volcanic rock was eroded by an ocean that was once there
+		- after it had dried up, the residual sand is a mix of black and white
+		- Due to tectonic shifts, the larger quartz pebbles are sifted from the darker sands creating streams of white and black pebbles across the desert
+		- 
 	- Forest [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
 		- Bushy trees
 		- Large fields of grass
@@ -67,3 +70,5 @@
 	- Beach
 	- Underground
 	- Volcano
+	- Ocean
+		- Counter shading

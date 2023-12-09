@@ -21,6 +21,10 @@
 		- Hilly terrain with a variety of streams running along it
 		- Mostly maintains prey vegetarians
 		- Some flying creatures make migrations across the fields during the day
-		- A species of massive arachnae creatures roam the fields
+		- A species of massive arachne creatures roam the fields, covered in the flora of the plains
+			- These creatures make a migration their whole lives from one end of the fields to the other, birthing their young near the ocean
+			- The ability of plants to grow on their porous exoskeletons allows the plants to spread their seeds further
+			- The plants also attract prey, allowing the arachne to idly hunt approaching food
+		- 
 	- Tundra
 	- Beach

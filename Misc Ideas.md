@@ -15,7 +15,8 @@
 	- Forest
 	- Lush Forest
 	- Plains
-		- Covered in vast fields of a lavendar like 
+		- Covered in vast fields of a light blue grass
+		- Adorned with a variety of white flowers and flora
 		- 
 	- Tundra
 	- Beach

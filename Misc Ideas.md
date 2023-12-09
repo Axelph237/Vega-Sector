@@ -26,6 +26,9 @@
 			- The ability of plants to grow on their porous exoskeletons allows the plants to spread their seeds further
 			- The plants also attract prey, allowing the arachne to idly hunt approaching food
 	- Swamp
-		- 
+		- inconsistent depth, muddy waters fill this biome
+		- Small shrubbery, but few trees
+		- Below the surface are large underwater creatures
+			- Person size carnivour
 	- Tundra
 	- Beach

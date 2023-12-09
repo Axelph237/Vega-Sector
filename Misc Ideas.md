@@ -83,7 +83,13 @@
 			- Enormous moth-like insects with long proboscises that can tap into underground reservoirs to extract water. Their iridescent wings filter and refract the ambient light, providing an otherworldly spectacle. `GPT`
 			- Giant ants that cultivate fungi around geothermal vents, using the heat to stimulate the growth of luminescent mushrooms. They have a complex caste system and navigate through the tunnels with exceptional teamwork. `GPT`
 			- Squid polyp like creature that feeds off of toxic gasses in the air. They are indications of toxic environments.
-			- 
+			- Glass skinned gecco that eats the fruit of a cave roof hanging plant
+				- the plant is propagated underground and grows upwards
+				- It breaks through the surface
+				- Its fruit is bioluminescent (think glowberries)
+			- Large, bioluminescent centepedes
+				- Create massive, intricate mosaic webs
+				- They use crystals harvested by their 
 	- Volcano
 	- Ocean
 		- Counter shading

@@ -14,8 +14,9 @@
 	- Desert
 	- Forest
 	- Lush Forest
-	- Hills
+	- Hills [Color Palette](https://colorhunt.co/palette/fde5ecfcbaade48586916db3)
 		- Covered in vast fields of a light purple grass
+		- The grass glows faintly in the night to attract creatures.
 		- Adorned with a variety of saturated orange and white flowers
 		- Hilly terrain with a variety of streams running along it
 		- 

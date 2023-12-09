@@ -25,6 +25,7 @@
 			- These creatures make a migration their whole lives from one end of the fields to the other, birthing their young near the ocean
 			- The ability of plants to grow on their porous exoskeletons allows the plants to spread their seeds further
 			- The plants also attract prey, allowing the arachne to idly hunt approaching food
+	- Swamp
 		- 
 	- Tundra
 	- Beach

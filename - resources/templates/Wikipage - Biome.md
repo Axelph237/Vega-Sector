@@ -14,24 +14,8 @@
 
 ## Description
 
-### Phenomena
+## Notable Inhabitants
 
-## Locations
+### Fauna
 
-### Biomes
-
-> [!biome]+ Biome 1
-
-> [!biome]+ Biome 2
-
-### Settlements
-
-> [!location]+ Location 1
-
-> [!location]+ Location 1
-
-## History
-
-## Inhabitants
-
-### Flora & Fauna
+### Flora

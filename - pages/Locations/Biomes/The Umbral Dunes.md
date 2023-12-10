@@ -1,12 +1,12 @@
 ![[banner_2.jpg|p+tcc banner+small]]
-> [!infobox|wikipedia right n-th t-w txt-c]
+> [!infobox|wikipedia right n-th t-w txt-c wsmall]
 > ![[desert_1.jpg|wsmall]]
 >> [!info|bg-green c-green ] A bad image (no good one)
->##### Biome Name
-> ##### _Basic Information_
+>##### Umbral Dunes
+> ##### _Basic Info_
 > | Info | Description |
 > | ---- | ---- |
-> | Inhabitants |  |
+> | Inhabitants | Onyx Skink, Shimmer Bugs, Kitachi |
 
 *Return to parent page: [[Biomes]]*
 

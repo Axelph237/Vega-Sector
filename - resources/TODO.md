@@ -3,7 +3,8 @@ Pages:
 - [ ] Create plant template page
 - [ ] Create Silent Forest page
 - [ ] Create Onyx Skink page
-- [ ] Create 
+- [ ] Create Shimmer bugs page
+- [ ] Create Kitachi page
 
 Ideas:
 - [ ] Add info to standard Ourobos Forest ideas

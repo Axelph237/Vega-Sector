@@ -26,7 +26,7 @@ As the relentless sun beats down on this otherworldly landscape, photosynthesizi
 **Shimmer Bugs**
 Transparent-winged insects, the Shimmer Bugs, skim along the ground, refracting sunlight to create a dazzling display. Their bodies, adorned with crystalline structures, help them to attract the attention of Wandering Trees. These creatures, with their ethereal beauty and bright spectacle have made them a beauty for many travelling merchants to capitalize on.
 
-
-Above, birds with reflective feathers, aptly named Shimmerwings, soar through the sky. Their dazzling plumage is not just for show; it serves as a means of communication through the shimmering of light. These birds feast on a unique plant, the Quartzula Bloom, which extracts minerals from the quartz-rich soil. The minerals contribute to the reflective sheen of the birds' feathers and play a crucial role in the delicate balance of this extraordinary desert ecosystem.`GPT`
+**Kitachi**
+Above, birds with reflective feathers, Kitachi, soar through the sky. Their dazzling plumage is not just for show; it serves as a means of communication through the shimmering of light. These birds feast on a unique plant, the Evening Bloom, which extracts minerals from the quartz-rich soil. These same minerals contribute to the reflective sheen of the birds' feathers and play a crucial role in the delicate balance of this extraordinary creature's display. Oftentimes, a Kitachi will intentionally starve before consuming the same colored Evening Bloom twice in a row. Be this a thing of pride or of necessity is unknown.
 
 ### Flora

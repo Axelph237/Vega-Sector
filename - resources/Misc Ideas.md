@@ -87,10 +87,11 @@
 				- the plant is propagated underground and grows upwards
 				- It breaks through the surface
 				- Its fruit is bioluminescent (think glowberries)
+				- when well lit due to the consumption of fruit, will seek out other well lit geckos to mate
 			- Large, bioluminescent centipedes
 				- Create massive, intricate mosaic webs
 				- They use crystals harvested by their large mandibles and hang them on the web
-				- They then sit on the web and shine, their glow reflected by the crystals
+				- They then sit on the web and shine with a bioluminescence, their glow reflected by the crystals
 				- This simulates the same glow of the hanging fruit of the berries
 				- Their main source of food are the geckos
 			- Worm species that hides near geothermal vents

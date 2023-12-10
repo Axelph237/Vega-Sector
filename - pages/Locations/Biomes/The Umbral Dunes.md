@@ -23,8 +23,9 @@ In the Umbral Dunes, every glint and glimmer tells a story of geological epochs,
 **Onyx Skink**
 As the relentless sun beats down on this otherworldly landscape, photosynthesizing animals thrive in unexpected forms. A giant lizard, known as the Onyx Skink, roams the expanse with scales that reflect and absorb light, serving as both camouflage and a sustainable energy source. The lizard has been domesticated into a beast of transportation through the hot desert.
 
-**Crystal Beetles**
-Transparent-winged insects, the Crystalline Gliders, skim along the ground, refracting sunlight to create a dazzling display. Their bodies, adorned with crystalline structures, not only contribute to their visual spectacle but also allow them to convert sunlight into energy. These creatures, with their ethereal beauty, have even become potential companions for daring desert travelers.`GPT`
+**Shimmer Bugs**
+Transparent-winged insects, the Shimmer Bugs, skim along the ground, refracting sunlight to create a dazzling display. Their bodies, adorned with crystalline structures, help them to attract the attention of Wandering Trees. These creatures, with their ethereal beauty and bright spectacle have made them a beauty for many travelling merchants to capitalize on.
+
 
 Above, birds with reflective feathers, aptly named Shimmerwings, soar through the sky. Their dazzling plumage is not just for show; it serves as a means of communication through the shimmering of light. These birds feast on a unique plant, the Quartzula Bloom, which extracts minerals from the quartz-rich soil. The minerals contribute to the reflective sheen of the birds' feathers and play a crucial role in the delicate balance of this extraordinary desert ecosystem.`GPT`
 

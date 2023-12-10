@@ -100,6 +100,7 @@
 				- This creates a multitude of spikes attached to the worms
 				- Like a porcupine, they can launch these spikes
 	- Volcano
+	- Heath
 	- Tundra
 	- Beach
 	- Ocean

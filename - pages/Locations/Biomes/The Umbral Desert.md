@@ -1,7 +1,7 @@
 ![[banner_2.jpg|p+tcc banner+small]]
 > [!infobox|wikipedia right n-th t-w txt-c]
-> ![[ourobos_1.jpg|wsmall]]
->> [!info|bg-green c-green ] Picture description
+> ![[desert_1.jpg|wsmall]]
+>> [!info|bg-green c-green ] A bad image (no good one)
 >##### Biome Name
 > ##### _Basic Information_
 > | Info | Description |

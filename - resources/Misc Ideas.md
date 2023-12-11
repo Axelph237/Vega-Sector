@@ -1,5 +1,6 @@
 > Jot anything and everything that comes to mind here
 
+# Ourobos
 - Ourobos 
 	- Gravity is higher at night than in day
 		- This implies that fauna utilizes low gravity during the day, also there might be rocks and structures that float around making some places very dangerous in terms of collision, places with high density of flora are ironically safer because rocks are "tied down"
@@ -107,3 +108,5 @@
 	- Beach
 	- Ocean
 		- Counter shading
+
+# Misc

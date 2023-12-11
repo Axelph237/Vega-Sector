@@ -2,7 +2,7 @@
 
 - Ourobos 
 	- Gravity is higher at night than in day
-	-- This implies that fauna utilizes low gravity during the day, also there might be rocks and structures that float around making some places very dangerous in terms of collision, places with high density of flora are ironically safer because rocks are "tied down"
+		- This implies that fauna utilizes low gravity during the day, also there might be rocks and structures that float around making some places very dangerous in terms of collision, places with high density of flora are ironically safer because rocks are "tied down"
 	- Has high plate tectonics
 	- Extreme weather conditions
 	- Animals are more active during the day

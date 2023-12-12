@@ -111,7 +111,7 @@
 
 # Combat
 
-Feel:
+**Feel:**
 - I want turns to go quickly as far as decision making goes
 - I want players to feel cool
 - I want players to have options
@@ -121,12 +121,18 @@ Feel:
 - I want positioning to matter
 - Guns should feel different from one another
 - I don't want combat to feel rigged or impossible
-	- Dice rolls should rarely be all or
+	- Dice rolls should rarely be all-or-nothing
+- **Dice rolls and systems should mimic the feel of using that weapon**
+	- i.e. rolling a 1d4 for a sniper rifle would be too light in correspondence
 
-Mechanics:
+**Mechanics:**
 - Will need to be action based in some manner
 	- I want actions to be expendable, not so heavy like in DND
 		- DND actions are very valuable because they are the bulk of your turn, so they are few and far between
-	- 
+
+**Guns:**
+
+Sniper
+- Rolls 1d12/6
 
 # Misc

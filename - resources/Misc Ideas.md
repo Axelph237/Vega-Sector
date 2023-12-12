@@ -154,7 +154,7 @@ Basic RPG:
 
 BACKGROUNDS
 
-Starting Statistics
+Starting Statistics at "Lvl 1"
 
 Heft: 2 Slots
 Grace: 2 Slots

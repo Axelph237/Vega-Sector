@@ -109,4 +109,24 @@
 	- Ocean
 		- Counter shading
 
+# Combat
+
+Feel:
+- I want turns to go quickly as far as decision making goes
+- I want players to feel cool
+- I want players to have options
+- I *really* want consumables to be worth using
+	- Maybe get rid of consumables for reusable items
+- I want players to feel like it is a shooter game
+- I want positioning to matter
+- Guns should feel different from one another
+- I don't want combat to feel rigged or impossible
+	- Dice rolls should rarely be all or
+
+Mechanics:
+- Will need to be action based in some manner
+	- I want actions to be expendable, not so heavy like in DND
+		- DND actions are very valuable because they are the bulk of your turn, so they are few and far between
+	- 
+
 # Misc

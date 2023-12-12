@@ -20,8 +20,6 @@ The Umbral Dunes are a wide expanse of hot, humid desert terrain. For days, the 
 
 Although initially rather dull, the Umbral Dunes are a "gold" mine for those looking to make money on their own. `Talk more on a valuable resource found here`
 
-Juxtaposing the rather dull and dark colors of the dunes are those of the wildlife that lives there. Often times standing out from the 
-
 In the Umbral Dunes, every glint and glimmer tells a story of geological epochs, the resilience of life, and the intricate dance of light across an ever-shifting canvas of black and white sands.`GPT`
 
 ## Notable Inhabitants

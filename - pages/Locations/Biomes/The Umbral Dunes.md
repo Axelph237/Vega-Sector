@@ -1,11 +1,13 @@
 ![[desert_1.jpg|p+tcc banner+small]]
-> [!infobox|wikipedia right n-th t-w txt-c wsmall]
+> [!infobox|wikipedia right n-th t-w txt-c w-med]
 > ![[desert_1.jpg|wsmall]]
 >> [!info|bg-green c-green ] A bad image (no good one)
 >##### Umbral Dunes
 > ##### _Basic Info_
 > | Info | Description |
 > | ---- | ---- |
+> | Temperature | Hot |
+> | Humidity | High |
 > | Inhabitants | Onyx Skink, Shimmer Bugs, Kitachi |
 
 *Return to parent page: [[Biomes]]*
@@ -14,7 +16,7 @@ Nestled beneath a vast expanse of open sky, the Umbral Dunes unfold in an enchan
 
 ## Description
 
-
+The Umbral Dunes are a wide expanse of hot, humid desert terrain. For
 
 In the Umbral Dunes, every glint and glimmer tells a story of geological epochs, the resilience of life, and the intricate dance of light across an ever-shifting canvas of black and white sands.`GPT`
 

@@ -6,6 +6,8 @@
 > ##### _Basic Info_
 > | Info | Description |
 > | ---- | ---- |
+> | Temperature | |
+> | Humidity | |
 > | Inhabitants |  |
 
 *Return to parent page: [[Biomes]]*

@@ -137,4 +137,10 @@ Basic Sniper
 - DMG: 1d20 / 2 + 10
 - *Straightpull (n)*: roll 1d4, on a (4-n)^ you don't need to cycle the bolt before your next shot.
 
+Basic Rifle:
+- HIT/DMG: 2 * Xd6; 4^; X ~ roll 1 dice at a time until three fails are achieved
+
+Basic SMG:
+- DMG: (1d8)d4
+
 # Misc

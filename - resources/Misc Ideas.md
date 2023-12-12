@@ -172,31 +172,31 @@ Freebooter
 
 PRIMARY
 
-Nomad: Pick Three get (+1)
-Security: Righteousness(+2), Determination(+1)
-Medical: Determination(+2), Influence(+1)
-Vehicles: Grace(+2), Determination(+1)
-Utilities: Influence(+2), Grace(+1)
-Military: Righteousness(+2), Grace(+1)
-Acquisitions: Grace(+2), Influence(+1)
-Freebooter: Pick One get (+3)
+Nomad: Pick Three get (+1 Slots)
+Security: Heft (+2 Slots), Ingenuity (+1 Slots)
+Medical: Ingenuity (+2 Slots), Empathy (+1 Slots)
+Vehicles: Grace (+2 Slots), Ingenuity (+1 Slots)
+Utilities: Empathy (+2 Slots), Grace (+1 Slots)
+Military: Heft (+2 Slots), Grace (+1 Slots)
+Acquisitions: Grace (+2 Slots), Empathy (+1 Slots)
+Freebooter: Pick One get (+3 Slots)
 
 SECONDARY
 
-Nomad: (+1) in any. 
-Security: Righteousness(+1), Grace(-1)
-Medical: Determination(+1), Righteousness(-1)
-Vehicles: Determination(+1), Influence(-1)  
-Utilities: Influence(+1), Righteousness(-1)
-Military: Righteousness(+1), Grace(+1), Determination(-2)
-Acquisitions: Grace(+1), Righteousness(-1)
-Freebooter:  Pick One get (+2) ALL others get (-1)
+Nomad: (+1 Slots) in any, (-2 Slots) in any other 
+Security: Heft (+1 Slots), Grace (-1 Slots)
+Medical: Ingenuity (+1 Slots), Heft (-1 Slots)
+Vehicles: Ingenuity (+1 Slots), Empathy (-1 Slots)  
+Utilities: Empathy (+1 Slots), Heft (-1 Slots)
+Military: Heft (+1 Slots), Grace (+1 Slots), Ingenuity (-2 Slots)
+Acquisitions: Grace (+1 Slots), Heft (-1 Slots)
+Freebooter: Pick One get (+2 Slots) ALL others get (-1 Slots) 
 
 Example:
 
-Orange Military Program
+Military/Military
 
-Grace: +2
-Righteousness: +3
-Influence: +0
-Determination: -2
+Grace: 4 Slots
+Heft: 5 Slots
+Ingenuity: 0 Slots
+Empathy: 2 Slots

@@ -153,48 +153,44 @@ Basic RPG:
 # Misc
 
 BACKGROUNDS
-GRID - the ttrpg
 
-Statistics
+Starting Statistics
 
-Grace: Dexterity
-Righteousness: Strength
-Influence: Charisma
-Determination: Willpower
+Heft: 2 Slots
+Grace: 2 Slots
+Ingenuity: 2 Slots
+Empathy: 2 Slots
 
-Colors
-
-White: Neutral/No Allegiance
-Blue: Security 
-Teal: Medical
-Green: Vehicle Operation/Transportation
-Purple: Utilities
-Orange: Military
-Yellow: Acquisitions
-Black/None: Outcast/No Allegiance/Monk
-Red: Rare, can be an aesthetic choice but is usually an uncontrollable change when a Program is under stress or in pain, suffering, or enraged/overloaded in some capacity. (Seek medical assistance if this change lasts a cycle or more.)
+Nomad
+Security 
+Medical
+Vehicle Operation/Transportation
+Utilities
+Military
+Acquisitions
+Freebooter
 
 PRIMARY
 
-Neutral: Pick Three get (+1)
+Nomad: Pick Three get (+1)
 Security: Righteousness(+2), Determination(+1)
 Medical: Determination(+2), Influence(+1)
 Vehicles: Grace(+2), Determination(+1)
 Utilities: Influence(+2), Grace(+1)
 Military: Righteousness(+2), Grace(+1)
 Acquisitions: Grace(+2), Influence(+1)
-Outcast/Monk: Pick One get (+3)
+Freebooter: Pick One get (+3)
 
 SECONDARY
 
-White: (+1) in any. 
-Blue: Righteousness(+1), Grace(-1)
-Teal: Determination(+1), Righteousness(-1)
-Green: Determination(+1), Influence(-1)  
-Purple: Influence(+1), Righteousness(-1)
-Orange: Righteousness(+1), Grace(+1), Determination(-2)
-Yellow: Grace(+1), Righteousness(-1)
-Black/None:  Pick One get (+2) ALL others get (-1)
+Nomad: (+1) in any. 
+Security: Righteousness(+1), Grace(-1)
+Medical: Determination(+1), Righteousness(-1)
+Vehicles: Determination(+1), Influence(-1)  
+Utilities: Influence(+1), Righteousness(-1)
+Military: Righteousness(+1), Grace(+1), Determination(-2)
+Acquisitions: Grace(+1), Righteousness(-1)
+Freebooter:  Pick One get (+2) ALL others get (-1)
 
 Example:
 

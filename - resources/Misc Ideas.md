@@ -151,3 +151,56 @@ Basic RPG:
 - *AOE*: hit enemy takes 3d12, adjacent take 2d12, near take 1d12
 
 # Misc
+
+BACKGROUNDS
+GRID - the ttrpg
+
+Statistics
+
+Grace: Dexterity
+Righteousness: Strength
+Influence: Charisma
+Determination: Willpower
+
+Colors
+
+White: Neutral/No Allegiance
+Blue: Security 
+Teal: Medical
+Green: Vehicle Operation/Transportation
+Purple: Utilities
+Orange: Military
+Yellow: Acquisitions
+Black/None: Outcast/No Allegiance/Monk
+Red: Rare, can be an aesthetic choice but is usually an uncontrollable change when a Program is under stress or in pain, suffering, or enraged/overloaded in some capacity. (Seek medical assistance if this change lasts a cycle or more.)
+
+PRIMARY
+
+Neutral: Pick Three get (+1)
+Security: Righteousness(+2), Determination(+1)
+Medical: Determination(+2), Influence(+1)
+Vehicles: Grace(+2), Determination(+1)
+Utilities: Influence(+2), Grace(+1)
+Military: Righteousness(+2), Grace(+1)
+Acquisitions: Grace(+2), Influence(+1)
+Outcast/Monk: Pick One get (+3)
+
+SECONDARY
+
+White: (+1) in any. 
+Blue: Righteousness(+1), Grace(-1)
+Teal: Determination(+1), Righteousness(-1)
+Green: Determination(+1), Influence(-1)  
+Purple: Influence(+1), Righteousness(-1)
+Orange: Righteousness(+1), Grace(+1), Determination(-2)
+Yellow: Grace(+1), Righteousness(-1)
+Black/None:  Pick One get (+2) ALL others get (-1)
+
+Example:
+
+Orange Military Program
+
+Grace: +2
+Righteousness: +3
+Influence: +0
+Determination: -2

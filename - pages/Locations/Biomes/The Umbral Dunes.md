@@ -14,6 +14,8 @@ Nestled beneath a vast expanse of open sky, the Umbral Dunes unfold in an enchan
 
 ## Description
 
+
+
 In the Umbral Dunes, every glint and glimmer tells a story of geological epochs, the resilience of life, and the intricate dance of light across an ever-shifting canvas of black and white sands.`GPT`
 
 ## Notable Inhabitants

@@ -149,4 +149,5 @@ Basic SMG:
 Basic RPG:
 - DMG: `^3d12`
 - *AOE*: hit enemy takes 3d12, adjacent take 2d12, near take 1d12
+
 # Misc

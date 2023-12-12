@@ -132,7 +132,9 @@
 
 **Guns:**
 
-Sniper
-- Rolls 1d12/6
+Basic Sniper
+- DMG: 1d20 / 2 + 10
+- *Straightpull (n)*: roll 1d4, on a (4-n)^ you don't need to cycle the bolt before your next shot.
+- **
 
 # Misc

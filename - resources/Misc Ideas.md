@@ -129,6 +129,10 @@
 - Will need to be action based in some manner
 	- I want actions to be expendable, not so heavy like in DND
 		- DND actions are very valuable because they are the bulk of your turn, so they are few and far between
+- Try to keep math simple. Maybe only addition
+	- If subtraction, make it minimal (digits 1-9)
+	- If multiplication, make it minimal (only halfing)
+	- Possibly no multiplication
 
 **Guns:**
 

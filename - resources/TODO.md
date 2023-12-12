@@ -6,7 +6,7 @@ Pages:
 - [ ] Create Onyx Skink page
 - [ ] Create Shimmer bugs page
 - [ ] Create Kitachi page
-- [ ] Stats + Backgrounds (Moebius has got this dont worry can modify later)
+- [x] Stats + Backgrounds (Moebius has got this dont worry can modify later)
 
 Ideas:
 - [ ] Add info to standard Ourobos Forest ideas

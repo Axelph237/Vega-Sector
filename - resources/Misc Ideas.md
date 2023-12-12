@@ -196,7 +196,21 @@ Example:
 
 Military/Military
 
-Grace: 4 Slots
 Heft: 5 Slots
+Grace: 4 Slots
 Ingenuity: 0 Slots
+Empathy: 2 Slots
+
+Security/Utilities
+
+Heft: 3 Slots
+Grace: 2 Slots
+Ingenuity: 3 Slots
+Empathy: 3 Slots
+
+Nomad/Freebooter
+
+Heft: 1 Slots
+Grace: 5 Slots
+Ingenuity: 2 Slots
 Empathy: 2 Slots

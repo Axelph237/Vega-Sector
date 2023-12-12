@@ -12,9 +12,9 @@
 
 Nestled beneath a vast expanse of open sky, the Umbral Dunes unfold in an enchanting display of black and white sands, a testament to the ancient interplay of volcanic forces and the ebb and flow of a long-lost ocean. The terrain, covered in a mesmerizing blend of basalt and quartz, is shaped by tectonic shifts that give rise to meandering streams of white and black pebbles, creating natural pathways through the shimmering desert.
 
-In the Umbral Dunes, every glint and glimmer tells a story of geological epochs, the resilience of life, and the intricate dance of light across an ever-shifting canvas of black and white sands.`GPT`
-
 ## Description
+
+In the Umbral Dunes, every glint and glimmer tells a story of geological epochs, the resilience of life, and the intricate dance of light across an ever-shifting canvas of black and white sands.`GPT`
 
 ## Notable Inhabitants
 

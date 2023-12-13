@@ -136,23 +136,18 @@
 
 **Guns:**
 
-Basic Sniper
-- HIT: `1d6; 4^`
-- DMG: `1d20 / 2 + 20`; only roll if HIT was successful
-- *Straightpull (n)*: roll `1d4`, on a `(4-n)^` you don't need to cycle the bolt before your next shot.
+Snipers:
+- 
 
-Basic Rifle:
-- DMG: `2 * Xd6`
-- *Semi Auto*:  X ~ roll 1 dice at a time until three fails (4^) are achieved. 
-- (Each `d6` rolled consumes 1 ammo)
+Rifles:
 
-Basic SMG:
-- DMG: `(1d8)d4`
-- (Each `d4` rolled consumes 1 ammo)
 
-Basic RPG:
-- DMG: `^3d12`
-- *AOE*: hit enemy takes 3d12, adjacent take 2d12, near take 1d12
+SMGs:
+
+
+RPGs:
+
+Overheat weapons:
 
 # Misc
 

@@ -5,5 +5,3 @@ Heft
 Grace
 Ingenuity
 Empathy
-
-

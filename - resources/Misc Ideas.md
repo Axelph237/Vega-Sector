@@ -135,23 +135,24 @@
 	- Possibly no multiplication
 
 **Guns:**
+- Will have different mechanics based on magazine type
+- Will also have a number of rounds they can shoot in a turn
 
-Snipers:
-- 
-
-Rifles:
-
-
-SMGs:
-
-
-RPGs:
-
-Overheat weapons:
+Magazine based:
+```
+Stats:
+- Fire Rate
+- Magazine Size
+- Handleability
+- Accuracy
+```
+- You have a dice pool equal to your `magazine size`
+- You also have a `fire rate` equaling the number of dice you can use in an action
+- Your handleability affects your movement, 
 
 # Misc
 
-BACKGROUNDS
+# BACKGROUNDS
 
 Starting Statistics at "Lvl 1"
 

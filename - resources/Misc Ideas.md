@@ -135,8 +135,15 @@
 	- Possibly no multiplication
 
 **Guns:**
+```
+Global Stats:
+- Handleability
+- Accuracy
+```
 - Will have different mechanics based on magazine type
 - Will also have a number of rounds they can shoot in a turn
+- Your `handleability` affects your movement, dodge, and draw speeds.
+- The accuracy of a weapon negatively affects enemy dodge chances
 
 Magazine based:
 ```
@@ -148,7 +155,6 @@ Stats:
 ```
 - You have a dice pool equal to your `magazine size`
 - You also have a `fire rate` equaling the number of dice you can use in an action
-- Your handleability affects your movement, 
 
 # Misc
 

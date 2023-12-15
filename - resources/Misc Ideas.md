@@ -138,12 +138,12 @@
 ```
 Global Stats:
 - Handleability
-- Accuracy
+- Stability
 ```
 - Will have different mechanics based on magazine type
 - Will also have a number of rounds they can shoot in a turn
 - Your `handleability` affects your movement, dodge, and draw speeds.
-- The `accuracy` of a weapon dictates the TN you roll under to hit
+- The `stability` of a weapon dictates the TN you roll under to hit
 
 Magazine based:
 ```

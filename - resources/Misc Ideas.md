@@ -160,7 +160,7 @@ Stats:
 
 # BACKGROUNDS
 
-Starting Statistics at "Lvl 1"
+**Starting Statistics at "Lvl 1"**
 
 Heft: 2 Slots
 Grace: 2 Slots
@@ -176,7 +176,7 @@ Military
 Acquisitions
 Freebooter
 
-PRIMARY
+**PRIMARY**
 
 Nomad: Pick Three get (+1 Slots)
 Security: Heft (+2 Slots), Ingenuity (+1 Slots)
@@ -187,7 +187,7 @@ Military: Heft (+2 Slots), Grace (+1 Slots)
 Acquisitions: Grace (+2 Slots), Empathy (+1 Slots)
 Freebooter: Pick One get (+3 Slots)
 
-SECONDARY
+**SECONDARY**
 
 Nomad: (+1 Slots) in any, (-2 Slots) in any other 
 Security: Heft (+1 Slots), Grace (-1 Slots)

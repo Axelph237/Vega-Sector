@@ -150,8 +150,6 @@ Magazine based:
 Stats:
 - Fire Rate
 - Magazine Size
-- Handleability
-- Accuracy
 ```
 - You have a dice pool equal to your `magazine size`
 - You also have a `fire rate` equaling the number of dice you can use in an action

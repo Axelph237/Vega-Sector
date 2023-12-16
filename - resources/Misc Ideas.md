@@ -218,3 +218,8 @@ Heft: 1 Slots
 Grace: 5 Slots
 Ingenuity: 2 Slots
 Empathy: 2 Slots
+
+# Gambling  Game
+
+- Needs to be able to be gambled on, but doesn't have to  just be a poker style game
+- Should be lightweight and easy to play/learn

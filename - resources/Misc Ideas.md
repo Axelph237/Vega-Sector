@@ -223,3 +223,22 @@ Empathy: 2 Slots
 
 - Needs to be able to be gambled on, but doesn't have to  just be a poker style game
 - Should be lightweight and easy to play/learn
+
+### The game would proceed as follows:
+- All face cards (Kings, Queens, Jacks, Aces) are removed from the deck
+- Every player is dealt 4 cards
+- They then bet on their likelihood of winning the hand (explained more later)
+- All players must call to the highest bet to stay in the game (otherwise they fold)
+- 2d6 is rolled, setting the Hand Number
+- Players then take turns starting with the player to the left of the dealer
+
+**Player Turns:**
+- May choose to challenge previous player (explained more later)
+- Draw one card
+- Place one card from their hand face down in front of themselves
+
+**Challenging:**
+When a player is challenged, they must reveal their face down cards. Total the face values of the cards in their stack. Cards whose face value matches the Hand Number are counted as 0. If their stack total surpasses the Hand Number, they are out of the game. Otherwise, the player who challenged them is out of the game.
+
+**Winning the hand:**
+A player wins the hand if they are the last player in the game, then taking the pot.

@@ -134,7 +134,9 @@
 	- If a player does not use all their actions one turn, they may use 1 more next turn (Take a Breath)
 - After cards are chosen, initiative is determined based on the highest initiative card played by someone
 - Players always have a base movement they get on their turn
-	- This movement *must* be taken 
+	- This movement *must* be taken during one of their committed actions
+		- This may do things like decrease accuracy
+	- They can commit a sprint action to gain double movement and an isolated movement action
 - Try to keep math simple. Maybe only addition
 	- If subtraction, make it minimal (digits 1-9)
 	- If multiplication, make it minimal (only halfing)

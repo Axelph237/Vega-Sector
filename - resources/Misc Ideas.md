@@ -154,6 +154,15 @@ Stats:
 - You have a dice pool equal to your `magazine size`
 - You also have a `fire rate` equaling the number of dice you can use in an action
 
+Overheating weapons:
+```
+Stats:
+- Integrity
+- Power
+```
+- The dice you roll is equal to your `power`
+- Your ``
+
 # Misc
 
 # BACKGROUNDS

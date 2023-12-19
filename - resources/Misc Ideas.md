@@ -148,10 +148,12 @@ Global Stats:
 Magazine based:
 ```
 Stats:
-- Fire Rate
 - Magazine Size
+- Calibre
+- Fire Rate
 ```
 - You have a dice pool equal to your `magazine size`
+- You have a `calibre` equaling the dice size rolled
 - You also have a `fire rate` equaling the number of dice you can use in an action
 - When a player chooses to fire, they determine a number of shots less than or equal to their `fire rate`
 	- After firing, these dice are removed from their magazine
@@ -160,8 +162,8 @@ Stats:
 Overheating weapons:
 ```
 Stats:
-- Integrity
 - Power
+- Integrity
 ```
 - The dice you roll is equal to your `power`
 - Your `integrity` is the overheating threshold

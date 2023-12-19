@@ -130,7 +130,11 @@
 	- I want actions to be expendable, not so heavy like in DND
 		- DND actions are very valuable because they are the bulk of your turn, so they are few and far between
 	- A player gets X actions per turn
-	- Every turn they choose cards from their hand totaling t
+	- Every turn they choose cards from their hand up to their action count
+	- If a player does not use all their actions one turn, they may use 1 more next turn (Take a Breath)
+- After cards are chosen, initiative is determined based on the highest initiative card played by someone
+- Players always have a base movement they get on their turn
+	- This movement *must* be taken 
 - Try to keep math simple. Maybe only addition
 	- If subtraction, make it minimal (digits 1-9)
 	- If multiplication, make it minimal (only halfing)

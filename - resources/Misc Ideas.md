@@ -129,6 +129,8 @@
 - Will need to be action based in some manner
 	- I want actions to be expendable, not so heavy like in DND
 		- DND actions are very valuable because they are the bulk of your turn, so they are few and far between
+	- A player gets X actions per turn
+	- Every turn they choose cards from their hand totaling t
 - Try to keep math simple. Maybe only addition
 	- If subtraction, make it minimal (digits 1-9)
 	- If multiplication, make it minimal (only halfing)

@@ -153,6 +153,9 @@ Stats:
 ```
 - You have a dice pool equal to your `magazine size`
 - You also have a `fire rate` equaling the number of dice you can use in an action
+- When a player chooses to fire, they determine a number of shots less than or equal to their `fire rate`
+	- After firing, these dice are removed from their magazine
+	- If magazine is empty, a reload must be made before shooting again
 
 Overheating weapons:
 ```
@@ -161,7 +164,12 @@ Stats:
 - Power
 ```
 - The dice you roll is equal to your `power`
-- Your ``
+- Your `integrity` is the overheating threshold
+- A player rolls `power` dice until they choose to stop or exceed their `integrity`
+	- They deal damage equal to the dice rolled
+	- If they exceed, they take damage and then must wait for their gun to cool down
+
+
 
 # Misc
 

@@ -1,4 +1,4 @@
-![[banner_1.jpg|p+tcc banner+small]]
+![[banner_2.jpg|p+tcc banner+small]]
 # Specialization
 
 Heft

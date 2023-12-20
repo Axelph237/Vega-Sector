@@ -11,5 +11,15 @@ All characters are first defined by a set of four attributes. These four attribu
 These attributes are largely determined by a character's backgrounds. The player's first job is to choose 2 backgrounds for their character. They first choose a primary background, then a secondary background.
 
 ### Primary Backgrounds
+| Background   | Heft | Grace | Ingenuity | Empathy | Other            |
+| ------------ | ---- | ----- | --------- | ------- | ---------------- |
+| Nomad        |      |       |           |         | Pick 3 for +1 |
+| Security     | +2    |       | +1         |         |                  |
+| Medical      |      |       | +2         | +1       |                  |
+| Vehicles     |      | +2     | +1         |         |                  |
+| Utilities    |      | +1     |           | +2       |                  |
+| Military     | +2    | +1     |           |         |                  |
+| Acquisitions |      | +2     |           | +1       |                  |
+| Freebooter   |      |       |           |         | Pick 1 for +3                 |
 
 ### Secondary Backgrounds

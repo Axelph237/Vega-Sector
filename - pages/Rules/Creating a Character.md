@@ -8,8 +8,25 @@ All characters are first defined by a set of four attributes. These four attribu
 - `Empathy`: How friendly and how capable a character is of understanding emotions
 
 ## Backgrounds
-These attributes are largely determined by a character's backgrounds. The player's first job is to choose 2 backgrounds for their character. They first choose a primary background, then a secondary background. A player starts with +2 in all 4 attributes.
+These attributes are largely determined by a character's backgrounds. The player's first job is to choose 2 backgrounds for their character. They first choose a primary background, then a secondary background. A player starts with +2 in all 4 attributes. If a character were to ever have negative in an attribute, they must instead subtract that value from another attribute of their choice.
 
+> [!infobox|right n-th t-w txt-c wsmall]
+> ## **Example Character Stats**
+> ## *Security / Utilities*
+> | Attribute | Value |
+> | --- | --- | 
+> | Heft | 3 |
+> | Grace | 2 |
+> | Ingenuity | 3 |
+> | Empathy | 3 |
+> 
+> ## *Military / Military*
+> | Attribute | Value |
+> | --- | --- | 
+> | Heft | 5 |
+> | Grace | 4 |
+> | Ingenuity | 0 |
+> | Empathy | 2 |
 ### Primary Backgrounds
 | Background   | Heft | Grace | Ingenuity | Empathy | Other            |
 | ------------ | ---- | ----- | --------- | ------- | ---------------- |
@@ -34,14 +51,6 @@ These attributes are largely determined by a character's backgrounds. The player
 | Acquisitions | -1   | +1    |           |         |                            |
 | Freebooter   |      |       |           |         | Pick 1 for +2; all others get -1                           |
 
-> [!infobox|right n-th t-w txt-c wsmall]
-> ## **Example Character Stats**
-> ### *Security / Utilities*
-> | Attribute | Value |
-> | --- | --- | 
-> | Heft | 3 |
-> | Grace | 2 |
-> | Ingenuity | 3 |
-> | Empathy | 3 |
+
 
 

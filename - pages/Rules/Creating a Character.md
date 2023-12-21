@@ -33,3 +33,4 @@ These attributes are largely determined by a character's backgrounds. The player
 | Military     | +1   | +1    | -2        |         |                            |
 | Acquisitions | -1   | +1    |           |         |                            |
 | Freebooter   |      |       |           |         | Pick 1 for +2; all others get -1                           |
+

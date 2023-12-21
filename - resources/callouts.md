@@ -39,4 +39,3 @@ Here is an example of how to format callouts you've added:
 > Copy Button: no
 > Icon: home-fill
 > Color: \#B58964
-

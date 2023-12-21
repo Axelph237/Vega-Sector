@@ -34,3 +34,14 @@ These attributes are largely determined by a character's backgrounds. The player
 | Acquisitions | -1   | +1    |           |         |                            |
 | Freebooter   |      |       |           |         | Pick 1 for +2; all others get -1                           |
 
+> [!infobox|right n-th t-w txt-c wsmall]
+> ## **Example Character Stats**
+> ### *Security / Utilities*
+> | Attribute | Value |
+> | --- | --- | 
+> | Heft | 3 |
+> | Grace | 2 |
+> | Ingenuity | 3 |
+> | Empathy | 3 |
+
+

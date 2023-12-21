@@ -12,7 +12,7 @@ These attributes are largely determined by a character's backgrounds. The player
 
 > [!infobox|right n-th t-w txt-c wsmall]
 > ## **Example Character Stats**
->  ![[robo_1.jpg|wsmall+hsmall]]
+>  ![[robo_1.jpg|profile+medium]]
 > ## *Security / Utilities*
 > | Attribute | Value |
 > | --- | --- | 

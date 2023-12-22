@@ -2,7 +2,7 @@
 
 # Core Rules
 
-## Character Creation
+## [[Creating a Character|Character Creation]]
 
 ## Skill Checks
 

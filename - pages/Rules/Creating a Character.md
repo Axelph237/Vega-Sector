@@ -52,6 +52,3 @@ These attributes are largely determined by a character's backgrounds. The player
 | Acquisitions | -1   | +1    |           |         |                            |
 | Freebooter   |      |       |           |         | Pick 1 for +2; all others get -1                           |
 
-
-
-

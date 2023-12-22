@@ -1,4 +1,9 @@
 Pages:
+- [ ] Work on Core Rules
+	- [ ] Skill checks
+	- [ ] Combat
+	- [ ] Leveling
+	- [ ] Map exploration
 - [ ] Finish Umbral Dunes page
 - [ ] Create creature template page
 - [ ] Create plant template page

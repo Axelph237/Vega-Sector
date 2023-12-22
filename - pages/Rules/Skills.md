@@ -12,9 +12,10 @@ These are things that a character is particularly good at. There are a variety o
 This kind of proficiency relates to any general ability a character is learning. Common proficiencies grant a roll modifier to any roll made pertaining to the proficiency. For example, a proficiency in lock picking would grant you a roll modifier when picking a analog lock, but would not grant you a modifier when hacking a digital lock.
 
 **Utility Proficiency**
-This version of proficiency functions more uniquely than a common proficiency.
+This version of proficiency functions more uniquely than a common proficiency. Utility proficiency is typically on a case-by-case basis. These grant some modifier to the tool they are related to. This typically means a roll modifier (making them similar to common proficiencies), but others can affect different stats when active.
 
 ### Actions
+These do not passively affect a character like proficiencies. Instead, an action skill allows a player to take new or improved actions during combat and occasionally narrative phases
 
 ## Gaining Skills
 Players can gain proficiencies during moments of rest. During this time, they can determine something that their character intends to learn and become proficient in. When a skill is gained, it is added to a character's skill deck. Skills in this deck are not active, and grant no effect. 

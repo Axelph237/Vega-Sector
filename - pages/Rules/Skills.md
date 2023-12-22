@@ -9,7 +9,10 @@ There are two primary kinds of skills, proficiencies and actions. Each of these 
 These are things that a character is particularly good at. There are a variety of different kinds of proficiencies, but most are common proficiencies.
 
 **Common Proficiency**
-This kind of proficiency relates to any general ability a character is learning. A common proficiency is determined by the player and is only gained if agreed upon by the dm. The only reason a dm should deny a player's request for a common proficiency is if their 
+This kind of proficiency relates to any general ability a character is learning. Common proficiencies grant a roll modifier to any roll made pertaining to the proficiency. For example, a proficiency in lock picking would grant you a roll modifier when picking a analog lock, but would not grant you a modifier when hacking a digital lock.
+
+**Utility Proficiency**
+This version of proficiency functions more uniquely than a common proficiency.
 
 ### Actions
 

@@ -53,3 +53,5 @@ These attributes are largely determined by a character's backgrounds. The player
 | Freebooter   |      |       |           |         | Pick 1 for +2; all others get -1                           |
 
 ## Starting Skills
+
+After creating a character, each player will create a skill of their choice, pertaining to something their character is good at. 

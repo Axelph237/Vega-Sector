@@ -1,10 +1,15 @@
 ![[banner_2.jpg|p+tcc banner+small]]
 
-Skills make up a bulk of a character's core progression. Each skill is assigned a parent [[Creating a Character#Attributes|attribute]], relating it to a broader category of skills. There are two primary kinds of skills, proficiencies and actions, both described in depth below. 
+Skills make up a bulk of a character's core progression. Each skill is assigned a parent [[Creating a Character#Attributes|attribute]], relating it to a broader category of skills. 
 
 ## Types of Skills
+There are two primary kinds of skills, proficiencies and actions. Each of these are considered skills for the sake of anything that refers to skills. However, each are distinct from each other.
 
 ### Proficiencies
+These are things that a character is particularly good at. There are a variety of different kinds of proficiencies, but most are common proficiencies.
+
+**Common Proficiency**
+This kind of proficiency relates to any general ability a character is learning. A common proficiency is determined by the player and is only gained if agreed upon by the dm. The only reason a dm should deny a player's request for a common proficiency is if their 
 
 ### Actions
 

@@ -7,6 +7,9 @@ All characters are first defined by a set of four attributes. These four attribu
 - `Ingenuity`: How smart, intelligent, or wise a character is
 - `Empathy`: How friendly and how capable a character is of understanding emotions
 
+## Slots
+A character's level in a given attribute is equivalent to its number of slots in that attribute. For example, a character who is level 4 in `Heft`
+
 ## Backgrounds
 These attributes are largely determined by a character's backgrounds. The player's first job is to choose 2 backgrounds for their character. They first choose a primary background, then a secondary background. A player starts with +2 in all 4 attributes. If a character were to ever have negative in an attribute, they must instead subtract that value from another attribute of their choice.
 

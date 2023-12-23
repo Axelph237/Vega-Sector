@@ -18,7 +18,7 @@ This version of proficiency functions more uniquely than a common proficiency. U
 These do not passively affect a character like proficiencies. Instead, an action skill allows a player to take new or improved actions during combat and occasionally narrative phases. They have an action point cost in addition to their effect and [[Creating a Character#Attributes|attribute]] type. 
 
 ## Gaining Skills
-When a skill is gained, it is added to a character's skill deck. Skills in this deck are not active and grant no effect. 
+When a skill is gained, it is added to a character's skill deck. Skills in this deck are not active and as such grant no effect. 
 
 **Common Proficiencies**
 Players can gain common proficiencies during moments of rest. During this time, they can determine something that their character intends to learn and become proficient in. If the Game Master agrees with the scope of the skill, the character may learn it. The player then fills out a blank skill card with the necessary information.
@@ -30,6 +30,8 @@ Utility proficiencies are gained during moments of rest. During this time, if th
 > [!todo] ADD HOW ACTIONS ARE GAINED
 
 ## Activating Skills
+During a moment of rest, players can choose to rearrange their active skills and skill deck. In order to move a skill from their skill deck to their active skills, they must have enough open slots of the corresponding 
+
 
 
 

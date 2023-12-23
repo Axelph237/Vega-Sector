@@ -1,0 +1,1 @@
+Often times throughout both narrative and combat moments, a Game Master will want 

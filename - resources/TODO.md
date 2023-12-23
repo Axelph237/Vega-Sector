@@ -1,5 +1,7 @@
 Pages:
 - [ ] Work on Core Rules
+	- [x] Character Creation
+	- [x] Skills
 	- [ ] Skill checks
 	- [ ] Combat
 	- [ ] Leveling

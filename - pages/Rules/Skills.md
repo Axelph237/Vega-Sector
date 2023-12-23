@@ -18,7 +18,7 @@ This version of proficiency functions more uniquely than a common proficiency. U
 These do not passively affect a character like proficiencies. Instead, an action skill allows a player to take new or improved actions during combat and occasionally narrative phases. They have an action point cost in addition to their effect and [[Creating a Character#Attributes|attribute]] type. 
 
 ## Gaining Skills
-When a skill is gained, it is added to a character's skill deck. Skills in this deck are not active and as such grant no effect. 
+When a skill is gained, it is added to a character's skill deck. Skills in this deck are inactive and as such grant no effect. 
 
 **Common Proficiencies**
 Players can gain common proficiencies during moments of rest. During this time, they can determine something that their character intends to learn and become proficient in. If the Game Master agrees with the scope of the skill, the character may learn it. The player then fills out a blank skill card with the necessary information.
@@ -32,8 +32,10 @@ Utility proficiencies are gained during moments of rest. During this time, if th
 ## Activating Skills
 During a moment of rest, players can choose to rearrange their active skills and skill deck. When a skill is moved from the skill deck to a player's active skills, all of its effects are now in play. In order to move a skill from their skill deck to their active skills, they must have enough open slots of the corresponding attribute. For instance, if a player has a skill in their skill deck that consumes 2 `Grace` slots, they must have at least 2 open slots in `Grace` to move it to their active skills. 
 
-## Leveling Skills
-After a skill has been gained, it can be learned. Learning a skill requires it currently be active. While a skill is being learned, any time its modifier is used a mark is added to its skill-card. Once a designated number of marks has been added, the skill promotes to the n
+## Improving Skills
+After a skill has been gained, it can be mastered. Mastering a skill requires it currently be active. While a skill is being mastered, any time it's used a mark (called an attempt) is added to its skill-card. Once a designated number of marks has been added, the skill promotes to the next tier. Higher tier skill cards give improved or new bonuses to players.
+
+In addition to mastering skills, players can spend money during times of rest for marks on active and inactive skills. The standard cost of an attempt is `INSERT ATTEMPT COST HERE`.
 
 
 

@@ -30,7 +30,7 @@ Utility proficiencies are gained during moments of rest. During this time, if th
 > [!todo] ADD HOW ACTIONS ARE GAINED
 
 ## Activating Skills
-During a moment of rest, players can choose to rearrange their active skills and skill deck. In order to move a skill from their skill deck to their active skills, they must have enough open slots of the corresponding 
+During a moment of rest, players can choose to rearrange their active skills and skill deck. In order to move a skill from their skill deck to their active skills, they must have enough open slots of the corresponding attribute. For instance, if a 
 
 
 

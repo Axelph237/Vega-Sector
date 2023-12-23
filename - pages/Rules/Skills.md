@@ -36,3 +36,4 @@ During a moment of rest, players can choose to rearrange their active skills and
 After a skill has been gained, it can be mastered. Mastering a skill requires it currently be active. While a skill is being mastered, any time it's used a mark (called an attempt) is added to its skill-card. Once a designated number of marks has been added, the skill promotes to the next tier. Higher tier skill cards give improved or new bonuses to players.
 
 In addition to mastering skills, players can spend money during times of rest for marks on active and inactive skills. The standard cost of an attempt is `INSERT ATTEMPT COST HERE`.
+

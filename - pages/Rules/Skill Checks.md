@@ -1,0 +1,1 @@
+During combat and narrative moments, a Game Master may want to ensure that a character is able to successfully complete a given task. This is the same as in any other Table Top RPG game. 

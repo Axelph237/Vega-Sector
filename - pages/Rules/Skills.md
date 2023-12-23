@@ -33,7 +33,7 @@ Utility proficiencies are gained during moments of rest. During this time, if th
 During a moment of rest, players can choose to rearrange their active skills and skill deck. When a skill is moved from the skill deck to a player's active skills, all of its effects are now in play. In order to move a skill from their skill deck to their active skills, they must have enough open slots of the corresponding attribute. For instance, if a player has a skill in their skill deck that consumes 2 `Grace` slots, they must have at least 2 open slots in `Grace` to move it to their active skills. 
 
 ## Leveling Skills
-
+After a skill has been gained, it can be learned. Learning a skill requires it currently be active. While a skill is being learned, any time its modifier is used a mark is added to its skill-card. Once a designated number of marks has been added, the skill promotes to the n
 
 
 

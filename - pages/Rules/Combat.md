@@ -1,11 +1,12 @@
 ## Start of Combat
 
+
 ## Round Phases
 
 ### Commit Actions
 
-### Player Turns
 
+### Player Turns
 
 
 ## End of Combat

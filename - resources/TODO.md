@@ -2,7 +2,7 @@ Pages:
 - [ ] Work on Core Rules
 	- [x] Character Creation
 	- [x] Skills
-	- [ ] Skill checks
+	- [x] Skill checks
 	- [ ] Combat
 	- [ ] Leveling
 	- [ ] Map exploration

@@ -4,7 +4,7 @@
 
 ## [[Creating a Character|Character Creation]]
 
-## Skill Checks
+## [[Skill Checks]]
 
 ## Combat
 

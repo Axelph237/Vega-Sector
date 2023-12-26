@@ -9,7 +9,9 @@ During this phase of a round, all players choose a number of actions from their 
 ### Player Turns
 Player turns proceed in terms of initiative from highest to lowest value. If multiple players share the same initiative, they can choose the order in which they take their turns.
 
-During a player's turn, they may p
+During a player's turn, they may take the actions of any number of their committed action cards. These actions can be taken in any order, and can be taken at any point later in initiative as well. If a player would like to save an action for later in initiative, they must "Pass" after completing as many of their actions as they wished to.
+
+Once all players have either completed their actions or have all unanimously passed, a new round is started.
 
 ## End of Combat
 

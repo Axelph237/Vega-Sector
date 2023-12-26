@@ -11,7 +11,7 @@ Player turns proceed in terms of initiative from highest to lowest value. If mul
 
 During a player's turn, they may take the actions of any number of their committed action cards. These actions can be taken in any order, and can be taken at any point later in initiative as well. In addition to these actions, a player also is able to take a free movement action equal to half of their maximum movement speed. 
 
-Once all players have either completed their actions or have all unanimously passed, a new round is started
+Once all players have either completed their actions or have all unanimously [[Combat#Passing|passed]], a new round is started
 
 #### Stamina Points
 During a player's turn, stamina points are spent by playing actions. The stamina cost of an action skill is shown on the action itself. Actions played must always be either committed actions or flex actions.

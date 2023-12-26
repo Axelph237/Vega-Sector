@@ -24,3 +24,5 @@ In addition to a player's committed actions, a player may also take flex actions
 
 ## End of Combat
 
+## Attacking
+When taking an attack action, an attack may be made with any currently equipped tool the player has. Different weapons will have different means of determining damage dealt

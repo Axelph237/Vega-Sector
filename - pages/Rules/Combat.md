@@ -9,6 +9,7 @@ During this phase of a round, all players choose a number of actions from their 
 ### Player Turns
 Player turns proceed in terms of initiative from highest to lowest value. If multiple players share the same initiative, they can choose the order in which they take their turns.
 
+During a player's turn, they may p
 
 ## End of Combat
 

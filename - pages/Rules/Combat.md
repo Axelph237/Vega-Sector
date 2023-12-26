@@ -14,7 +14,7 @@ During a player's turn, they may take the actions of any number of their committ
 Once all players have either completed their actions or have all unanimously passed, a new round is started
 
 #### Stamina Points
-During a player's turn, stamina points may be spent by playing actions. The stamina cost of an action skill is shown on the action itself. Actions played must always be either committed actions or flex actions.
+During a player's turn, stamina points are spent by playing actions. The stamina cost of an action skill is shown on the action itself. Actions played must always be either committed actions or flex actions.
 
 #### Passing
 

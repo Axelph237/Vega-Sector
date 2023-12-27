@@ -33,4 +33,5 @@ Movement is performed along a square grid. Movement from one square to any cardi
 Here are some examples of difficult terrain:
 - Waist-high water
 - A closed door
-- Vaulting a 
+- Vaulting a short wall
+- Dense shrubbery

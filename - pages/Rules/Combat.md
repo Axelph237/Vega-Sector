@@ -26,3 +26,5 @@ In addition to a player's committed actions, a player may also take flex actions
 
 ## Attacking
 When taking an attack action, an attack may be made with any currently equipped weapon the player has. Different weapons will have different means of determining damage dealt. 
+
+## Movement

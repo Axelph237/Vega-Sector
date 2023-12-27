@@ -28,3 +28,4 @@ In addition to a player's committed actions, a player may also take flex actions
 When taking an attack action, an attack may be made with any currently equipped weapon the player has. Different weapons will have different means of determining damage dealt. 
 
 ## Movement
+Movement is performed along a square grid. Movement from one square to any cardinally or diagonally adjacent square is considered to be 5 feet of movement.

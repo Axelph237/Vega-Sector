@@ -20,3 +20,4 @@ This is the default form of movement. Walking counts a player's base movement no
 When a player is sprinting, their base movement speed is doubled. Sprints can only be made through committing a Sprint action. During a sprint, a player's and enemy accuracies are halved.
 
 **Swimming**
+During swimming, all tiles traversed are difficult terrain. Additionally, no action requiring `Grace` can be performed while in water. Lastly, 

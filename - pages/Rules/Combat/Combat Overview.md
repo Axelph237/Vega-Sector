@@ -24,8 +24,7 @@ In addition to a player's committed actions, a player may also take flex actions
 
 ## End of Combat
 
-## Attacking
-When taking an attack action, an attack may be made with any currently equipped weapon the player has. Different weapons will have different means of determining damage dealt. 
+
 
 ## Movement
 Movement is performed along a square grid. Movement from one square to any cardinally or diagonally adjacent square is considered to be 5 feet of movement. Some tiles may be considered *difficult terrain*. A tile that is difficult terrain takes a bonus 5 feet of movement to enter. Additionally, a Game Master may choose to make other forms of movement considered difficult terrain. Some of these include things like scaling stairs and opening doors. 

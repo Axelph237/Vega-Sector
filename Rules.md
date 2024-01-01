@@ -6,7 +6,7 @@
 
 ## [[Skill Checks]]
 
-## [[Combat]]
+## Combat
 
 ## Leveling
 

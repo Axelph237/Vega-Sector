@@ -122,9 +122,9 @@ You quickly peak the corner of the cover, shells pouring from the side of your r
 ```
 - Players get three stamina points a turn. They may spend these on actions.
 - Starting with the player of the highest grace and going CW, each player takes 1 action before passing to the next player. Player turns end when they are out of stamina points.
-- 
-- 
-- 
+- Movement is made on a grid of 5x5 ft squares. Moving into a square costs 5 feet of movement.
+- Players may request to do an action not specifically listed on their card. The resolution of said action is up to the Game Master (how much stamina it would cost, if the player should roll, etc.)
+- If a player is ever downed, they are comatose and will need to be resusitated later
 ```
 
 **Feel:**

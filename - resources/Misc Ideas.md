@@ -121,7 +121,7 @@ You quickly peak the corner of the cover, shells pouring from the side of your r
 **The Simple Rules:**
 ```
 - Players get three stamina points a turn. They may spend these on actions.
-- Starting with the player of the highest grace, each player takes 1 action on their turn
+- Starting with the player of the highest grace and going CW, each player takes 1 action before passing to the next player. Player turns end when they are out of stamina points.
 - 
 - 
 - 

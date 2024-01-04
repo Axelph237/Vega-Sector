@@ -167,7 +167,7 @@ Global Stats:
 - Will have different mechanics based on magazine type
 - Will also have a number of rounds they can shoot in a turn
 - Your `handling` affects the dice you roll for `stability` checks
-- The `stability` of a weapon dictates the TN you roll under to hit
+- The `stability` of a weapon dictates the TN you roll under to hit. There are two numbers dividing "point blank" | "optimal range" | "far range" sections for attacking. Attacks made at a standard TN, far and point blank decreases the TN.
 
 Magazine based:
 ```

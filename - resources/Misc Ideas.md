@@ -114,7 +114,9 @@
 **Narrative Description:**
 Bullets whiz past your cover as you fear to stand up. Your cover hardly enough to protect you from the onslaught of enemy fire. A glass capsule slams into the ground next to you, shattering. Steaming from the canister is a dark purple gas, quickly permeating your now useless defense.
 
-Standing up you sprint, 
+Standing up you sprint, taking off down past the oncoming fire. A bullet pierces your shoulder. Blood splattering against your cheek as you press on, dropping to the ground and sliding behind an undisturbed concrete wall. Rubble surrounding you.
+
+You quickly peak the corner of the cover, shells pouring from the side
 
 **Feel:**
 - I want turns to go quickly as far as decision making goes

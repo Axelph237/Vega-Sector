@@ -116,7 +116,7 @@ Bullets whiz past your cover as you fear to stand up. Your cover hardly enough t
 
 Standing up you sprint, taking off down past the oncoming fire. A bullet pierces your shoulder. Blood splattering against your cheek as you press on, dropping to the ground and sliding behind an undisturbed concrete wall. Rubble surrounding you.
 
-You quickly peak the corner of the cover, shells pouring from the side
+You quickly peak the corner of the cover, shells pouring from the side of your rifle like a fountain. The hollow brass clinking against the ground, synonymous with the sound of gunfire. 
 
 **Feel:**
 - I want turns to go quickly as far as decision making goes

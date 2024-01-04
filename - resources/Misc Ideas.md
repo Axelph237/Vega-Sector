@@ -118,6 +118,15 @@ Standing up you sprint, taking off down past the oncoming fire. A bullet pierces
 
 You quickly peak the corner of the cover, shells pouring from the side of your rifle like a fountain. The hollow brass clinking against the ground, synonymous with the sound of gunfire. 
 
+**The Simple Rules:**
+```
+- 
+- 
+- 
+- 
+- 
+```
+
 **Feel:**
 - I want turns to go quickly as far as decision making goes
 - I want players to feel cool

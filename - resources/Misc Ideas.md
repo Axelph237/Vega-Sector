@@ -120,7 +120,7 @@ You quickly peak the corner of the cover, shells pouring from the side of your r
 
 **The Simple Rules:**
 ```
-- 
+- Players get three stamina points a turn. They may spend these on actions.
 - 
 - 
 - 

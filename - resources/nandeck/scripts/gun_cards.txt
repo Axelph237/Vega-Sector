@@ -6,7 +6,7 @@ CARDSIZE = 9, 6
 [range]     = "10/150"
 [stability] = "(6/8)"
 [magSize]   = "6"
-[calibre]   = "1d6"
+[calibre]   = "d6"
 [fireRate]  = "1"
 
 ;;;;; Script
@@ -43,4 +43,4 @@ TEXT = [all], JOIN([range], "  ", [stability]), <stabF>, right, wwcenter
 FONT = "Cambria", 13, BT, #000000
 TEXT = [all], [handling], <handF>, right, wwcenter
 TEXT = [all], [magSize], <magsF>, right, wwcenter
-TEXT = [all], [fireRate], <fireF>, right, wwcenter
+TEXT = [all], JOIN([fireRate], " (", [calibre], ")"), <fireF>, right, wwcenter

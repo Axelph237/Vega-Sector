@@ -1,0 +1,46 @@
+CARDSIZE = 9, 6
+
+; Temp Labels cuz I'm too lazy to link a doc
+[name]      = Revolver
+[handling]  = "2d8"
+[range]     = "10/150"
+[stability] = "(6/8)"
+[magSize]   = "6"
+[calibre]   = "1d6"
+[fireRate]  = "1"
+
+;;;;; Script
+[all] = 1-{(name)}
+
+; Frames
+<nameF> = 0.5, 0.5, 100% - 1, 1
+
+<bodyF> = 0.5, 1.5, 40%, 4
+<handF> = <bodyF, TS, 1>
+<stabF> = <bodyF, TS, 1>
+<magsF> = <bodyF, TS, 1>
+<fireF> = <bodyF, TS, 1>
+
+; Dev Rects
+RECTANGLE = [all], <nameF>, #d9d9db
+RECTANGLE = [all], <handF>, #b7b8bd
+RECTANGLE = [all], <stabF>, #d9d9db
+RECTANGLE = [all], <magsF>, #b7b8bd
+RECTANGLE = [all], <fireF>, #d9d9db
+
+; Text
+FONT = "Cambria", 24, BT, #000000
+TEXT = [all], [name], <nameF>, center, wwcenter
+
+FONT = "Cambria", 10, TI, #000000
+TEXT = [all], "Handling: ", <handF>, left, wwcenter
+TEXT = [all], "Range: ", <stabF>, left, wwcenter
+TEXT = [all], "Mag Size: ", <magsF>, left, wwcenter
+TEXT = [all], "Fire Rate: ", <fireF>, left, wwcenter
+
+FONT = "Cambria", 10, BT, #000000
+TEXT = [all], JOIN([range], "  ", [stability]), <stabF>, right, wwcenter
+FONT = "Cambria", 13, BT, #000000
+TEXT = [all], [handling], <handF>, right, wwcenter
+TEXT = [all], [magSize], <magsF>, right, wwcenter
+TEXT = [all], [fireRate], <fireF>, right, wwcenter

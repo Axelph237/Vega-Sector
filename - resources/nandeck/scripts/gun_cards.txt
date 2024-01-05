@@ -7,7 +7,7 @@ CARDSIZE = 9, 6
 [stability] = "(6/8)"
 [magSize]   = "6"
 [calibre]   = "d6"
-[fireRate]  = "1"
+[fireRate]  = "2"
 
 ;;;;; Script
 [all] = 1-{(name)}

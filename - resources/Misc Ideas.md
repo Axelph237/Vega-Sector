@@ -1,5 +1,8 @@
 > Jot anything and everything that comes to mind here
 
+# Stitching: The end of Large Scale war
+
+
 # Ourobos
 - Ourobos 
 	- Gravity is higher at night than in day

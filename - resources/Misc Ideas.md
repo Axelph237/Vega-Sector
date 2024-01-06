@@ -1,6 +1,7 @@
 > Jot anything and everything that comes to mind here
 
 # Stitching: The end of Large Scale war
+Humanity works to create super AI
 
 
 # Ourobos

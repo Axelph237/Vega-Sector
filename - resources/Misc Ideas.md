@@ -8,8 +8,10 @@
 - They found a small discrepancy in old scientific laws
 - This had to do with space time and its relation to three dimensional space
 - From this, a new branch of theoretical physics was created colloquially called "Stitching"
-- "Stitching" is the study of ripping space time into three dimensional 
-
+- "Stitching" is the study of ripping space time into three dimensional space, and then manipulating it as such. 
+- After the discovery of stitching, all major nations quickly advanced to 
+> [!quote|author] Charles Davis
+> 'Think about it like a piece of paper,' they said, 'Fold it in half, stick a pencil through, and you've got yourself a wormhole.' What they neglected to consider was if we crumpled that piece of paper up. Now that would be, was, and is a tragedy.
 
 # Ourobos
 - Ourobos 

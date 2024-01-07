@@ -211,9 +211,9 @@ Stats:
 
 **Guns**
 
-| Name     | Handling | Range | Stability | Magazine Size | Fire Rate | Power |
-| -------- | -------- | ----- | --------- | ------------- | --------- | ----- |
-| Revolver | 2d8      | 10/70 | (6/8)     | 6             | 2         | d6      |
+| Name | Handling | Range | Stability | Magazine Size | Fire Rate | Power |  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Revolver | 2d6 | 10/70 | (5/7) | 6 | 2 | d8 |  |
 
 
 # Misc

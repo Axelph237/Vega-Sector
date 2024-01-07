@@ -209,6 +209,11 @@ Stats:
 	- They deal damage equal to the dice rolled
 	- If they exceed, they take damage and then must wait for their gun to cool down
 
+**Guns**
+
+| Name     | Handling | Range | Stability | Magazine Size | Fire Rate | Power |
+| -------- | -------- | ----- | --------- | ------------- | --------- | ----- |
+| Revolver | 2d8      | 10/70 | (6/8)     | 6             | 2         | d6      |
 
 
 # Misc

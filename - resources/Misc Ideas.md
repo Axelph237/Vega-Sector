@@ -1,9 +1,14 @@
 > Jot anything and everything that comes to mind here
 
 # Stitching: The end of Large Scale war
-- Humanity works to create super AI
+- Humanity works to create a super intelligent AI
 - In the making of said AI there was a limiting factor
-- Researchers could not understand why the AI was unable to advance 
+- Researchers could not understand why the AI was unable to advance to a point of complete understanding of all physics
+- Mathematicians and Physicists worked to solve what this AI was unable to
+- They found a small discrepancy in old scientific laws
+- This had to do with space time and its relation to three dimensional space
+- From this, a new branch of theoretical physics was created colloquially called "Stitching"
+- "Stitching" is the study of ripping space time into three dimensional 
 
 
 # Ourobos

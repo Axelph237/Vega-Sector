@@ -1,7 +1,9 @@
 > Jot anything and everything that comes to mind here
 
 # Stitching: The end of Large Scale war
-Humanity works to create super AI
+- Humanity works to create super AI
+- In the making of said AI there was a limiting factor
+- Researchers could not understand why the AI was unable to 
 
 
 # Ourobos

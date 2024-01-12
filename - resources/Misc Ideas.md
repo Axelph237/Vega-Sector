@@ -13,6 +13,9 @@
 - From this, a dooms day device was made, and during an intergalactic war it was used to turn an entire galaxy into a supermassive black hole with the snap of your fingers.
 > [!quote|author]
 > 'Think about it like a piece of paper,' they said, 'Fold it in half, stick a pencil through, and you've got yourself a wormhole.' What they neglected to consider was if we crumpled that piece of paper up. Now that would be, was, and is a tragedy.
+- Teleporting can teleport you a little randomly
+- 
+
 
 # Ourobos
 - Ourobos 
@@ -215,9 +218,12 @@ Stats:
 | ------------ | --------- | ------- | --------- | ------------- | --------- | ------ | -------------------------------------------------------------------- |
 | Revolver     | 2d6       | 10/70   | (5/7)     | 6             | 2         | d8     |                                                                      |
 | Longbow      | 1d20,1d10 | 100/300 | (14/17)   | 1             | 1         | 1d8+10 | Hold Breath: Spend an extra stamina to increase your stability by 2. |
-| Queen Bee    | 2d8       | 10/80   | (4/6)     | 12            | 4         | d4     |                                                                      |
+| Queen Bee    | 2d8       | 10/80   | (2/4)     | 16            | 8         | d4     |                                                                      |
 | Wood Chipper | 2d10      | 10/100  | (9/13)    | 6             | 3         | d6     |                                                                      |
 |              |           |         |           |               |           |        |                                                                      |
+
+**Fold Weapons**
+Highly illegal, uses stitching. So uhm. Broken?
 
 
 # Misc

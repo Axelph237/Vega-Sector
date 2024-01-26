@@ -225,6 +225,11 @@ Stats:
 **Fold Weapons**
 Highly illegal, uses stitching. So uhm. Broken?
 
+**Throwables**
+Hit or miss rolls. Have two stats: `Power`, `Stability`. Handling dice default to `2d12` for throwables.
+
+**Explosives**
+Explosive weapons deal damage differently. The number of dice an explosive weapon's `Power` has is equivalent to its area of affect. 
 
 # Misc
 

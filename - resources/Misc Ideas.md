@@ -231,7 +231,7 @@ Hit or miss rolls. Have two stats: `Power`, `Stability`. Handling dice default t
 For every failed point on the `Stability` check, the item is throw 5 feet farther from its intended destination (where determined by GM).
 
 **Explosives**
-Explosive weapons deal damage differently. The number of dice an explosive weapon's `Power` has is proportionate to its area of affect. i.e. if their `Power` is `3d4`, it has a total area of affect of a 10 ((3 dice * 5 feet) - 5 feet for the directly hit square) foot radius.
+Explosive weapons resolve damage differently from other weapons. The number of dice an explosive weapon's `Power` has is proportionate to its area of affect. i.e. if its `Power` is `3d4`, it has a total area of affect of a 10 ((3 dice * 5 feet) - 5 feet for the directly hit square) foot radius.
 
 Damage is resolved as follows: for every 5 feet away a creature is, it takes one less dice of damage.
 
@@ -243,7 +243,7 @@ Damage is resolved as follows: for every 5 feet away a creature is, it takes one
 > - Creatures 10 feet away will take 10 (4 + 6) damage.
 > - Creatures 15 feet away will take 6 damage.
 
-Explosive damage is unavoidable by movement, but strong barricades completely nullify any potential damage taken.
+Explosive damage is unavoidable by movement or team affiliation, but strong barricades completely nullify any potential damage taken.
 
 # Misc
 

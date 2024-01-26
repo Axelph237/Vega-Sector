@@ -229,7 +229,15 @@ Highly illegal, uses stitching. So uhm. Broken?
 Hit or miss rolls. Have two stats: `Power`, `Stability`. Handling dice default to `2d12` for throwables.
 
 **Explosives**
-Explosive weapons deal damage differently. The number of dice an explosive weapon's `Power` has is equivalent to its area of affect. 
+Explosive weapons deal damage differently. The number of dice an explosive weapon's `Power` has is proportionate to its area of affect. i.e. if their `Power` is `3d4`, it has a total area of affect of 15 (3 dice * 5 feet) feet.
+
+Damage is resolved as follows: for every 5 feet away a creature is, it takes one less dice of damage.
+
+> [!example]
+> An attack is made with an explosive weapon of **Power** 4d6.
+> The attack roll resolves to: 1 + 3 +  = 14
+> 
+
 
 # Misc
 

@@ -225,10 +225,14 @@ Stats:
 **Fold Weapons**
 Highly illegal, uses stitching. So uhm. Broken?
 
+## Tags
+
 **Throwables**
 Hit or miss rolls. Have two stats: `Power`, `Stability`. Handling dice default to `2d12` for throwables.
 
 For every failed point on the `Stability` check, the item is throw 5 feet farther from its intended destination (where determined by GM).
+
+When a throwable is thrown, it must then be retrieved by visiting the space it was thrown to.
 
 **Explosives**
 Explosive weapons resolve damage differently from other weapons. The number of dice an explosive weapon's `Power` has is proportionate to its area of affect. i.e. if its `Power` is `3d4`, it has a total area of affect of a 10 ((3 dice * 5 feet) - 5 feet for the directly hit square) foot radius.

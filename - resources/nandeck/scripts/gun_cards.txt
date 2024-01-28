@@ -3,7 +3,7 @@ CARDSIZE = 9, 6
 ; Temp Labels cuz I'm too lazy to link a doc
 [name]      = Revolver
 [handling]  = "2d8"
-[range]     = "10/150"
+[range]     = "10-150"
 [stability] = "(6/8)"
 [magSize]   = "6"
 [calibre]   = "d6"

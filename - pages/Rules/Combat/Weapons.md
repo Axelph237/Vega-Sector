@@ -13,3 +13,5 @@ Firearms are considered ranged weapons, but also have their own special rules.
 
 ### Stability Checks
 Firearms use a unique set of dice when making `stability` checks. This set of dice is determined by the firearm's `handling` stat. For instance, if a weapon has a `handling` of `2d6,1d4` it would roll two d6s and a d4 in order to make its `stability` check.
+
+### Dealing Damage

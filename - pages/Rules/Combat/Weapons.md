@@ -1,7 +1,7 @@
 ![[banner_3.jpg|p+tc banner+small]]
 ____
 ## Melee Weapons
-
+These types of weapons function 
 
 
 ____

@@ -2,7 +2,7 @@
 Consumable items are... consumed after use. When used, one item from a stack of consumable items is removed.
 
 ## Explosive
-Explosive items resolve damage differently from other weapons. The number of dice an explosive weapon's `Power` has is proportionate to its area of affect. i.e. if its `Power` is `3d4`, it has a total area of affect of a 10 ((3 dice * 5 feet) - 5 feet for the directly hit square) foot radius.
+Explosive items resolve damage differently from other weapons. The number of dice an explosive weapon's `power` has is proportionate to its area of affect. i.e. if its `power` is `3d4`, it has a total area of affect of a 10 ((3 dice * 5 feet) - 5 feet for the directly hit square) foot radius.
 
 Damage is resolved as follows: for every 5 feet away a creature is, it takes one less dice of damage.
 
@@ -17,8 +17,8 @@ Damage is resolved as follows: for every 5 feet away a creature is, it takes one
 Explosive damage is unavoidable by movement or team affiliation, but strong cover completely nullifies any potential damage taken.
     
 ## Throwable
-Hit or miss rolls. Have two stats: `Power`, `Stability`. Handling dice default to `2d12` for throwables.
+Throwable items are considered ranged weapons for determining hits.
 
-For every failed point on the `Stability` check, the item is throw 5 feet farther from its intended destination (where determined by GM).
+For every failed point on the `stability` check, the item is throw 5 feet farther from its intended destination (where determined by GM).
 
-When a throwable is thrown, it must then be retrieved by visiting the space it was thrown to.
+When a throwable is thrown, it must then be retrieved by visiting the space it was thrown to before being reused.

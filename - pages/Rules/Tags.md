@@ -15,7 +15,7 @@ Damage is resolved as follows: for every 5 feet away a creature is, it takes one
 > - Creatures 15 feet away will take 6 damage.
 
 Explosive damage is unavoidable by movement or team affiliation, but strong cover completely nullifies any potential damage taken.
- 
+  
 ## Throwable
 Hit or miss rolls. Have two stats: `Power`, `Stability`. Handling dice default to `2d12` for throwables.
 

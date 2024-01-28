@@ -31,4 +31,4 @@ Firearms use a unique set of dice when making `stability` checks. This set of di
 After rolling to hit, a creature rolls all of its committed dice. For every failed point during the `stability` check, one dice of the creature's choice must be removed from the now rolled committed dice. Then, all remaining committed dice are totaled to determine the damage dealt.
 
 ### Running out of Ammo
-When a creature runs out of ammo (usually due to spending all of the dice in their `magazine` pool), they must take a reload action before attacking with this weapon again. A reload action has an exhaustion of one.
+When a creature runs out of ammo (usually due to spending all of the dice in their `magazine` pool), they must take a reload action before attacking with this weapon again. A reload action has an exhaustion of one. Reloading refills the `magazine` pool back to its maximum with the weapon's `calibre` dice.

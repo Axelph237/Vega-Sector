@@ -1,4 +1,5 @@
 ![[banner_3.jpg|p+tcc banner+small]]
+____
 
 Skills make up a bulk of a character's core progression. Each skill is assigned a parent [[Creating a Character#Attributes|attribute]], relating it to a broader category of skills. 
 

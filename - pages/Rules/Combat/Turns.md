@@ -1,4 +1,5 @@
 ![[banner_3.jpg|p+tc banner+small]]
+____
 A creature's turn is broken down into the following steps: **Upkeep**, **Actions**, **Resolution**
 
 ## Upkeep

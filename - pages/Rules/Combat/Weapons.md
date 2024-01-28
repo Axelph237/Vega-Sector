@@ -1,13 +1,22 @@
 ![[banner_3.jpg|p+tc banner+small]]
+____
 ## Melee Weapons
 
+
+
+____
+
 ## Ranged Weapons
+Ranged weapons perform much like a melee weapon, but have the additional complexity of determining range.
 
 ### Range
 Ranged weapons have an optimal range denoted as `low #-high #`. A target who is between or at these distances is considered to be **in range**, otherwise they are **out of range**.
 
 ### Stability Checks
 A ranged weapon has two different `stability` numbers shown in a pair as `(lower # / higher #)`. The lower of the two numbers is used for `stability` checks when the target is out of range. Otherwise, the higher number is used.
+
+
+_____
 
 ## Firearms
 Firearms are considered ranged weapons, but also have their own special rules.

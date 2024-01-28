@@ -10,7 +10,7 @@ Pages:
 		- [x] Overview
 		- [ ] Weapons
 			- [ ] Melee Weapons
-			- [ ] Ranged Weapons
+			- [x] Ranged Weapons
 			- [x] Firearms
 	- [ ] Leveling
 	- [ ] Map exploration

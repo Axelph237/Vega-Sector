@@ -1,4 +1,5 @@
 ![[banner_3.jpg|p+tc banner+small]]
+____
 When taking an attack action, an attack may be made with any currently readied weapon the player has. The first step of an attack is choosing a target, followed by determining if the attack hits, then seeing how much damage is dealt.
 
 ## Choosing a Target

@@ -4,6 +4,14 @@ Pages:
 	- [x] Skills
 	- [x] Skill checks
 	- [ ] Combat
+		- [x] Turns
+		- [x] Movement
+		- [x] Attacking
+		- [x] Overview
+		- [ ] Weapons
+			- [ ] Melee Weapons
+			- [ ] Ranged Weapons
+			- [x] Firearms
 	- [ ] Leveling
 	- [ ] Map exploration
 - [ ] Finish Umbral Dunes page

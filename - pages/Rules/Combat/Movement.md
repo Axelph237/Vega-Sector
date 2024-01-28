@@ -1,3 +1,4 @@
+![[banner_3.jpg|p+tc banner+small]]
 ## Grid
 Movement is performed along a square grid. Movement from one square to any cardinally or diagonally adjacent square is considered to be 5 feet of movement. 
 

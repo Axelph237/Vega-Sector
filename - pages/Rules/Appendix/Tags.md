@@ -1,3 +1,4 @@
+![[banner_3.jpg|p+tc banner+small]]
 ## Consumable
 Consumable items are... consumed after use. When used, one item from a stack of consumable items is removed.
 

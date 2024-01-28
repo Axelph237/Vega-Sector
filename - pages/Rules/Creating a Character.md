@@ -1,4 +1,4 @@
-![[banner_2.jpg|p+tcc banner+small]]
+![[banner_3.jpg|p+tcc banner+small]]
 
 ## Attributes
 All characters are first defined by a set of four attributes. These four attributes attributes give an overview of how the character feels. Here is a short description of the four attributes:

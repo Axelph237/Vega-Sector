@@ -1,3 +1,4 @@
+![[banner_3.jpg|p+tc banner+small]]
 During combat and narrative moments, a Game Master may want to ensure that a character is able to successfully complete a given task. This is the same as in any other Table Top RPG game. When a player chooses to take an action or has something occur to them, the Game Master may call a skill check. 
 
 ## Selecting Relevant Skills

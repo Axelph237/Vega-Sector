@@ -1,7 +1,7 @@
 ![[banner_3.jpg|p+tc banner+small]]
 ____
 ## Melee Weapons
-These types of weapons function 
+Melee weapons have no special rules. For the sake of targeting, a melee weapon may only be used on adjacent creatures.
 
 
 ____

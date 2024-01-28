@@ -3,13 +3,13 @@ Pages:
 	- [x] Character Creation
 	- [x] Skills
 	- [x] Skill checks
-	- [ ] Combat
+	- [x] Combat
 		- [x] Turns
 		- [x] Movement
 		- [x] Attacking
 		- [x] Overview
-		- [ ] Weapons
-			- [ ] Melee Weapons
+		- [x] Weapons
+			- [x] Melee Weapons
 			- [x] Ranged Weapons
 			- [x] Firearms
 	- [ ] Leveling

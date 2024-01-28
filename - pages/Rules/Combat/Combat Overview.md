@@ -2,9 +2,9 @@
 At the start of combat, all creatures must be put into initiative order, highest to lowest. If a player and an NPC share initiative, the player goes first.
 
 ## Round Phase
-During the round, all creatures may take actions at any point they see fit so long as another creature is not currently performing an action.
+The primary event occurring during a round of combat are creature [[turns]]. During a creature's turn it regains `stamina points` and takes any actions it chooses to before interruption.
 
-In order to perform an action, a creature must have enough `stamina points` to perform it. A creature regains up to their maximum `stamina points` during their turn in initiative. After a creature regains `stamina points` during their turn, they must perform at least one action on that same turn.
+At any point in initiative, after all creatures at that initiative have taken their turns, any other creature may perform an action. In order to do this, a creature must have enough remain `stamina points` from their previous turn. 
 
 ## End of Combat
- Combat ends once 
+Once combat has ended, narrative play immediately begins.

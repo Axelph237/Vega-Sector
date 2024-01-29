@@ -316,19 +316,3 @@ A player wins the hand if they are the last player in the game, then taking the 
 
 # Skill Tree
 
-Skill trees will be like this:
-
-```mermaid
----
-title: Heft
----
-flowchart TD
-
-	
-	A---E
-	B---F
-	C---G
-	D---H
-		I
-```
-

@@ -313,3 +313,6 @@ When a player is challenged, they must reveal their face down cards. Total the f
 
 **Winning the hand:**
 A player wins the hand if they are the last player in the game, then taking the pot.
+
+# Skill Tree
+ 

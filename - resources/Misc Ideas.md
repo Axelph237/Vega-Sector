@@ -315,4 +315,20 @@ When a player is challenged, they must reveal their face down cards. Total the f
 A player wins the hand if they are the last player in the game, then taking the pot.
 
 # Skill Tree
- 
+
+Skill trees will be like this:
+
+```mermaid
+---
+title: Heft
+---
+flowchart TD
+
+	
+	A---E
+	B---F
+	C---G
+	D---H
+		I
+```
+

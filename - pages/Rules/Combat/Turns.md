@@ -13,6 +13,5 @@ When a creature takes an action, it must spend `stamina points` equal to the act
 
 The most common action a creature will take on its turn is an [[Attacking|attack]]. In addition to attacks, creatures may also [[Movement|move]] up to a limited number of spaces as a free action.
 
-
 ## Resolution
 The resolution phase is used for any "end-of-turn" effects. It is essentially identical to the upkeep phase. However, unlike the upkeep phase, the resolution phase may include things that happened as a result of a creatures action phase.

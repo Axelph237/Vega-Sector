@@ -1,13 +1,9 @@
-> [!column]
->> [!info] Heft
->> - Use another callout for columns 
+> [!column|4]
+>> [!skill] Heft
 >
->> [!note] Grace
->> Need that singular blockquote `>` as separation between columns
+>> [!skill] Column 2
 >
->> [!info] Ingenuity
->> Another column
+>> [!skill] Column 3
 >
->> [!info] Empathy
->> Final column
+>> [!skill] Column 4
 

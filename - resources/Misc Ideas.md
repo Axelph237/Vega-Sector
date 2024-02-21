@@ -227,69 +227,6 @@ Highly illegal, uses stitching. So uhm. Broken?
 
 # Misc
 
-# BACKGROUNDS
-
-**Starting Statistics at "Lvl 1"**
-
-Heft: 2 Slots
-Grace: 2 Slots
-Ingenuity: 2 Slots
-Empathy: 2 Slots
-
-Nomad
-Security 
-Medical
-Vehicle Operation/Transportation
-Utilities
-Military
-Acquisitions
-Freebooter
-
-**PRIMARY**
-
-Nomad: Pick Three get (+1 Slots)
-Security: Heft (+2 Slots), Ingenuity (+1 Slots)
-Medical: Ingenuity (+2 Slots), Empathy (+1 Slots)
-Vehicles: Grace (+2 Slots), Ingenuity (+1 Slots)
-Utilities: Empathy (+2 Slots), Grace (+1 Slots)
-Military: Heft (+2 Slots), Grace (+1 Slots)
-Acquisitions: Grace (+2 Slots), Empathy (+1 Slots)
-Freebooter: Pick One get (+3 Slots)
-
-**SECONDARY**
-
-Nomad: (+1 Slots) in any, (-2 Slots) in any other 
-Security: Heft (+1 Slots), Grace (-1 Slots)
-Medical: Ingenuity (+1 Slots), Heft (-1 Slots)
-Vehicles: Ingenuity (+1 Slots), Empathy (-1 Slots)  
-Utilities: Empathy (+1 Slots), Heft (-1 Slots)
-Military: Heft (+1 Slots), Grace (+1 Slots), Ingenuity (-2 Slots)
-Acquisitions: Grace (+1 Slots), Heft (-1 Slots)
-Freebooter: Pick One get (+2 Slots) ALL others get (-1 Slots) 
-
-Example:
-
-Military/Military
-
-Heft: 5 Slots
-Grace: 4 Slots
-Ingenuity: 0 Slots
-Empathy: 2 Slots
-
-Security/Utilities
-
-Heft: 3 Slots
-Grace: 2 Slots
-Ingenuity: 3 Slots
-Empathy: 3 Slots
-
-Nomad/Freebooter
-
-Heft: 1 Slots
-Grace: 5 Slots
-Ingenuity: 2 Slots
-Empathy: 2 Slots
-
 # Gambling  Game
 
 - Needs to be able to be gambled on, but doesn't have to  just be a poker style game
@@ -315,4 +252,7 @@ When a player is challenged, they must reveal their face down cards. Total the f
 A player wins the hand if they are the last player in the game, then taking the pot.
 
 # Skill Tree
+Skills will be an open-buy system similar to Crown & Skull. Rather than have any stats as a character, you will purchase and use skills throughout your campaign.
+
+Unlike Crown & Skull, skills will tend to be passive features, roll modifiers, and actions that a character can take like in DND. 
 

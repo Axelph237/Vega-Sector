@@ -14,9 +14,10 @@
 
 The Lavender Meadows are a beautiful sight to behold. Vast, rolling hills of a deep purple only broken by the occasional speckles of white and orange flowers crowning the grasses. Peaceful streams break the space between bluffs, a gentle breeze blowing across the air.
 ## Description
-Generally peaceful, these rolling mounds are 
+Generally peaceful, these rolling mounds are the home to a variety of small prey species.
 
 ## Notable Inhabitants
 ### Fauna
+**Cragula**
 
 ### Flora

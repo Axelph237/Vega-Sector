@@ -65,7 +65,7 @@
 			- They will generally eat whatever seems possible to them
 		- Some insects have eyes across their back abdomen
 			- This allows them to crawl along trees and look out into the grottos
-	- [ ] Hills [Color Palette](https://colorhunt.co/palette/fde5ecfcbaade48586916db3)
+	- [x] Hills [Color Palette](https://colorhunt.co/palette/fde5ecfcbaade48586916db3)
 		- Covered in vast fields of a light purple grass
 		- The grass sparkles at the blinking of stars in the night
 		- Adorned with a variety of saturated orange and white flowers

@@ -25,7 +25,6 @@ In the Umbral Dunes, every glint and glimmer tells a story of geological epochs,
 ## Notable Inhabitants
 
 ### Fauna
-
 **Onyx Skink**
 As the relentless sun beats down on this otherworldly landscape, photosynthesizing animals thrive in unexpected forms. A giant lizard, known as the Onyx Skink, roams the expanse with scales that reflect and absorb light, serving as both camouflage and a sustainable energy source. The lizard has been domesticated into a beast of transportation through the hot desert.
 

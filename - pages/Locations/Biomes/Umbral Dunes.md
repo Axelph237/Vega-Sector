@@ -13,9 +13,7 @@
 *Return to parent page: [[Biomes]]*
 
 Nestled beneath a vast expanse of open sky, the Umbral Dunes unfold in an enchanting display of black and white sands, a testament to the ancient interplay of volcanic forces and the ebb and flow of a long-lost ocean. The terrain, covered in a mesmerizing blend of basalt and quartz, is shaped by tectonic shifts that give rise to meandering streams of white and black pebbles, creating natural pathways through the shimmering desert.
-
 ## Description
-
 The Umbral Dunes are a wide expanse of hot, humid desert terrain. For days, the hot, dry terrain stretches off beyond the horizon. Travelers of this area commonly use alternative means of travel to quickly navigate the harsh area..
 
 Although initially rather dull, the Umbral Dunes are a "gold" mine for those looking to make money on their own. `Talk more on a valuable resource found here`

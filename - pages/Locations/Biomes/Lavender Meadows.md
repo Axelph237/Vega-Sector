@@ -12,12 +12,11 @@
 
 *Return to parent page: [[Biomes]]*
 
-**This is the overall summary:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam maecenas sed enim. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. Suspendisse interdum consectetur libero id faucibus nisl tincidunt. Tristique senectus et netus et malesuada fames ac turpis egestas.
-
+The Lavender Meadows are a beautiful sight to behold. Vast, rolling hills of a deep purple only broken by the occasional speckles of white and orange flowers crowning the grasses. Peaceful streams break the space between bluffs, a gentle breeze blowing across the air.
 ## Description
+Generally peaceful, these rolling mounds are 
 
 ## Notable Inhabitants
-
 ### Fauna
 
 ### Flora

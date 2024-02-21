@@ -1,14 +1,14 @@
 ![[hills_1.png|p+tcc banner+small]]
 > [!infobox|wikipedia right n-th t-w txt-c wsmall]
 > ![[hills_1.png|wsmall]]
->> [!info|bg-green c-green ] Picture description
->##### Biome Name
+>> [!info|bg-green c-green ] A gentle hill among the meadows
+>##### Lavender Meadows
 > ##### _Basic Info_
 > | Info | Description |
 > | ---- | ---- |
-> | Temperature | |
-> | Humidity | |
-> | Inhabitants |  |
+> | Temperature | Moderate |
+> | Humidity | Low |
+> | Inhabitants | Cragula  |
 
 *Return to parent page: [[Biomes]]*
 
@@ -19,5 +19,5 @@ Generally peaceful, these rolling mounds are the home to a variety of small prey
 ## Notable Inhabitants
 ### Fauna
 **Cragula**
-
+Often mistaken for rock formations amongst the plains, craguli are instead large predatory species. The "gentle giant" of the Lavender Meadows, craguli spend their entire lives wander across the purple expanse.
 ### Flora

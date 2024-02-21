@@ -1,7 +1,7 @@
 ![[banner_2.jpg|p+tcc banner+small]]
 > [!infobox|wikipedia right n-th t-w txt-c wsmall]
 > ![[ourobos_1.jpg|wsmall]]
->> [!info|bg-green c-green ] Picture description
+>> [!info|bg-green c-green ] The High Trees on Ourobos
 >##### Ourobos
 > ##### _Basic Info_
 > | Info | Description |
@@ -31,16 +31,11 @@ Due to high electric charge within the system, weather conditions are extreme, w
 ## Notable Locations
 
 ### Biomes
+> [!biome]+ [[Lavender Meadows]]
 
-> [!biome]+ Plains
+> [!biome]+ [[High Trees]]
 
-> [!biome]+ Forest
-
-> [!biome]+ Mountains
-
-> [!biome]+ Tundra
-
-> [!biome]+ Desert
+> [!biome]+ [[Umbral Dunes]]
 
 > [!biome]+ Beach
 

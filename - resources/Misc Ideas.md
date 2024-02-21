@@ -54,7 +54,7 @@
 		- The forests are... oddly silent
 	- [ ] Forest  [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
 		- 
-	- [ ] Lush Forest [Color Palette](https://colorhunt.co/palette/f6e3c5a0d9956cc4a14cacbc)
+	- [x] [[High Trees]] [Color Palette](https://colorhunt.co/palette/f6e3c5a0d9956cc4a14cacbc)
 		- Extreme verticality and cliffsides
 		- Large, green trees
 		- Wide rivers and lakes

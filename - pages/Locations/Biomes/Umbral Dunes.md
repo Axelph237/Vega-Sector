@@ -23,7 +23,6 @@ Although initially rather dull, the Umbral Dunes are a "gold" mine for those loo
 In the Umbral Dunes, every glint and glimmer tells a story of geological epochs, the resilience of life, and the intricate dance of light across an ever-shifting canvas of black and white sands.`GPT`
 
 ## Notable Inhabitants
-
 ### Fauna
 **Onyx Skink**
 As the relentless sun beats down on this otherworldly landscape, photosynthesizing animals thrive in unexpected forms. A giant lizard, known as the Onyx Skink, roams the expanse with scales that reflect and absorb light, serving as both camouflage and a sustainable energy source. The lizard has been domesticated into a beast of transportation through the hot desert.

@@ -1,9 +1,11 @@
-> [!column|4]
->> [!skill] Heft
+![[banner_3.jpg|p+tcc banner+small]]
+> [!column|4] Tier 1 Features
+>> [!skill|clean] Heft
+>> | 
 >
->> [!skill] Column 2
+>> [!skill|clean] Grace
 >
->> [!skill] Column 3
+>> [!skill|clean] Ingenuity
 >
->> [!skill] Column 4
-
+>
+>> [!skill|clean] Empathy

@@ -30,7 +30,7 @@
 		- These plants act like lightning rods
 
 - Biomes
-	- Umbra Dunes [Color Palette](https://colorhunt.co/palette/352f445c5470b9b4c7faf0e6)
+	- [x] [[Umbral Dunes]] [Color Palette](https://colorhunt.co/palette/352f445c5470b9b4c7faf0e6)
 		- Largely covered in a sand made from volcanic rock
 			- Combination darker rocks and quartz
 		- The volcanic rock was eroded by an ocean that was once there
@@ -43,7 +43,7 @@
 				- Maybe also potentially rideable 👀
 		- Birds with reflective feathers that use the shimmering of the light to communicate
 			- Feast on a plant that extracts minerals from the quartz. They use these minerals to produce their reflective sheen
-	- Silent Forest (variant)
+	- [ ] Silent Forest (variant)
 		- Peaceful ambiance
 		- A creature that resembles an inviting species (from wherever you are native)
 			- No one knows what it truly looks like
@@ -52,9 +52,9 @@
 			- Although not carnivorous, they are highly territorial, leading to the aggressive nature
 			- These creatures are nomadic
 		- The forests are... oddly silent
-	- Forest  [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
+	- [ ] Forest  [Color Palette](https://colorhunt.co/palette/ec8f5ef3b664f1eb909fbb73)
 		- 
-	- Lush Forest [Color Palette](https://colorhunt.co/palette/f6e3c5a0d9956cc4a14cacbc)
+	- [ ] Lush Forest [Color Palette](https://colorhunt.co/palette/f6e3c5a0d9956cc4a14cacbc)
 		- Extreme verticality and cliffsides
 		- Large, green trees
 		- Wide rivers and lakes
@@ -65,7 +65,7 @@
 			- They will generally eat whatever seems possible to them
 		- Some insects have eyes across their back abdomen
 			- This allows them to crawl along trees and look out into the grottos
-	- Hills [Color Palette](https://colorhunt.co/palette/fde5ecfcbaade48586916db3)
+	- [ ] Hills [Color Palette](https://colorhunt.co/palette/fde5ecfcbaade48586916db3)
 		- Covered in vast fields of a light purple grass
 		- The grass sparkles at the blinking of stars in the night
 		- Adorned with a variety of saturated orange and white flowers
@@ -76,7 +76,7 @@
 			- These creatures make a migration their whole lives from one end of the fields to the other, birthing their young near the ocean
 			- The ability of plants to grow on their porous exoskeletons allows the plants to spread their seeds further
 			- The plants also attract prey, allowing the arachne to idly hunt approaching food
-	- Swamp [Color Palette](https://colorhunt.co/palette/eac696c8ae7d76582765451f)
+	- [ ] Swamp [Color Palette](https://colorhunt.co/palette/eac696c8ae7d76582765451f)
 		- inconsistent depth, muddy waters fill this biome
 		- Small shrubbery, but few trees
 		- Below the surface are large underwater creatures
@@ -91,7 +91,7 @@
 			- These are vegetarians, despite their huge teeth
 			- The monkeys use the shallow waters to evade herds of the boars
 		- Tectonic shifts agitate the waters, sometimes angering the larger worms and drawing them to the surface of the water
-	- Underground
+	- [ ] Underground
 		- Larger interconnected tunnels created by a civilization past
 		- Tunnels were made by the taming of some large subterranean creature
 		- These creatures are now extinct and the civilization gone

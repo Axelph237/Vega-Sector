@@ -253,7 +253,9 @@ A player wins the hand if they are the last player in the game, then taking the 
 
 # Skills & Skill Tree
 ## Skills
-All skills should have an active use in the game. Essentially, these are an effect that the player can use
+All skills should have an active use in the game. Essentially, these are an effect that the player can use at any time, or that the GM can call for them to roll. When a player fails a roll, they should fail-forward (like BW). This means that a failure means either:
+A) They succeed with some penalty or negative status condition
+B) Something happens that requires them to stop taking the action
 
 Skills will be an open-buy system similar to Crown & Skull. Rather than have any stats as a character, you will purchase and use skills throughout your campaign.
 

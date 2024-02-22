@@ -127,6 +127,7 @@
 		- Counter shading
 
 # Combat
+Potentially card driven? Maybe poker hands as well?
 
 **Narrative Description:**
 Bullets whiz past your cover as you fear to stand up. Your cover hardly enough to protect you from the onslaught of enemy fire. A glass capsule slams into the ground next to you, shattering. Steaming from the canister is a dark purple gas, quickly permeating your now useless defense.
@@ -261,4 +262,3 @@ B) Something happens that requires them to stop taking the action
 Skills will be an open-buy system similar to Crown & Skull. Rather than have any stats as a character, you will purchase and use skills throughout your campaign.
 
 Unlike Crown & Skull, skills will tend to be passive features, roll modifiers, and actions that a character can take like in DND. 
-

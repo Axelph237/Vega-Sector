@@ -234,6 +234,7 @@ During character creations, tools can be equipped to each suit. Items equipped t
 - Black Suits: Equipment
 - Hearts: Equipment/Skills
 - Diamonds: Skills
+![[Pasted image 20240222074101.png|wsmall]]
 
 # Misc
 

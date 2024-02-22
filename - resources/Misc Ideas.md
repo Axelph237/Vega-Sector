@@ -251,7 +251,10 @@ When a player is challenged, they must reveal their face down cards. Total the f
 **Winning the hand:**
 A player wins the hand if they are the last player in the game, then taking the pot.
 
-# Skill Tree
+# Skills & Skill Tree
+## Skills
+All skills should have an active use in the game. Essentially, these are an effect that the player can use
+
 Skills will be an open-buy system similar to Crown & Skull. Rather than have any stats as a character, you will purchase and use skills throughout your campaign.
 
 Unlike Crown & Skull, skills will tend to be passive features, roll modifiers, and actions that a character can take like in DND. 

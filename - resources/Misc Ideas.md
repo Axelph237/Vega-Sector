@@ -127,7 +127,7 @@
 		- Counter shading
 
 # Combat
-Potentially card driven? Maybe poker hands as well?
+
 
 **Narrative Description:**
 Bullets whiz past your cover as you fear to stand up. Your cover hardly enough to protect you from the onslaught of enemy fire. A glass capsule slams into the ground next to you, shattering. Steaming from the canister is a dark purple gas, quickly permeating your now useless defense.
@@ -176,7 +176,7 @@ You quickly peak the corner of the cover, shells pouring from the side of your r
 	- If multiplication, make it minimal (only halfing)
 	- Possibly no multiplication
 
-**Guns:**
+## Guns
 ```
 Global Stats:
 - Handling
@@ -226,6 +226,8 @@ Stats:
 **Fold Weapons**
 Highly illegal, uses stitching. So uhm. Broken?
 
+## Action Economy
+Actions are taken by drawing and playing cards from hand. The cards and their actions are divided as such
 # Misc
 
 # Gambling  Game

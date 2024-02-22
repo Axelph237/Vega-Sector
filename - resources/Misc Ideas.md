@@ -227,7 +227,14 @@ Stats:
 Highly illegal, uses stitching. So uhm. Broken?
 
 ## Action Economy
-Actions are taken by drawing and playing cards from hand. The cards and their actions are divided as such
+Actions are taken by drawing and playing cards from hand. Some actions, like movement, can be taken by burning any card in hand. The cards and their actions are divided as such:
+> [!column]
+>> [!skill] Black Suits
+>> - Main actions
+>
+>
+>> [!skill] Red Suits
+>> - Side actions
 # Misc
 
 # Gambling  Game

@@ -257,6 +257,7 @@ All skills should have an active use in the game. Essentially, these are an effe
 A) They succeed with some penalty or negative status condition
 B) Something happens that requires them to stop taking the action
 
+### Skill Tree
 Skills will be an open-buy system similar to Crown & Skull. Rather than have any stats as a character, you will purchase and use skills throughout your campaign.
 
 Unlike Crown & Skull, skills will tend to be passive features, roll modifiers, and actions that a character can take like in DND. 

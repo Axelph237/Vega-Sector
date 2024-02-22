@@ -227,9 +227,9 @@ Stats:
 Highly illegal, uses stitching. So uhm. Broken?
 
 ## Action Economy
-Actions are taken by drawing and playing cards from hand. Some actions, like movement, can be taken by burning any card in hand. The cards and their actions are divided as such:
+Actions are taken by drawing and playing cards from hand. A player can play hands per turn. This means, for instance, they could play x2 High Cards, x1 High Card + x1 Pair, x2 Pair, etc. Some actions, like movement, can be taken by burning any card in hand. The cards and their actions are divided as such:
 ![[Pasted image 20240222074101.png|right wsmall]]
-- *High Card:* Small action (i.e. Movement; Using small items in inventory)
+- *High Card:* Small action (i.e. Movement; Melee attack; Using small items in inventory)
 - *Pair:* Standard action (i.e. Attack; Charged small)
 - *Two Pair:* Standard action + Charged small
 - *Three of a Kind:* Charged standard action

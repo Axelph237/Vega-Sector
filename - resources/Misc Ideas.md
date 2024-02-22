@@ -228,14 +228,12 @@ Highly illegal, uses stitching. So uhm. Broken?
 
 ## Action Economy
 Actions are taken by drawing and playing cards from hand. Some actions, like movement, can be taken by burning any card in hand. The cards and their actions are divided as such:
-- Black Suits: Main actions
-- Red Suits: Side actions
-During character creations, tools can be equipped to each suit. Items equipped to either of the black suits are typically items that represent main actions usable by the character. The red suits represent actions the player can take and/or items the player can use. A further breakdown is as such:
-- Black Suits: Equipment
-- Hearts: Equipment/Skills
-- Diamonds: Skills
-![[Pasted image 20240222074101.png|wsmall]]
-
+![[Pasted image 20240222074101.png|right wsmall]]
+- *High Card:* Small action (Movement, using small items in inventory)
+- *Pair:* Standard action (Attack, Charged small action)
+- *Two Pair:* Standard action + Charged small action
+- *Three of a Kind:* Charged standard action
+- *Straight:* 
 # Misc
 
 # Gambling  Game

@@ -14,7 +14,11 @@ Each round of combat begins with an upkeep phase. During this phase, the followi
 ## Phases
 After upkeep is completed, play moves into the round *phases*. Starting with phase 1, any players in the *phase* take their turn (order of their choice), followed by any NPCs in that phase.
 # Player Turns
-During a player's turn, they have the option to play up to two "hands." Each "hand" must be a valid hand in poker. For instance, a player could look at their four cards and play two high card, a high card and a pair, two pair, etc. When one of that player's cards is used in a "hand," it may not be used a second time. 
+During a player's turn, they have the option to play up to two "hands." Each "hand" must be a valid hand in poker. For instance, a player could look at their four cards and play two high card, a high card and a pair, two pair, etc. When one of that player's cards is used in a "hand," it may not be used a second time. Unlike poker, however, a "hand" is only the cards actually being played. When a 
 
 Additionally, players can count *shared* cards towards any "hand" higher rank than a high card. This means that if a card such as a King is in the *shared* cards, they could play a King from their hand as a pair. They cannot, however, use the *shared* King as a high card.
+## "Hand" Actions
+Each "hand" played represents an action that the player can then take. This means that each turn, a player can take up to two actions.
+
+| Hand |
 # Enemy Turns

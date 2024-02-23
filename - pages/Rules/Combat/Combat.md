@@ -18,7 +18,7 @@ During a player's turn, they have the option to play up to two "hands." Each "ha
 
 Additionally, players can count *shared* cards towards any "hand" higher rank than a high card. This means that if a card such as a King is in the *shared* cards, they could play a King from their hand as a pair. They cannot, however, use the *shared* King as a high card.
 
-After a player has played up to two "hands" or has chosen to pass, they will discard the remaining cards in their hand. Play will then continue 
+After a player has played up to two "hands" or has chosen to pass, they will discard the remaining cards in their hand. Their turn is now over. Play will then continue in phase order.
 ## "Hand" Actions
 Each "hand" played represents an action that the player can then take.
 
@@ -54,4 +54,7 @@ Heavy actions include combat swaying abilities like:
 - Attack combos
 And other difficult/intensive interactions.
 
+## Nuances in Turn Order
+During play, you may begin to realize that certain actions wouldn't affect a player who has already taken their turn. For this reason, the following should be considered:
+- If a player (A) would cause another player (B) who has already taken their turn to draw, then that player (B) will draw an additional card at the start of the following round.
 # Enemy Turns

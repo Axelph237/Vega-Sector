@@ -9,6 +9,7 @@ Each round of combat begins with an upkeep phase. During this phase, the followi
 - Beginning of round effects are resolved
 - A new *game* is set
 	- Deal 4 cards to each player
+	- Deal a number of cards equal to the different enemy 
 	- Flip a number of cards from the deck faceup equal to the round number (1 for Round 1, 2 for Round 2, etc.). These are *shared* cards.
 	- Each player gets a chance to exchange one of their cards with another player (Each player can swap up to twice, once at someone else' request, and once at their own)
 ## Phases

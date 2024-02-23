@@ -62,4 +62,6 @@ During play, you may begin to realize that certain actions wouldn't affect a pla
 ## Resolving Enemy Turns
 A GM may choose one of two ways to resolve enemy turns. One of which is by group, and the other is by individual enemies. Typically, if the number of enemies outnumbers the players, handling their actions by group is faster than individually. However, if the GM wants to make the combat feel more dynamic, they can take actions for each enemy individually. Regardless, enemy "hands" are played for an entire group of enemies.
 ## Determining Actions
-No matter which way a GM decides to resolve enemy turns
+No matter which way a GM decides to resolve enemy turns, actions (and revenge) must be taken! Each type of enemy will have a set of actions that it will take depending on the roll of a D12. Typically, the higher the number the more dangerous of an action taken. As the GM, rolls may be changed in benefit or against the players. However, trust the dice, typically only change the value of the roll made by +/-1.
+## Playing Enemy "Hands"
+Like with player turns, enemies have the chance to play cards to take advantage of shifting tides in battle. After enemy actions are determined for a group (either through group or individual rolls), the GM may play a hand from their set of cards (including *shared* cards). The hand they choose to play is likely determined by the actions rolled for that group of enemies as each action has a differe

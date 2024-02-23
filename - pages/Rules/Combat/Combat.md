@@ -9,7 +9,7 @@ Each round of combat begins with an upkeep phase. During this phase, the followi
 - Beginning of round effects are resolved
 - A new *game* is set
 	- Deal 4 cards to each player
-	- Deal a number of cards equal to the different enemy 
+	- Deal (# of enemy types) + 1 cards to the GM
 	- Flip a number of cards from the deck faceup equal to the round number (1 for Round 1, 2 for Round 2, etc.). These are *shared* cards.
 	- Each player gets a chance to exchange one of their cards with another player (Each player can swap up to twice, once at someone else' request, and once at their own)
 ## Phases
@@ -59,3 +59,7 @@ And other difficult/intensive interactions.
 During play, you may begin to realize that certain actions wouldn't affect a player who has already taken their turn. For this reason, the following should be considered:
 - If a player (A) would cause another player (B) who has already taken their turn to draw, then that player (B) will draw an additional card at the start of the following round.
 # Enemy Turns
+## Resolving Enemy Turns
+A GM may choose one of two ways to resolve enemy turns. One of which is by group, and the other is by individual enemies. Typically, if the number of enemies outnumbers the players, handling their actions by group is faster than individually. However, if the GM wants to make the combat feel more dynamic, they can take actions for each enemy individually. Regardless, enemy "hands" are played for an entire group of enemies.
+## Determining Actions
+No matter which way a GM decides to resolve enemy turns

@@ -6,7 +6,15 @@ In Vega Sector, combat happens over a series of *rounds*, each of which consists
 # Combat Flow
 ## Upkeep
 Each round of combat begins with an upkeep phase. During this phase, the following happens:
-- 
+- GM reshuffles the deck
+- Beginning of round effects are resolved
+- A new game is set
+	- Deal 4 cards to each player
+	- Flip a number of cards from the deck faceup equal to the round number (1 for Round 1, 2 for Round 2, etc.)
+	- Each player gets a chance to exchange one of their cards with another player (Each player can swap up to twice, once at someone else' request, and once at their own)
+
+## Phases
+After upkeep is completed, play moves into the round phases. Starting with Round 1, all players take their turns, followed by any NPCs.
 
 # Player Turns
 

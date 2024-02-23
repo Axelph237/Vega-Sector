@@ -23,13 +23,13 @@ Each "hand" played represents an action that the player can then take.
 | Hand            | Actions                                                                             |
 | --------------- | ----------------------------------------------------------------------------------- |
 | High Card       | 1 Small action (Movement; Melee attack; Using item in inventory; Basic interaction) |
-| Pair            | 1 Standard action (Attack; Complex interaction; Charged small action)               |
-| Two Pair        | 1 Standard action                                                                   |
-| Three of a Kind |                                                                                     |
+| Pair            | 1 Standard action (Attack; Complex interaction; *Charged* small action)             |
+| Two Pair        | 1 Standard action + 1 *Charged* small action                                        |
+| Three of a Kind | 1 *Charged* standard action                                                         |
 | Straight        |                                                                                     |
 | Flush           |                                                                                     |
-| Full House      |                                                                                     |
-| Four of a Kind  |                                                                                     |
+| Full House      | 1 *Charged* standard action + 1 Standard action                                     |
+| Four of a Kind  | 2 *Charged* sta                                                                     |
 | Straight Flush  |                                                                                     |
 | Royal Flush     |                                                                                     |
 # Enemy Turns

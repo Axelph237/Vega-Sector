@@ -19,7 +19,7 @@ During a player's turn, they have the option to play up to two "hands." Each "ha
 Additionally, players can count *shared* cards towards any "hand" higher rank than a high card. This means that if a card such as a King is in the *shared* cards, they could play a King from their hand as a pair. They cannot, however, use the *shared* King as a high card.
 ## "Hand" Actions
 Each "hand" played represents an action that the player can then take. 
-small < standard < heavy
+**small** < *charged small* < **standard** < *charged standard* < **heavy**
 
 | Hand                                                 | Actions                                                                                                            |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -30,8 +30,8 @@ small < standard < heavy
 | <span style="color:#ffc800">Straight / Flush</span>- | 1 <span style="color:#ffc800">Heavy</span> action + 1 *Charged* <span style="color:#b7e189">small</span> action    |
 | <span style="color:#ffc800">Full House</span>        | 1 *Charged* <span style="color:#ffc800">heavy</span> action + 1 <span style="color:#38b7e5">standard</span> action |
 | <span style="color:#bf7ff0">Four of a Kind</span>    |                                                                                                                    |
-| Straight Flush                                       |                                                                                                                    |
-| Royal Flush                                          | 1 *Charged* <span style="color:#ffc800">heavy</span> action, then redraw and take another turn                     |
+| <span style="color:#bf7ff0">Straight Flush</span>    |                                                                                                                    |
+| <span style="color:#bf7ff0">Royal Flush</span>       | 1 *Charged* <span style="color:#ffc800">heavy</span> action, then redraw and take another turn                     |
 ## Action Types
 ### Small Action
 Small actions include things like:

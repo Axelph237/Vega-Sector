@@ -20,16 +20,15 @@ Additionally, players can count *shared* cards towards any "hand" higher rank th
 ## "Hand" Actions
 Each "hand" played represents an action that the player can then take. 
 
-| Hand            | Actions                                                                             |
-| --------------- | ----------------------------------------------------------------------------------- |
-| High Card       | 1 Small action (Movement; Melee attack; Using item in inventory; Basic interaction) |
-| Pair            | 1 Standard action (Attack; Complex interaction; *Charged* small action)             |
-| Two Pair        | 1 Standard action + 1 *Charged* small action                                        |
-| Three of a Kind | 1 *Charged* standard action                                                         |
-| Straight        |                                                                                     |
-| Flush           |                                                                                     |
-| Full House      | 1 *Charged* standard action + 1 Standard action                                     |
-| Four of a Kind  | 2 *Charged* sta                                                                     |
-| Straight Flush  |                                                                                     |
-| Royal Flush     |                                                                                     |
+| Hand             | Actions                                                                             |
+| ---------------- | ----------------------------------------------------------------------------------- |
+| High Card        | 1 Small action (Movement; Melee attack; Using item in inventory; Basic interaction) |
+| Pair             | 1 Standard action (Attack; Complex interaction; *Charged* small action)             |
+| Two Pair         | 1 Standard action + 1 *Charged* small action                                        |
+| Three of a Kind  | 1 *Charged* standard action                                                         |
+| Straight / Flush | 1 Heavy action                                                                      |
+| Full House       | 1 *Charged* standard action + 1 Standard action                                     |
+| Four of a Kind   | 2 *Charged* standard actions                                                        |
+| Straight Flush   | 1 *Charged* heavy action                                                            |
+| Royal Flush      |                                                                                     |
 # Enemy Turns

@@ -55,6 +55,8 @@ Heavy actions include combat swaying abilities like:
 - Heavy weapon usage
 - Attack combos
 And other difficult/intensive interactions.
+### Improvising
+As a GM, it is good to encourage your players to think outside of the actions in front of them. What this requires, though, is some improvising from the GM on the cost of certain actions. Here is how this conversation may go
 ## Nuances in Turn Order
 During play, you may begin to realize that certain actions wouldn't affect a player who has already taken their turn. For this reason, the following should be considered:
 - If a player (A) would cause another player (B) who has already taken their turn to draw, then that player (B) will draw an additional card at the start of the following round.

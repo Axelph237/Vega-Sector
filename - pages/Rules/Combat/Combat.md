@@ -21,17 +21,17 @@ Additionally, players can count *shared* cards towards any "hand" higher rank th
 Each "hand" played represents an action that the player can then take. 
 small < standard < heavy
 
-| Hand              | Actions                                                                             |
-| ----------------- | ----------------------------------------------------------------------------------- |
-| High Card*        | 1 Small action (Movement; Melee attack; Using item in inventory; Basic interaction) |
-| Pair*             | 1 Standard action (Attack; Complex interaction; *Charged* small action)             |
-| Two Pair-         | 1 Standard action + 1 *Charged* small action                                        |
-| Three of a Kind*  | 1 Heavy action                                                                      |
-| Straight / Flush- | 1 Heavy action + 1 *Charged* small action                                           |
-| Full House        | 1 *Charged* heavy action + 1 standard action                                        |
-| Four of a Kind    |                                                                                     |
-| Straight Flush    |                                                                                     |
-| Royal Flush       | 1 *Charged* heavy action, then redraw and take another turn                         |
+| Hand              | Actions                                                     |
+| ----------------- | ----------------------------------------------------------- |
+| High Card*        | 1 Small action                                              |
+| Pair*             | 1 Standard action                                           |
+| Two Pair-         | 1 Standard action + 1 *Charged* small action                |
+| Three of a Kind*  | 1 Heavy action                                              |
+| Straight / Flush- | 1 Heavy action + 1 *Charged* small action                   |
+| Full House        | 1 *Charged* heavy action + 1 standard action                |
+| Four of a Kind    |                                                             |
+| Straight Flush    |                                                             |
+| Royal Flush       | 1 *Charged* heavy action, then redraw and take another turn |
 ## Action Types
 ### Small Action
 Small actions include things like:
@@ -48,6 +48,9 @@ Standard actions include things like:
 And other complex interactions.
 ### Heavy Action
 Heavy actions include combat swaying abilities like:
-- 
+- Special abilities
+- Heavy weapon usage
+- Attack combos
+And other difficult/intensive interactions.
 
 # Enemy Turns

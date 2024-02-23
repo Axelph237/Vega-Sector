@@ -2,7 +2,6 @@
 ____
 ## Grid
 Movement is performed along a square grid. Movement from one square to any cardinally or diagonally adjacent square is considered to be 10 feet of movement. 
-
 ## Difficult Terrain
 Some tiles may be considered *difficult terrain*. A tile that is difficult terrain takes a bonus 10 feet of movement to enter. Additionally, a GM may choose to make other forms of movement considered difficult terrain. Some of these include things like scaling stairs and opening doors. 
 

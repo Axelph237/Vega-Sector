@@ -22,17 +22,17 @@ Each "hand" played represents an action that the player can then take.
 **small** < *charged small* < **standard** < *charged standard* < **heavy** < *charged heavy*
 0.5       < 0.75                   < 1                   < 1.5                             < 2            < 3
 
-| Hand                                                 | Actions                                                                                                                   |     |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --- |
-| <span style="color:#b7e189">High Card</span>         | 1 <span style="color:#b7e189">Small </span>action                                                                         | 0.5 |
-| <span style="color:#38b7e5">Pair</span>              | 1 <span style="color:#38b7e5">Standard</span> action                                                                      | 1   |
-| <span style="color:#38b7e5">Two Pair</span>          | 1 <span style="color:#38b7e5">Standard</span> action + 1 *Charged* <span style="color:#b7e189">small</span> action        |     |
-| <span style="color:#ffc800">Three of a Kind</span>*  | 1 <span style="color:#ffc800">Heavy</span> action                                                                         |     |
-| <span style="color:#ffc800">Straight / Flush</span>- | 1 <span style="color:#ffc800">Heavy</span> action + 1 *Charged* <span style="color:#b7e189">small</span> action           |     |
-| <span style="color:#ffc800">Full House</span>        | 1 <span style="color:#ffc800">Heavy</span> action + 1 <span style="color:#38b7e5">standard</span> action                  |     |
-| <span style="color:#bf7ff0">Four of a Kind</span>    | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action                                                               |     |
-| <span style="color:#bf7ff0">Straight Flush</span>    | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action + 1 *Charged* <span style="color:#b7e189">small</span> action |     |
-| <span style="color:#bf7ff0">Royal Flush</span>       | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action, then redraw and take another turn                            |     |
+| Hand                                                 | Actions                                                                                                                   | Hand Value |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| <span style="color:#b7e189">High Card</span>         | 1 <span style="color:#b7e189">Small </span>action                                                                         | 0.5        |
+| <span style="color:#38b7e5">Pair</span>              | 1 <span style="color:#38b7e5">Standard</span> action                                                                      | 1          |
+| <span style="color:#38b7e5">Two Pair</span>          | 1 <span style="color:#38b7e5">Standard</span> action + 1 *Charged* <span style="color:#b7e189">small</span> action        | 1.75 / 2   |
+| <span style="color:#ffc800">Three of a Kind</span>*  | 1 <span style="color:#ffc800">Heavy</span> action                                                                         | 2          |
+| <span style="color:#ffc800">Straight / Flush</span>- | 1 <span style="color:#ffc800">Heavy</span> action + 1 <span style="color:#b7e189">small</span> action                     | 2.5        |
+| <span style="color:#ffc800">Full House</span>        | 1 <span style="color:#ffc800">Heavy</span> action + 1 <span style="color:#38b7e5">standard</span> action                  | 3          |
+| <span style="color:#bf7ff0">Four of a Kind</span>    | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action + 1 <span style="color:#b7e189">small</span> action           | 3.25       |
+| <span style="color:#bf7ff0">Straight Flush</span>    | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action + 1 *Charged* <span style="color:#b7e189">small</span> action | 3.75       |
+| <span style="color:#bf7ff0">Royal Flush</span>       | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action, then redraw and take another turn                            | 4+         |
 ## Action Types
 ### Small Action
 Small actions include things like:

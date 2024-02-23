@@ -20,16 +20,16 @@ Additionally, players can count *shared* cards towards any "hand" higher rank th
 ## "Hand" Actions
 Each "hand" played represents an action that the player can then take. 
 
-| Hand            | Actions                                                                                              |
-| --------------- | ---------------------------------------------------------------------------------------------------- |
-| High Card       | 1 Small action (Movement; Melee attack; Using item in inventory; Basic interaction with environment) |
-| Pair            | 1 Standard action ()                                                                                 |
-| Two Pair        |                                                                                                      |
-| Three of a Kind |                                                                                                      |
-| Straight        |                                                                                                      |
-| Flush           |                                                                                                      |
-| Full House      |                                                                                                      |
-| Four of a Kind  |                                                                                                      |
-| Straight Flush  |                                                                                                      |
-| Royal Flush     |                                                                                                      |
+| Hand            | Actions                                                                             |
+| --------------- | ----------------------------------------------------------------------------------- |
+| High Card       | 1 Small action (Movement; Melee attack; Using item in inventory; Basic interaction) |
+| Pair            | 1 Standard action (Attack; Complex interaction; Charged small action)               |
+| Two Pair        | 1 Standard action                                                                   |
+| Three of a Kind |                                                                                     |
+| Straight        |                                                                                     |
+| Flush           |                                                                                     |
+| Full House      |                                                                                     |
+| Four of a Kind  |                                                                                     |
+| Straight Flush  |                                                                                     |
+| Royal Flush     |                                                                                     |
 # Enemy Turns

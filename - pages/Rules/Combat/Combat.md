@@ -21,17 +21,17 @@ Additionally, players can count *shared* cards towards any "hand" higher rank th
 Each "hand" played represents an action that the player can then take. 
 small < standard < heavy
 
-| Hand              | Actions                                                     |
-| ----------------- | ----------------------------------------------------------- |
-| High Card*        | 1 Small action                                              |
-| Pair*             | 1 Standard action                                           |
-| Two Pair-         | 1 Standard action + 1 *Charged* small action                |
-| Three of a Kind*  | 1 Heavy action                                              |
-| Straight / Flush- | 1 Heavy action + 1 *Charged* small action                   |
-| Full House        | 1 *Charged* heavy action + 1 standard action                |
-| Four of a Kind    |                                                             |
-| Straight Flush    |                                                             |
-| Royal Flush       | 1 *Charged* heavy action, then redraw and take another turn |
+| Hand                                                 | Actions                                                                                                            |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| <span style="color:#b7e189">High Card</span>         | 1 <span style="color:#b7e189">Small </span>action                                                                  |
+| <span style="color:#38b7e5">Pair</span>              | 1 <span style="color:#38b7e5">Standard</span> action                                                               |
+| <span style="color:#38b7e5">Two Pair</span>          | 1 <span style="color:#38b7e5">Standard</span> action + 1 *Charged* <span style="color:#b7e189">small</span> action |
+| <span style="color:#ffc800">Three of a Kind</span>*  | 1 <span style="color:#ffc800">Heavy</span> action                                                                  |
+| <span style="color:#ffc800">Straight / Flush</span>- | 1 <span style="color:#ffc800">Heavy</span> action + 1 *Charged* <span style="color:#b7e189">small</span> action    |
+| <span style="color:#ffc800">Full House</span>        | 1 *Charged* <span style="color:#ffc800">heavy</span> action + 1 <span style="color:#38b7e5">standard</span> action |
+| <span style="color:#bf7ff0">Four of a Kind</span>    |                                                                                                                    |
+| Straight Flush                                       |                                                                                                                    |
+| Royal Flush                                          | 1 *Charged* <span style="color:#ffc800">heavy</span> action, then redraw and take another turn                     |
 ## Action Types
 ### Small Action
 Small actions include things like:

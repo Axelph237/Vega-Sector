@@ -31,4 +31,6 @@ Each "hand" played represents an action that the player can then take.
 | Four of a Kind   | 2 *Charged* standard actions                                                        |
 | Straight Flush   | 1 *Charged* heavy action + 1 *Charged* small action                                 |
 | Royal Flush      | 1 *Charged* heavy action, then redraw and take another turn                         |
+
+
 # Enemy Turns

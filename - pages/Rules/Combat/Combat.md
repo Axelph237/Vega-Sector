@@ -26,9 +26,9 @@ Each "hand" played represents an action that the player can then take.
 | Pair             | 1 Standard action (Attack; Complex interaction; *Charged* small action)             |
 | Two Pair         | 1 Standard action + 1 *Charged* small action                                        |
 | Three of a Kind  | 1 *Charged* standard action                                                         |
-| Straight / Flush | 1 Heavy action                                                                      |
-| Full House       | 1 *Charged* standard action + 1 Standard action                                     |
+| Straight / Flush | 1 Heavy action + 1 Small action                                                     |
+| Full House       | 1 *Charged* standard action + 1 *Charged* small action                              |
 | Four of a Kind   | 2 *Charged* standard actions                                                        |
-| Straight Flush   | 1 *Charged* heavy action                                                            |
-| Royal Flush      |                                                                                     |
+| Straight Flush   | 1 *Charged* heavy action + 1 *Charged* small action                                 |
+| Royal Flush      | 1 *Charged* heavy action, then redraw and take another turn                         |
 # Enemy Turns

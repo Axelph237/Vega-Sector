@@ -23,21 +23,21 @@ After a player has played up to two "hands" or has chosen to pass, they will dis
 ## "Hand" Actions
 Each "hand" played represents an action that the player can then take.
 
-| Hand                                                | Actions                                                                                                                   |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Joker                                               | Played as a wild in any other hand                                                                                        |
-| <span style="color:#b7e189">High Card</span>        | 1 <span style="color:#b7e189">Small </span>action                                                                         |
-| <span style="color:#38b7e5">Pair</span>             | 1 <span style="color:#38b7e5">Standard</span> action                                                                      |
-| <span style="color:#38b7e5">Two Pair</span>         | 1 <span style="color:#38b7e5">Standard</span> action + 1 *Charged* <span style="color:#b7e189">small</span> action        |
-| <span style="color:#ffc800">Three of a Kind</span>  | 1 <span style="color:#ffc800">Heavy</span> action                                                                         |
-| <span style="color:#ffc800">Straight / Flush</span> | 1 <span style="color:#ffc800">Heavy</span> action + 1 <span style="color:#b7e189">small</span> action                     |
-| <span style="color:#ffc800">Full House</span>       | 1 <span style="color:#ffc800">Heavy</span> action + 1 <span style="color:#38b7e5">standard</span> action                  |
-| <span style="color:#bf7ff0">Four of a Kind</span>   | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action + 1 <span style="color:#b7e189">small</span> action           |
-| <span style="color:#bf7ff0">Straight Flush</span>   | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action + 1 *Charged* <span style="color:#b7e189">small</span> action |
-| <span style="color:#bf7ff0">Royal Flush</span>      | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action, then redraw and take another turn                            |
+| Hand                                                | Actions                                                                                                                    |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Joker                                               | Played as a wild in any other hand                                                                                         |
+| <span style="color:#b7e189">High Card</span>        | 1 <span style="color:#b7e189">Simple </span>action                                                                         |
+| <span style="color:#38b7e5">Pair</span>             | 1 <span style="color:#38b7e5">Standard</span> action                                                                       |
+| <span style="color:#38b7e5">Two Pair</span>         | 1 <span style="color:#38b7e5">Standard</span> action + 1 *Charged* <span style="color:#b7e189">simple</span> action        |
+| <span style="color:#ffc800">Three of a Kind</span>  | 1 <span style="color:#ffc800">Heavy</span> action                                                                          |
+| <span style="color:#ffc800">Straight / Flush</span> | 1 <span style="color:#ffc800">Heavy</span> action + 1 <span style="color:#b7e189">simple</span> action                     |
+| <span style="color:#ffc800">Full House</span>       | 1 <span style="color:#ffc800">Heavy</span> action + 1 <span style="color:#38b7e5">standard</span> action                   |
+| <span style="color:#bf7ff0">Four of a Kind</span>   | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action + 1 <span style="color:#b7e189">simple</span> action           |
+| <span style="color:#bf7ff0">Straight Flush</span>   | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action + 1 *Charged* <span style="color:#b7e189">simple</span> action |
+| <span style="color:#bf7ff0">Royal Flush</span>      | 1 *Charged* <span style="color:#bf7ff0">heavy</span> action, then redraw and take another turn                             |
 ## Action Types
-### Small Action
-Small actions include things like:
+### Simple Action
+Simple actions include things like:
 - Movement
 - Melee attacks
 - Readying weapons

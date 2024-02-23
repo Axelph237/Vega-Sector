@@ -19,18 +19,19 @@ During a player's turn, they have the option to play up to two "hands." Each "ha
 Additionally, players can count *shared* cards towards any "hand" higher rank than a high card. This means that if a card such as a King is in the *shared* cards, they could play a King from their hand as a pair. They cannot, however, use the *shared* King as a high card.
 ## "Hand" Actions
 Each "hand" played represents an action that the player can then take. 
+small < standard < heavy
 
-| Hand             | Actions                                                                             |
-| ---------------- | ----------------------------------------------------------------------------------- |
-| High Card        | 1 Small action (Movement; Melee attack; Using item in inventory; Basic interaction) |
-| Pair             | 1 Standard action (Attack; Complex interaction; *Charged* small action)             |
-| Two Pair         | 1 Standard action + 1 *Charged* small action                                        |
-| Three of a Kind  | 1 *Charged* standard action                                                         |
-| Straight / Flush | 1 Heavy action + 1 Small action                                                     |
-| Full House       | 1 *Charged* standard action + 1 *Charged* small action                              |
-| Four of a Kind   | 2 *Charged* standard actions                                                        |
-| Straight Flush   | 1 *Charged* heavy action + 1 *Charged* small action                                 |
-| Royal Flush      | 1 *Charged* heavy action, then redraw and take another turn                         |
+| Hand              | Actions                                                                             |
+| ----------------- | ----------------------------------------------------------------------------------- |
+| High Card*        | 1 Small action (Movement; Melee attack; Using item in inventory; Basic interaction) |
+| Pair*             | 1 Standard action (Attack; Complex interaction; *Charged* small action)             |
+| Two Pair-         | 1 Standard action + 1 *Charged* small action                                        |
+| Three of a Kind*  | 1 Heavy action                                                                      |
+| Straight / Flush- | 1 Heavy action + 1 *Charged* small action                                           |
+| Full House        | 1 *Charged* heavy action + 1 standard action                                        |
+| Four of a Kind    |                                                                                     |
+| Straight Flush    |                                                                                     |
+| Royal Flush       | 1 *Charged* heavy action, then redraw and take another turn                         |
 ## Action Types
 ### Small Action
 Small actions include things like:

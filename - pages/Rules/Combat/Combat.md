@@ -11,7 +11,7 @@ Each round of combat begins with an upkeep phase. During this phase, the followi
 	- Deal 4 cards to each player
 	- Deal (# of enemy types) + 1 cards to the GM
 	- Flip a number of cards from the deck faceup equal to the round number (1 for Round 1, 2 for Round 2, etc.). These are *shared* cards.
-	- ~~Each player gets a chance to exchange one of their cards with another player (Each player can swap up to twice, once at someone else' request, and once at their own)~~
+	- Each player gets a chance to exchange one of their cards with another player (Each player can swap up to twice, once at someone else' request, and once at their own)
 ## Phases
 After upkeep is completed, play moves into the round *phases*. Starting with phase 1, any players in the *phase* take their turn (order of their choice), followed by any NPCs in that phase.
 # Player Turns

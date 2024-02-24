@@ -54,6 +54,7 @@ Heavy actions include combat swaying abilities like:
 - Special abilities
 - Heavy weapon usage
 - Attack combos
+- Charged standard actions
 And other difficult/intensive interactions.
 ### Improvising
 As a GM, it is good to encourage your players to think outside of the actions in front of them. What this requires, though, is some improvising from the GM on the cost of certain actions. Here is how this conversation may go:

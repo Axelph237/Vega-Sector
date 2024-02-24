@@ -239,7 +239,7 @@ Actions are taken by drawing and playing cards from hand. A player can play hand
 - *Four of a Kind:* 
 - *Straight Flush:* 
 - *Royal Flush:* 
-# Misc
+# Misc.
 
 # Gambling  Game
 
@@ -265,13 +265,5 @@ When a player is challenged, they must reveal their face down cards. Total the f
 **Winning the hand:**
 A player wins the hand if they are the last player in the game, then taking the pot.
 
-# Skills & Skill Tree
-## Skills
-All skills should have an active use in the game. Essentially, these are an effect that the player can use at any time, or that the GM can call for them to roll. When a player fails a roll, they should fail-forward (like BW). This means that a failure means either:
-A) They succeed with some penalty or negative status condition
-B) Something happens that requires them to stop taking the action
+# Character Creation
 
-### Skill Tree
-Skills will be an open-buy system similar to Crown & Skull. Rather than have any stats as a character, you will purchase and use skills throughout your campaign.
-
-Unlike Crown & Skull, skills will tend to be passive features, roll modifiers, and actions that a character can take like in DND. 

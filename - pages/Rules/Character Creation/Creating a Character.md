@@ -30,11 +30,11 @@ ____
 | Painting        |             |
 | Programming     |             |
 | Shooting        |             |
-| Swimming        |             |
-| Slight of Hand  |             |
-| Story Telling   |             |
 | Singing         |             |
+| Slight of Hand  |             |
 | Stealth         |             |
+| Story Telling   |             |
 | Strength        |             |
 | Survival        |             |
+| Swimming        |             |
 | Tracking        |             |

@@ -6,7 +6,7 @@ Unless otherwise specified, a creature may target any creature that is within li
 # Determining Hits
 When attacking with a melee weapon, skip rolling to hit and instead skip straight to dealing damage. However, as for ranged weapons, a `stability` check must first be made.
 # Dealing Damage
-A weapon deals damage equal to its `power` dice. Simply roll these dice to see how much damage is dealt to the target. Some types of weapons may deal damage differently such as [[Weapons#Firearms|firearms]] as well as [[Tags#Explosive|explosive]] items.
+A weapon deals damage equal to its `power` dice. Simply roll these dice to see how much damage is dealt to the target. Some types of weapons may deal damage differently such as firearms as well as [[Tags#Explosive|explosive]] items.
 # Weapon Types
 ## Melee Weapons
 Melee weapons have no special rules. For the sake of targeting, a melee weapon may only be used on adjacent creatures.

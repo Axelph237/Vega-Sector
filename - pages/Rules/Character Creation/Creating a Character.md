@@ -7,7 +7,19 @@ ____
 Enemy Stats
 - Health
 - Movement speed
-# Skill
-- Stealth
-- Slight of Hand
-- 
+# Skills
+| Skill           | Description |
+| --------------- | ----------- |
+| Shooting        |             |
+| Survival        |             |
+| Observation     |             |
+| Negotiating     |             |
+| Programming     |             |
+| Entertaining    |             |
+| Ecology         |             |
+| Gardening       |             |
+| Foraging        |             |
+| Painting        |             |
+| Hunting         |             |
+| Animal Training |             |
+| Story Telling   |             |

@@ -2,6 +2,8 @@
 ____
 
 # Stats
-- ~~DEF~~
-- ~~Health~~
-- Damage
+- Movement speed
+
+Enemy Stats
+- Health
+- Movement speed

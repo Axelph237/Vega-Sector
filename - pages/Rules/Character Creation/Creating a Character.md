@@ -1,13 +1,8 @@
 ![[banner_3.jpg|p+tcc banner+small]]
 ____
 
-# Stats
-- Movement speed
-
-Enemy Stats
-- Health
-- Movement speed
 # Skills
+
 | Skill           | Description |
 | --------------- | ----------- |
 | Shooting        |             |
@@ -23,3 +18,23 @@ Enemy Stats
 | Hunting         |             |
 | Animal Training |             |
 | Story Telling   |             |
+| Stealth         |             |
+| Slight of Hand  |             |
+| Strength        |             |
+| Climbing        |             |
+| Falling         |             |
+| Swimming        |             |
+| Driving         |             |
+| Bartering       |             |
+| Hacking         |             |
+| Interrogating   |             |
+| Deception       |             |
+| Charming        |             |
+| Engineering     |             |
+| Gambling        |             |
+| Singing         |             |
+| Literature      |             |
+| Animal Handling |             |
+| Tracking        |             |
+| Cooking         |             |
+| Jumping         |             |

@@ -2,4 +2,6 @@
 ____
 
 # Stats
-- 
+- ~~DEF~~
+- ~~Health~~
+- Damage

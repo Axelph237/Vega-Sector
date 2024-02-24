@@ -7,3 +7,7 @@ ____
 Enemy Stats
 - Health
 - Movement speed
+# Skill
+- Stealth
+- Slight of Hand
+- 

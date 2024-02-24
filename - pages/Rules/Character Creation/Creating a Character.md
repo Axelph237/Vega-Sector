@@ -5,36 +5,36 @@ ____
 
 | Skill           | Description |
 | --------------- | ----------- |
-| Shooting        |             |
-| Survival        |             |
-| Observation     |             |
-| Negotiating     |             |
-| Programming     |             |
-| Entertaining    |             |
-| Ecology         |             |
-| Gardening       |             |
-| Foraging        |             |
-| Painting        |             |
-| Hunting         |             |
-| Animal Training |             |
-| Story Telling   |             |
-| Stealth         |             |
-| Slight of Hand  |             |
-| Strength        |             |
-| Climbing        |             |
-| Falling         |             |
-| Swimming        |             |
-| Driving         |             |
-| Bartering       |             |
-| Hacking         |             |
-| Interrogating   |             |
-| Deception       |             |
-| Charming        |             |
-| Engineering     |             |
-| Gambling        |             |
-| Singing         |             |
-| Literature      |             |
 | Animal Handling |             |
-| Tracking        |             |
+| Animal Training |             |
+| Bartering       |             |
+| Charming        |             |
+| Climbing        |             |
 | Cooking         |             |
+| Deception       |             |
+| Driving         |             |
+| Ecology         |             |
+| Engineering     |             |
+| Entertaining    |             |
+| Falling         |             |
+| Foraging        |             |
+| Gambling        |             |
+| Gardening       |             |
+| Hacking         |             |
+| Hunting         |             |
+| Interrogating   |             |
 | Jumping         |             |
+| Literature      |             |
+| Negotiating     |             |
+| Observation     |             |
+| Painting        |             |
+| Programming     |             |
+| Shooting        |             |
+| Swimming        |             |
+| Slight of Hand  |             |
+| Story Telling   |             |
+| Singing         |             |
+| Stealth         |             |
+| Strength        |             |
+| Survival        |             |
+| Tracking        |             |

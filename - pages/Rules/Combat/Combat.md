@@ -47,7 +47,7 @@ And other basic interactions.
 Standard actions include things like:
 - Ranged attacks
 - Special skills
-- Charged small actions
+- Charged simple actions
 And other complex interactions.
 ### Heavy Action
 Heavy actions include combat swaying abilities like:

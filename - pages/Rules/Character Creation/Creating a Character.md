@@ -36,8 +36,8 @@ ____
 | Slight of Hand  | The dexterity of your hands beats the human eye. Card tricks and petty theft are never out of reach for you.                                                            |
 | Sprinting       | You have an affinity for moving quickly. Luckily, your legs have propelled you towards that goal.                                                                       |
 | Stealth         | Hiding in plain sight or the shadows. You're a master at escaping (or entering) dangerous situations unseen.                                                            |
-| Strength        |                                                                                                                                                                         |
-| Survival        |                                                                                                                                                                         |
+| Strength        | You're much stronger than the average person, able to lift and carry things that many others would be unable to.                                                        |
+| Survival        | The wild is your home. You find it easy to                                                                                                                              |
 | Swimming        |                                                                                                                                                                         |
 | Tracking        |                                                                                                                                                                         |
 

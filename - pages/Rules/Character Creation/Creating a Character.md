@@ -19,10 +19,10 @@ ____
 | Foraging        | You've always enjoyed scavenging and utilizing the bounty of Mother Nature.                                                                                      |
 | Gambling        | Cards, dice, betting, bluffing, you know the drill. In fact, you know it so well that people stopped playing against you.                                        |
 | Gardening       | I don't have a green thumb, but you do! Growing and propagating plants is something that has always brought you joy.                                             |
-| Hacking         | No one is sure if it's a good or bad thing that you know how to hack. All you know is that the iron doors o                                                      |
-| Hunting         |                                                                                                                                                                  |
-| Interrogating   |                                                                                                                                                                  |
-| Jumping         |                                                                                                                                                                  |
+| Hacking         | No one is sure if it's a good or bad thing that you know how to hack. All you know is that no door is locked for you.                                            |
+| Hunting         | Food has never been a worry for you. You are phenomenal at trapping and hunting prey.                                                                            |
+| Interrogating   | Intimidation tactics are just another card up your sleeve. People succumb to your interrogation with ease.                                                       |
+| Jumping         | Your legs are like cannons, firing off and launching you distances much farther than others.                                                                     |
 | Literature      |                                                                                                                                                                  |
 | Negotiating     |                                                                                                                                                                  |
 | Observation     |                                                                                                                                                                  |
@@ -39,3 +39,4 @@ ____
 | Swimming        |                                                                                                                                                                  |
 | Tracking        |                                                                                                                                                                  |
 
+## Animal Handling

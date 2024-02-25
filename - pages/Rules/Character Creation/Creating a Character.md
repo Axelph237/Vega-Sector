@@ -21,7 +21,7 @@ ____
 | Gardening       | I don't have a green thumb, but you do! Growing and propagating plants is something that has always brought you joy.                                             |
 | Hacking         | No one is sure if it's a good or bad thing that you know how to hack. All you know is that no door is locked for you.                                            |
 | Hunting         | Food has never been a worry for you. You are phenomenal at trapping and hunting prey.                                                                            |
-| Interrogating   | Intimidation tactics are just another card up your sleeve. People succumb to your interrogation with ease.                                                       |
+| Interrogation   | Intimidation tactics are just another card up your sleeve. People succumb to your interrogation with ease.                                                       |
 | Jumping         | Your legs are like cannons, firing off and launching you distances much farther than others.                                                                     |
 | Literature      |                                                                                                                                                                  |
 | Negotiating     |                                                                                                                                                                  |
@@ -29,7 +29,6 @@ ____
 | Painting        |                                                                                                                                                                  |
 | Programming     |                                                                                                                                                                  |
 | Shooting        |                                                                                                                                                                  |
-| Singing         |                                                                                                                                                                  |
 | Slight of Hand  |                                                                                                                                                                  |
 | Sprinting       |                                                                                                                                                                  |
 | Stealth         |                                                                                                                                                                  |
@@ -40,3 +39,34 @@ ____
 | Tracking        |                                                                                                                                                                  |
 
 ## Animal Handling
+## Bartering
+## Charming
+## Climbing
+## Cooking
+## Deception
+## Driving
+## Ecology
+## Engineering
+## Entertaining
+## Falling
+## Foraging
+## Gambling
+## Gardening
+## Hacking
+## Hunting
+## Interrogation
+## Jumping
+## Literature
+## Negotiating
+## Observation
+## Painting
+## Programming
+## Shooting
+## Slight of Hand
+## Sprinting
+## Stealth
+## Story Telling
+## Strength
+## Survival
+## Swimming
+## Tracking

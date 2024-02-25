@@ -37,10 +37,9 @@ ____
 | Sprinting       | You have an affinity for moving quickly. Luckily, your legs have propelled you towards that goal.                                                                       |
 | Stealth         | Hiding in plain sight or the shadows. You're a master at escaping (or entering) dangerous situations unseen.                                                            |
 | Strength        | You're much stronger than the average person, able to lift and carry things that many others would be unable to.                                                        |
-| Survival        | The wild is your home. You find it easy to                                                                                                                              |
-| Swimming        |                                                                                                                                                                         |
-| Tracking        |                                                                                                                                                                         |
-
+| Survival        | You have become adept at surviving difficult circumstances.                                                                                                             |
+| Swimming        | With great strides you outperform all others when it comes to aquatic mobility.                                                                                         |
+| Tracking        | Your keen eye allows you to track down hidden creatures. You have also grow aware of details that might lead you to creatures you are tracking.                         |
 ### Animal Handling
 ### Bartering
 ### Charming

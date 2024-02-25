@@ -25,11 +25,12 @@ ____
 | Interrogation   | Intimidation tactics are just another card up your sleeve. People succumb to your interrogation with ease.                                                              |
 | Jumping         | Your legs are like cannons, firing off and launching you distances much farther than others.                                                                            |
 | Literature      | Be it reading, writing, or recognizing old texts, the study of literature has always been your forte.                                                                   |
+| Martial Arts    | You are most comfortable with hand-to-hand combat. A formidable opponent, one best kept at a distance.                                                                  |
 | Negotiating     | Striking deals and finding compromises is a game to you, one you're inclined to winning. You tend to find compromises that largely benefit you more easily than others. |
 | Observation     | It's all in the details. You're quick to picking up when things are amiss, or specific details others would miss.                                                       |
-| Programming     |                                                                                                                                                                         |
-| Shooting        |                                                                                                                                                                         |
-| Slight of Hand  |                                                                                                                                                                         |
+| Programming     | Designing and writing software for various formats of technology is like a second language to you. One that you speak fluently.                                         |
+| Shooting        | Aiming down the sights of a rifle is more than natural to you, it's home. You excel in utilizing ranged weaponry.                                                       |
+| Slight of Hand  | The dexterity of your hands beats the human eye. Card tricks and petty theft are never out of reach for you.                                                            |
 | Sprinting       |                                                                                                                                                                         |
 | Stealth         |                                                                                                                                                                         |
 | Story Telling   |                                                                                                                                                                         |

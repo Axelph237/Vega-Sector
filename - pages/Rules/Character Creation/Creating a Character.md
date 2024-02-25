@@ -17,9 +17,9 @@ ____
 | Entertaining    | You are the life of the party! Able to make people smile in seemingly the worst of seasons.                                                                      |
 | Falling         | People call you an expert faller. No, they don't. You'd like to think so anyways!                                                                                |
 | Foraging        | You've always enjoyed scavenging and utilizing the bounty of Mother Nature.                                                                                      |
-| Gambling        |                                                                                                                                                                  |
-| Gardening       |                                                                                                                                                                  |
-| Hacking         |                                                                                                                                                                  |
+| Gambling        | Cards, dice, betting, bluffing, you know the drill. In fact, you know it so well that people stopped playing against you.                                        |
+| Gardening       | I don't have a green thumb, but you do! Growing and propagating plants is something that has always brought you joy.                                             |
+| Hacking         | No one is sure if it's a good or bad thing that you know how to hack. All you know is that the iron doors o                                                      |
 | Hunting         |                                                                                                                                                                  |
 | Interrogating   |                                                                                                                                                                  |
 | Jumping         |                                                                                                                                                                  |

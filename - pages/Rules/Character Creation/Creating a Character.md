@@ -2,6 +2,9 @@
 ____
 
 # Skills
+## Overview
+
+## Skill List
 
 | Skill           | Basic Description                                                                                                                                                       |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,42 +34,40 @@ ____
 | Programming     | Designing and writing software for various formats of technology is like a second language to you. One that you speak fluently.                                         |
 | Shooting        | Aiming down the sights of a rifle is more than natural to you, it's home. You excel in utilizing ranged weaponry.                                                       |
 | Slight of Hand  | The dexterity of your hands beats the human eye. Card tricks and petty theft are never out of reach for you.                                                            |
-| Sprinting       |                                                                                                                                                                         |
-| Stealth         |                                                                                                                                                                         |
-| Story Telling   |                                                                                                                                                                         |
+| Sprinting       | You have an affinity for moving quickly. Luckily, your legs have propelled you towards that goal.                                                                       |
+| Stealth         | Hiding in plain sight or the shadows. You're a master at escaping (or entering) dangerous situations unseen.                                                            |
 | Strength        |                                                                                                                                                                         |
 | Survival        |                                                                                                                                                                         |
 | Swimming        |                                                                                                                                                                         |
 | Tracking        |                                                                                                                                                                         |
 
-## Animal Handling
-## Bartering
-## Charming
-## Climbing
-## Cooking
-## Deception
-## Driving
-## Ecology
-## Engineering
-## Entertaining
-## Falling
-## Foraging
-## Gambling
-## Gardening
-## Hacking
-## Hunting
-## Interrogation
-## Jumping
-## Literature
-## Negotiating
-## Observation
-## Programming
-## Shooting
-## Slight of Hand
-## Sprinting
-## Stealth
-## Story Telling
-## Strength
-## Survival
-## Swimming
-## Tracking
+### Animal Handling
+### Bartering
+### Charming
+### Climbing
+### Cooking
+### Deception
+### Driving
+### Ecology
+### Engineering
+### Entertaining
+### Falling
+### Foraging
+### Gambling
+### Gardening
+### Hacking
+### Hunting
+### Interrogation
+### Jumping
+### Literature
+### Negotiating
+### Observation
+### Programming
+### Shooting
+### Slight of Hand
+### Sprinting
+### Stealth
+### Strength
+### Survival
+### Swimming
+### Tracking

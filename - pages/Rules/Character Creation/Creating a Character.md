@@ -20,11 +20,12 @@ ____
 | Gambling        | Cards, dice, betting, bluffing, you know the drill. In fact, you know it so well that people stopped playing against you.                                        |
 | Gardening       | I don't have a green thumb, but you do! Growing and propagating plants is something that has always brought you joy.                                             |
 | Hacking         | No one is sure if it's a good or bad thing that you know how to hack. All you know is that no door is locked for you.                                            |
+| History         | Knowledge of the past is your specialty. You believe understanding the past is the only way to strive towards the future.                                        |
 | Hunting         | Food has never been a worry for you. You are phenomenal at trapping and hunting prey.                                                                            |
 | Interrogation   | Intimidation tactics are just another card up your sleeve. People succumb to your interrogation with ease.                                                       |
 | Jumping         | Your legs are like cannons, firing off and launching you distances much farther than others.                                                                     |
-| Literature      |                                                                                                                                                                  |
-| Negotiating     |                                                                                                                                                                  |
+| Literature      | Be it reading, writing, or recognizing old texts, the study of literature has always been your forte.                                                            |
+| Negotiating     | Striking deals and finding compromises is a game to you, one you're inclined to winning. You tend to find compromises that benefit you                           |
 | Observation     |                                                                                                                                                                  |
 | Painting        |                                                                                                                                                                  |
 | Programming     |                                                                                                                                                                  |

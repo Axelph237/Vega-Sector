@@ -121,17 +121,21 @@ Skills are the primary means by which a player character would define themselves
 >> - Use many ingredients
 >> - Give very strong buffs through means of food
 ### Deception
-*Action:* 
+*Action:* Roll to deceive someone. A failed roll leads to their suspicions being raised.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Tell simple lies with ease
 >
 >> [!skill|clean] Advanced
+>> - Weave larger stories and tales
+>> - Convince people of things that did
 >
 >
 >> [!skill|clean] Expert
+>> - Make up entire, valid alibies
+>> - Create extremely convincing stories
 ### Driving
-*Action:* 
+*Action:* Roll to 
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
 >> 

@@ -228,17 +228,19 @@ Skills are the primary means by which a player character would define themselves
 >> - Deep knowledge of fertilization
 >> - Best yields from plants
 ### Hacking
-*Action:* 
+*Action:* Roll to infiltrate technological interfaces.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Hack basic devices and technologies
 >
 >> [!skill|clean] Advanced
+>> - Hack into higher security softwares, facilities, etc.
 >
 >
 >> [!skill|clean] Expert
+>> - Hack into military grade facilities
 ### Hunting
-*Action:* 
+*Action:* Roll when in the wild to gather food from local fauna. Also use on dead animals to increase har
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
 >> 

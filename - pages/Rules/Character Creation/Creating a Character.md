@@ -39,7 +39,7 @@ Skills are the primary means by which a player character would define themselves
 | Swimming        | With great strides you outperform all others when it comes to aquatic mobility.                                                                                         |
 | Tracking        | Your keen eye allows you to track down hidden creatures. You have also grow aware of details that might lead you to creatures you are tracking.                         |
 ### Animal Handling
-*Action:* Roll to soothe, feed, ride, or train wild animals. A failed roll causes the animal to negatively react to the attempt.
+*Action:* Roll to soothe, feed, ride, or train wild animals.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
 >> 
@@ -61,7 +61,7 @@ Skills are the primary means by which a player character would define themselves
 >> - Training large and dangerous animals
 >> - Teaching others to handle animals
 ### Bartering
-*Action:* Roll to increase your sell price, decrease buy prices, or get better deals on trading. A failed roll causes the opposite effect.
+*Action:* Roll to increase your sell price, decrease buy prices, or get better deals on trading.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
 >> - Bartering small ranges (marginally different prices)
@@ -105,7 +105,7 @@ Skills are the primary means by which a player character would define themselves
 >> - Use many ingredients
 >> - Give very strong buffs through means of food
 ### Deception
-*Action:* Roll to deceive someone. A failed roll leads to their suspicions being raised.
+*Action:* Roll to deceive someone with impressive stories or small lies.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
 >> - Tell simple lies with ease
@@ -119,7 +119,7 @@ Skills are the primary means by which a player character would define themselves
 >> - Make up entire, valid alibies
 >> - Create extremely convincing stories
 ### Driving
-*Action:* Roll to analyze how to drive new vehicles without a teacher, or perform impressive driving maneuvers. A failed roll may cause accidents in the case of performing maneuvers.
+*Action:* Roll to analyze how to drive new vehicles without a teacher, or perform impressive driving maneuvers.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
 >> - Understand simple vehicles quickly
@@ -167,27 +167,35 @@ Skills are the primary means by which a player character would define themselves
 >> - Can manufacture parts from raw materials
 >> - Repair most things
 ### Entertaining
-*Action:* Roll to oh and ah your crowd raising moral, charming s
+*Action:* Roll to gain a cheer raising moral, charming strangers, or distracting the crowd.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Entertain small groups
 >
 >> [!skill|clean] Advanced
+>> - Entertain larger groups of people
+>> - Use more complex theatrics
 >
 >
 >> [!skill|clean] Expert
+>> - Entertain entire crowds
+>> - Gain people's full attention for longer times
 ### Foraging
-*Action:* 
+*Action:* Roll to improve discovery of small plants and herbs in the wild.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Small bonuses to discovery
+>> - General knowledge of usable flora
 >
 >> [!skill|clean] Advanced
->
+>> - Larger bonuses to discovery
+>> - Find rarer species
 >
 >> [!skill|clean] Expert
+>> - Find very rare species of flora
+>> - Deep knowledge of various obscure flora
 ### Gambling
-*Action:* 
+*Action:* Roll to improve your odds of winning in various games of chance. Also helps to 
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
 >> 

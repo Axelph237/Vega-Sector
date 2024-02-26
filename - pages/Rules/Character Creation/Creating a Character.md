@@ -195,25 +195,38 @@ Skills are the primary means by which a player character would define themselves
 >> - Find very rare species of flora
 >> - Deep knowledge of various obscure flora
 ### Gambling
-*Action:* Roll to improve your odds of winning in various games of chance. Also helps to 
+*Action:* Roll to improve your odds of winning in various games of chance. Also helps to succeed or recognize rigged games.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Good skill at common gambling games
+>> - Can recognize basic rigged games
 >
 >> [!skill|clean] Advanced
->
+>> - Better at most gambling games
+>> - Can more easily tell if other players are cheating
+>> - Can recognize rigged games more quickly
 >
 >> [!skill|clean] Expert
+>> - Incredibly keen when it comes to gambling games
+>> - Can instantly tell if other players are cheating
+>> - Knows if a game is rigged
 ### Gardening
-*Action:* 
+*Action:* Roll to improve the growth of plants.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Good at helping basic plants grow
+>> - Sometimes has better plant yields
 >
 >> [!skill|clean] Advanced
->
+>> - Much better at growing plants
+>> - Can resuscitate dying plants
+>> - Faster growth
+>> - Better yields from plants
 >
 >> [!skill|clean] Expert
+>> - Can grow most plants with ease
+>> - Deep knowledge of fertilization
+>> - Best yields from plants
 ### Hacking
 *Action:* 
 > [!column|3] *Rank Examples*

@@ -135,20 +135,25 @@ Skills are the primary means by which a player character would define themselves
 >> - Make up entire, valid alibies
 >> - Create extremely convincing stories
 ### Driving
-*Action:* Roll to 
+*Action:* Roll to analyze how to drive new vehicles without a teacher, or perform impressive driving maneuvers. A failed roll may cause accidents in the case of performing maneuvers.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Understand simple vehicles quickly
+>> - Generally drive safely
 >
 >> [!skill|clean] Advanced
+>> - Quickly understand more complicated vehicles
+>> - Perform small maneuvers like quick starts and stops, tight spaces, etc.
 >
 >
 >> [!skill|clean] Expert
+>> - Learn how to drive military grade vehicles quickly
+>> - Perform racing-level maneuvers like drifting, and driving at top speed around sharp corners
 ### Ecology
-*Action:* 
+*Action:* Roll to learn about habits, weak spots, or uses of fauna/flora.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - 
 >
 >> [!skill|clean] Advanced
 >

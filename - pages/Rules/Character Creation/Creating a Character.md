@@ -70,20 +70,25 @@ Skills are the primary means by which a player character would define themselves
 >
 >> [!skill|clean] Advanced
 >> - Bartering medium ranges (discounted prices)
->> - Getting better deals or free things with purchases
+>> - Getting better deals or discounts with purchases
 >
 >
 >> [!skill|clean] Expert
+>> - Bartering larger ranges (potentially heavily discounted prices)
+>> - Often getting bonus things with purchases
 ### Charming
-*Action:* 
+*Action:* Roll to make a character feel more comfortable around you.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Charming people who are already friendly with you
 >
 >> [!skill|clean] Advanced
->
+>> - Charming strangers and new people
+>> - Gaining new narrative options through charm
 >
 >> [!skill|clean] Expert
+>> - Charming people who are angry with you
+>> - Calming situations with your charm
 ### Climbing
 *Action:* 
 > [!column|3] *Rank Examples*

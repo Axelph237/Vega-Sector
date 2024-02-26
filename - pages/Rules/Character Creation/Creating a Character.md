@@ -107,12 +107,19 @@ Skills are the primary means by which a player character would define themselves
 *Action:* Roll to make food taste better, and potentially give players temporary buffs.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Cook simple foods
+>> - Improve moral through food
+>> - Make food last longer
 >
 >> [!skill|clean] Advanced
->
+>> - Cook harder foods
+>> - Use more ingredients
+>> - Give buffs through cooking
 >
 >> [!skill|clean] Expert
+>> - Cook very difficult foods
+>> - Use many ingredients
+>> - Give very strong buffs through means of food
 ### Deception
 *Action:* 
 > [!column|3] *Rank Examples*

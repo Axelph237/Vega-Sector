@@ -41,6 +41,15 @@ Skills are the primary means by which a player character would define themselves
 | Swimming        | With great strides you outperform all others when it comes to aquatic mobility.                                                                                         |
 | Tracking        | Your keen eye allows you to track down hidden creatures. You have also grow aware of details that might lead you to creatures you are tracking.                         |
 ### Animal Handling
+*Action:* 
+> [!column|3] Ranks
+>> [!skill|clean] Beginner
+>
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Bartering
 ### Charming
 ### Climbing

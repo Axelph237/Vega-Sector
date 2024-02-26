@@ -167,7 +167,7 @@ Skills are the primary means by which a player character would define themselves
 >> - Can manufacture parts from raw materials
 >> - Repair most things
 ### Entertaining
-*Action:* 
+*Action:* Roll to oh and ah your crowd raising moral, charming s
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
 >> 

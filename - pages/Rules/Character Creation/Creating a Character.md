@@ -60,14 +60,17 @@ Skills are the primary means by which a player character would define themselves
 >
 >> [!skill|clean] Expert
 >> - Quickly handling dangerous animals
->> - Training 
+>> - Training large and dangerous animals
+>> - Teaching others to handle animals
 ### Bartering
-*Action:* 
+*Action:* Roll to increase your sell price, decrease buy prices, or get better deals on trading. A failed roll causes the opposite effect.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Bartering small ranges (marginally different prices)
 >
 >> [!skill|clean] Advanced
+>> - Bartering medium ranges (discounted prices)
+>> - Getting better deals or free things with purchases
 >
 >
 >> [!skill|clean] Expert

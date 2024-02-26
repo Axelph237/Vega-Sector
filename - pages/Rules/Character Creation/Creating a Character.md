@@ -41,41 +41,306 @@ Skills are the primary means by which a player character would define themselves
 | Swimming        | With great strides you outperform all others when it comes to aquatic mobility.                                                                                         |
 | Tracking        | Your keen eye allows you to track down hidden creatures. You have also grow aware of details that might lead you to creatures you are tracking.                         |
 ### Animal Handling
-*Action:* 
-> [!column|3] Ranks
+*Action:* Roll to soothe, feed, ride, or train wild animals. A failed roll causes the animal to negatively react to the attempt.
+> [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->
+>> 
+>> - Handling passive animals
+>> - Handling small animals
+>> - Riding domesticated animals
+>> - Training animals slowly
 >
 >> [!skill|clean] Advanced
 >
 >
 >> [!skill|clean] Expert
 ### Bartering
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Charming
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Climbing
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Cooking
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Deception
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Driving
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Ecology
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Engineering
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Entertaining
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Falling
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Foraging
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Gambling
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Gardening
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Hacking
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Hunting
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Interrogation
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Jumping
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Literature
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Negotiating
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Observation
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Programming
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Shooting
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Slight of Hand
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Sprinting
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Stealth
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Strength
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Survival
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Swimming
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert
 ### Tracking
+*Action:* 
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> 
+>
+>> [!skill|clean] Advanced
+>
+>
+>> [!skill|clean] Expert

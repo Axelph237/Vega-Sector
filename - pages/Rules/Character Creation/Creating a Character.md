@@ -159,10 +159,13 @@ Skills are the primary means by which a player character would define themselves
 >> - Deeper understanding of basic technology
 >> - Create new tools from a variety of parts
 >> - Fashion parts from scrap
->> - Repair most things
->
+>> - Repair many basic things
 >
 >> [!skill|clean] Expert
+>> - Knowledge of specific types of mechanisms at a fundamental level
+>> - Craft impressive tools and weaponry
+>> - Can manufacture parts from raw materials
+>> - Repair most things
 ### Entertaining
 *Action:* 
 > [!column|3] *Rank Examples*
@@ -273,9 +276,13 @@ Skills are the primary means by which a player character would define themselves
 >
 >> [!skill|clean] Advanced
 >> - Climb structures larger than your height
+>> - Take much less damage when dropping
+>> - Jump substantially farther than others
 >
 >> [!skill|clean] Expert
 >> - Climb very large structures quickly
+>> - Take very little to no damage when dropping
+>> - Jump wide gaps with ease
 ### Programming
 *Action:* 
 > [!column|3] *Rank Examples*

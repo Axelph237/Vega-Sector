@@ -51,9 +51,16 @@ Skills are the primary means by which a player character would define themselves
 >> - Training animals slowly
 >
 >> [!skill|clean] Advanced
+>> - Handling dangerous, but tamed animals
+>> - Handling medium animals
+>>  - Handling animals you have never seen before (Ecology required)
+>> - Riding trained animals
+>> - Training animals more quickly
 >
 >
 >> [!skill|clean] Expert
+>> - Quickly handling dangerous animals
+>> - Training 
 ### Bartering
 *Action:* 
 > [!column|3] *Rank Examples*

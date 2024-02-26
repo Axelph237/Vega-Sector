@@ -240,25 +240,37 @@ Skills are the primary means by which a player character would define themselves
 >> [!skill|clean] Expert
 >> - Hack into military grade facilities
 ### Hunting
-*Action:* Roll when in the wild to gather food from local fauna. Also use on dead animals to increase har
+*Action:* Roll when in the wild to gather food from local fauna. Also use on dead animals to increase harvest amounts.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Hunt nearby standard creatures
+>> - Small bonus to food gained from creatures
 >
 >> [!skill|clean] Advanced
+>> - Hunt larger, dangerous animals
+>> - Standard bonus to food gained
+>> - Knowledge of how to harvest all parts
 >
 >
 >> [!skill|clean] Expert
+>> - Hunt very dangerous animals
+>> - Large bonus to food gained
+>> - More easily gain rare animal parts
 ### Interrogation
-*Action:* 
+*Action:* Roll to extract information from people.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Low level interrogation techniques
+>> - Small bluffs and tricks
 >
 >> [!skill|clean] Advanced
->
+>> - More deceptive interrogation
+>> - Easily extract basic information from people
 >
 >> [!skill|clean] Expert
+>> - Frightening interrogation
+>> - Can extract information from all but the most hardened of foes
+>> - Use of torture for information extraction
 ### Literature
 *Action:* 
 > [!column|3] *Rank Examples*

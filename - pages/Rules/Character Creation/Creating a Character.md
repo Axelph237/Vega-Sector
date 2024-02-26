@@ -153,19 +153,29 @@ Skills are the primary means by which a player character would define themselves
 *Action:* Roll to learn about habits, weak spots, or uses of fauna/flora.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> - 
+>> - Learn about creatures you commonly see quickly
+>> - Know the use of common flora
 >
 >> [!skill|clean] Advanced
->
+>> - Learn about new creatures you find quickly
+>> - Understand less common flora
 >
 >> [!skill|clean] Expert
+>> - Quickly assess new creatures for deep information on them
+>> - Know most flora and their contribution to the environment
 ### Engineering
-*Action:* 
+*Action:* Roll to understand technology, or build/repurpose new technology.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Know how basic pieces of technology work
+>> - Understand how to rig up small new tools from working components
+>> - Small repairs to mechanical components
 >
 >> [!skill|clean] Advanced
+>> - Deeper understanding of basic technology
+>> - Create new tools from a variety of parts
+>> - Fashion parts from scrap
+>> - Repair most things
 >
 >
 >> [!skill|clean] Expert

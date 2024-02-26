@@ -14,7 +14,6 @@
 > [!quote|author]
 > 'Think about it like a piece of paper,' they said, 'Fold it in half, stick a pencil through, and you've got yourself a wormhole.' What they neglected to consider was if we crumpled that piece of paper up. Now that would be, was, and is a tragedy.
 - Teleporting can teleport you a little randomly
-- 
 
 
 # Ourobos

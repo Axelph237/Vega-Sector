@@ -33,7 +33,7 @@ Skills are the primary means by which a player character would define themselves
 | Observation     | It's all in the details. You're quick to picking up when things are amiss, or specific details others would miss.                                                       |
 | Programming     | Designing and writing software for various formats of technology is like a second language to you. One that you speak fluently.                                         |
 | Shooting        | Aiming down the sights of a rifle is more than natural to you, it's home. You excel in utilizing ranged weaponry.                                                       |
-| Slight of Hand  | The dexterity of your hands beats the human eye. Card tricks and petty theft are never out of reach for you.                                                            |
+| Sleight of Hand | The dexterity of your hands beats the human eye. Card tricks and petty theft are never out of reach for you.                                                            |
 | Sprinting       | You have an affinity for moving quickly. Luckily, your legs have propelled you towards that goal.                                                                       |
 | Stealth         | Hiding in plain sight or the shadows. You're a master at escaping (or entering) dangerous situations unseen.                                                            |
 | Strength        | You're much stronger than the average person, able to lift and carry things that many others would be unable to.                                                        |
@@ -319,7 +319,7 @@ Skills are the primary means by which a player character would define themselves
 >
 >
 >> [!skill|clean] Expert
-### Slight of Hand
+### Sleight of Hand
 *Action:* 
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner

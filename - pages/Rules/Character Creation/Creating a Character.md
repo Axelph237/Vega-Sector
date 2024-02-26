@@ -90,17 +90,21 @@ Skills are the primary means by which a player character would define themselves
 >> - Charming people who are angry with you
 >> - Calming situations with your charm
 ### Climbing
-*Action:* 
+*Action:* Roll to climb large structures. A failed roll reaps consequences depending on the height of the structure.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Climb structures your height with ease
+>> - Attempt to climb larger structures
 >
 >> [!skill|clean] Advanced
->
+>> - Climb structures larger than your height
+>> - Find foot and handholds where others wouldn't
 >
 >> [!skill|clean] Expert
+>> - Climb very large structures in many movement
+>> - Faster scaling of large structures
 ### Cooking
-*Action:* 
+*Action:* Roll to make food taste better, and potentially give players temporary buffs.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
 >> 

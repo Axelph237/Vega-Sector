@@ -309,10 +309,16 @@ Skills are the primary means by which a player character would define themselves
 >> - Can notice bad liars
 >
 >> [!skill|clean] Advanced
->> 
+>> - Able to detect hidden information faster
+>> - Quickly recognizes weak spots or important things about people/things
+>> - Able to quickly detect liars
 >
 >
 >> [!skill|clean] Expert
+>> - Can recognize exactly what happened in an area
+>> - Sherlock Holmes style
+>> - Picks up on most lying
+>> - Quickly learns about people/things
 ### Parkour
 *Action:* Roll to climb large structures, leap farther than others, and fall gracefully. A failed roll may impose penalties related to the attempt.
 > [!column|3] *Rank Examples*

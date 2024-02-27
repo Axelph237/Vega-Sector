@@ -4,8 +4,6 @@
 
 ## [[Creating a Character|Character Creation]]
 
-## [[Skill Checks]]
-
 ## [[Combat]]
 
 ## Leveling

@@ -295,11 +295,12 @@ Skills are the primary means by which a player character would define themselves
 >> [!skill|clean] Advanced
 >> - More damage dealt
 >> - Can push and throw larger enemies
->> - Gets free unarmed
 >
 >
 >> [!skill|clean] Expert
 >> - Heavy increase to damage dealt
+>> - Gets free unarmed attack while fighting with free hand
+>> - Can always slightly move enemies while attacking melee
 ### Negotiating
 *Action:* Roll to sway a deal or compromise into your favor.
 > [!column|3] *Rank Examples*
@@ -352,15 +353,19 @@ Skills are the primary means by which a player character would define themselves
 >> - Take very little to no damage when dropping
 >> - Jump wide gaps with ease
 ### Shooting
-*Action:* 
+*Action:* Roll to ignore negative accuracy effects for a turn.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Small increase to accuracy with all firearms
 >
 >> [!skill|clean] Advanced
+>> - Slightly more accurate
+>> - Can dual wield some firearms
 >
 >
 >> [!skill|clean] Expert
+>> - More accuracy
+>> - Can fire under heavy duress
 ### Sleight of Hand
 *Action:* 
 > [!column|3] *Rank Examples*

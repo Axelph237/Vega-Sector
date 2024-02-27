@@ -413,38 +413,55 @@ Skills are the primary means by which a player character would define themselves
 >> [!skill|clean] Beginner
 >> - Weight of throwable and carriable objects increased
 >> - Can carry more on self
+>> - Melee weapon damage slightly increased
 >
 >> [!skill|clean] Advanced
+>> - Can throw and carry larger objects
+>> - More inventory size
+>> - Melee weapon damage increased
 >
 >
 >> [!skill|clean] Expert
+>> - Large inventory size
+>> - Can throw and carry very large objects
+>> - Melee weapon damage greatly increased
 ### Survival
-*Action:* 
+*Action:* Roll to survive various statuses and natural effects.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Can easily survive common conditions
 >
 >> [!skill|clean] Advanced
+>> - More adept at survive harsher conditions
 >
 >
 >> [!skill|clean] Expert
+>> - Can survive all but the most harsh of conditions with ease
 ### Swimming
-*Action:* 
+*Action:* Roll during movement to reduce effects of water travel.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Can move normally in water
 >
 >> [!skill|clean] Advanced
+>> - Can move normally in water
+>> - Can take some actions while in water
 >
 >
 >> [!skill|clean] Expert
+>> - Can efficiently maneuver in water
+>> - Gains bonus movement speed in water
 ### Tracking
-*Action:* 
+*Action:* Roll to determine direction of hidden enemies based off tracks.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Can utilize obvious tracks to follow enemies and creatures
 >
 >> [!skill|clean] Advanced
+>> - Can search for more hidden tracks
+>> - Bonus with Observation
 >
 >
 >> [!skill|clean] Expert
+>> - Can quickly find most hidden enemies
+>> - Quickly notices what direction creatures went from a point

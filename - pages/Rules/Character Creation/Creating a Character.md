@@ -29,7 +29,6 @@ Skills are the primary means by which a player character would define themselves
 | Negotiating     | Striking deals and finding compromises is a game to you, one you're inclined to winning. You tend to find compromises that largely benefit you more easily than others. |
 | Observation     | It's all in the details. You're quick to picking up when things are amiss, or specific details others would miss.                                                       |
 | Parkour         | You are an expert at efficient and impressive movement.                                                                                                                 |
-| Programming     | Designing and writing software for various formats of technology is like a second language to you. One that you speak fluently.                                         |
 | Shooting        | Aiming down the sights of a rifle is more than natural to you, it's home. You excel in utilizing ranged weaponry.                                                       |
 | Sleight of Hand | The dexterity of your hands beats the human eye. Card tricks and petty theft are never out of reach for you.                                                            |
 | Sprinting       | You have an affinity for moving quickly. Luckily, your legs have propelled you towards that goal.                                                                       |
@@ -285,6 +284,22 @@ Skills are the primary means by which a player character would define themselves
 >> [!skill|clean] Expert
 >> - Ancient literature in foreign languages
 >> - Forgery (Deception required)
+
+### Martial Arts
+*Action:* Roll to grapple, push, or throw an enemy.
+> [!column|3] *Rank Examples*
+>> [!skill|clean] Beginner
+>> - Minor bonus to damage dealt with small weapons
+>> - Can throw, push, and grapple small enemies
+>
+>> [!skill|clean] Advanced
+>> - More damage dealt
+>> - Can push and throw larger enemies
+>> - Gets free unarmed
+>
+>
+>> [!skill|clean] Expert
+>> - Heavy increase to damage dealt
 ### Negotiating
 *Action:* Roll to sway a deal or compromise into your favor.
 > [!column|3] *Rank Examples*
@@ -336,16 +351,6 @@ Skills are the primary means by which a player character would define themselves
 >> - Climb very large structures quickly
 >> - Take very little to no damage when dropping
 >> - Jump wide gaps with ease
-### Programming
-*Action:* 
-> [!column|3] *Rank Examples*
->> [!skill|clean] Beginner
->> 
->
->> [!skill|clean] Advanced
->
->
->> [!skill|clean] Expert
 ### Shooting
 *Action:* 
 > [!column|3] *Rank Examples*

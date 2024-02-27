@@ -272,32 +272,44 @@ Skills are the primary means by which a player character would define themselves
 >> - Can extract information from all but the most hardened of foes
 >> - Use of torture for information extraction
 ### Literature
-*Action:* 
+*Action:* Roll to understand, interpret, write, or study literature.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Basic common literature
 >
 >> [!skill|clean] Advanced
+>> - Advanced, somewhat old literature
+>> - Some bits and pieces of ancient literature
 >
 >
 >> [!skill|clean] Expert
+>> - Ancient literature in foreign languages
+>> - Forgery (Deception required)
 ### Negotiating
-*Action:* 
+*Action:* Roll to sway a deal or compromise into your favor.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Successfully sway simple arguments
+>> - Small benefits to self
 >
 >> [!skill|clean] Advanced
+>> - Sway larger arguments
+>> - Negotiate between others
 >
 >
 >> [!skill|clean] Expert
+>> - Sway critical arguments
+>> - Large benefits to self/others
 ### Observation
-*Action:* 
+*Action:* Roll to reveal hidden information about an object, person, plant, or animal.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Can detect small clues
+>> - Sometimes notices little things about a person
+>> - Can notice bad liars
 >
 >> [!skill|clean] Advanced
+>> 
 >
 >
 >> [!skill|clean] Expert

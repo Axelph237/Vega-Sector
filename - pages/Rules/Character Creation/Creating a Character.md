@@ -3,7 +3,7 @@ ____
 
 # Skills
 ## Overview
-Skills are the primary means by which a player character would define themselves. These attributes represent various areas that the character may be proficient in. In addition to this, they also serve as actions the player can take throughout the game. Over time, a character's proficiency in a skill will increase through use, making them more and more effective in that area.
+Skills are the primary means by which a player character would define themselves. These attributes represent various areas that the character may be proficient in. In addition to this, they also serve as actions the player can take throughout the game. Over time, a character's proficiency in a skill will increase through use, making them more and more effective in that area. 
 ## Skill List
 
 | Skill           | Basic Description                                                                                                                                                       |

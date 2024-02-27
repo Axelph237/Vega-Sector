@@ -264,5 +264,6 @@ When a player is challenged, they must reveal their face down cards. Total the f
 **Winning the hand:**
 A player wins the hand if they are the last player in the game, then taking the pot.
 
-# Character Creation
-
+# Skills
+## Advancing
+Changing the standard usage advancement to being through a special achievement at each stage. Still usage to increase TN, but the achievement is required to advance.

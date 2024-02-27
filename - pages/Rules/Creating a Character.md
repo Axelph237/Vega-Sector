@@ -471,3 +471,6 @@ When a player rolls a skill performing an action that would be considered a rank
 >> [!skill|clean] Expert
 >> - Can quickly find most hidden enemies
 >> - Quickly notices what direction creatures went from a point
+
+
+# Inventory

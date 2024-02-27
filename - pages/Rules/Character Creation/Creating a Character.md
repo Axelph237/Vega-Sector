@@ -4,7 +4,10 @@ ____
 # Skills
 ## Overview
 Skills are the primary means by which a player character would define themselves. These attributes represent various areas that the character may be proficient in. In addition to this, they also serve as actions the player can take throughout the game. Over time, a character's proficiency in a skill will increase through use, making them more and more effective in that area. 
-#
+## Training Skills
+When first gained, the target number for a skill roll is a 6. However, this can be increased through *experience*. By using a skill (whether the roll succeeded or failed), you can add 1 *experience* to that skill. A skill's *complexity* determines how much *experience* is needed to increase a skill's TN by 2. For instance, a skill of *complexity* 3 would need 3 *experience* in order to make its TN an 8, and another 3 to make it a 10.
+### Advancing Skills
+When a skill reaches a TN of 22, the player has the choice to *advance* that skill. *Advancing* a skill resets its TN to 6, but increases its rank. 
 ## Skill List
 
 | Skill           | Basic Description                                                                                                                                                       |

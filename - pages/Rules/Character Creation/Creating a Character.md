@@ -367,40 +367,52 @@ Skills are the primary means by which a player character would define themselves
 >> - More accuracy
 >> - Can fire under heavy duress
 ### Sleight of Hand
-*Action:* 
+*Action:* Roll to steal small objects in plain sight or off a person's body.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Can only steal small objects from well distracted people
 >
 >> [!skill|clean] Advanced
+>> - Can steal larger objects
+>> - Can steal small objects in plain sight
 >
 >
 >> [!skill|clean] Expert
+>> - Able to steal many objects off a person
+>> - Can go undetected when stealing from some shops
 ### Sprinting
-*Action:* 
+*Action:* Roll during a movement action to double movement.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Also a minor increase to move speed
 >
 >> [!skill|clean] Advanced
+>> - Larger increase to move speed
 >
 >
 >> [!skill|clean] Expert
+>> - Heavy increase to movement speed
 ### Stealth
-*Action:* 
+*Action:* Roll to be hidden just out of sight or go undetected.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Quiet movements when moving slowly
+>> - Can hide in the dark
 >
 >> [!skill|clean] Advanced
+>> - Move faster while staying silent
+>> - Can hide more openly
 >
 >
 >> [!skill|clean] Expert
+>> - Very effective hider
+>> - Can sprint while staying silent
 ### Strength
-*Action:* 
+*Action:* Roll to make feats of strength. Breaking metal, carrying or pushing heavy objects, throwing large objects.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
->> 
+>> - Weight of throwable and carriable objects increased
+>> - Can carry more on self
 >
 >> [!skill|clean] Advanced
 >

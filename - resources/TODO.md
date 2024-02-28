@@ -12,7 +12,7 @@ Pages:
 			- [x] Melee Weapons
 			- [x] Ranged Weapons
 			- [x] Firearms
-	- [ ] Leveling
+	- [x] Leveling
 	- [ ] Map exploration
 - [ ] Finish Umbral Dunes page
 - [ ] Create creature template page
@@ -24,5 +24,5 @@ Pages:
 - [x] Stats + Backgrounds (Moebius has got this dont worry can modify later)
 
 Ideas:
-- [ ] Add info to standard Ourobos Forest ideas
+- [x] Add info to standard Ourobos Forest ideas
 - [ ] Add info about Evening Bloom (vibrant flower in the Umbral Dunes)

@@ -176,29 +176,6 @@ You quickly peak the corner of the cover, shells pouring from the side of your r
 	- Possibly no multiplication
 
 ## Guns
-```
-Global Stats:
-- Handling
-- Stability
-```
-- Will have different mechanics based on magazine type
-- Will also have a number of rounds they can shoot in a turn
-- Your `handling` affects the dice you roll for `stability` checks
-- The `stability` of a weapon dictates the TN you roll under to hit. There are two numbers dividing "point blank" | "optimal range" | "far range" sections for attacking. Attacks made at a standard TN, far and point blank decreases the TN.
-
-Magazine based:
-```
-Stats:
-- Magazine Size
-- Calibre
-- Fire Rate
-```
-- You have a dice pool equal to your `magazine size`
-- You have a `calibre` equaling the dice size rolled
-- You also have a `fire rate` equaling the number of dice you can use in an action
-- When a player chooses to fire, they determine a number of shots less than or equal to their `fire rate`
-	- After firing, these dice are removed from their magazine
-	- If magazine is empty, a reload must be made before shooting again
 
 Overheating weapons:
 ```
@@ -211,16 +188,6 @@ Stats:
 - A player rolls `power` dice until they choose to stop or exceed their `integrity`
 	- They deal damage equal to the dice rolled
 	- If they exceed, they take damage and then must wait for their gun to cool down
-
-**Guns**
-
-| Name         | Handling  | Range   | Stability | Magazine Size | Fire Rate | Power  | Notes                                                                |
-| ------------ | --------- | ------- | --------- | ------------- | --------- | ------ | -------------------------------------------------------------------- |
-| Revolver     | 2d6       | 10/70   | (5/7)     | 6             | 2         | d8     |                                                                      |
-| Longbow      | 1d20,1d10 | 100/300 | (14/17)   | 1             | 1         | 1d8+10 | Hold Breath: Spend an extra stamina to increase your stability by 2. |
-| Queen Bee    | 2d8       | 10/80   | (2/4)     | 16            | 8         | d4     |                                                                      |
-| Wood Chipper | 2d10      | 10/100  | (9/13)    | 6             | 3         | d6     |                                                                      |
-|              |           |         |           |               |           |        |                                                                      |
 
 **Fold Weapons**
 Highly illegal, uses stitching. So uhm. Broken?

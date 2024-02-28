@@ -6,9 +6,9 @@ ____
 Selecting a race is the first step in character creation. Simply put, you choose any playable race you like, noting its base movement speed, and then any special features or skills that you would get for playing that race. After choosing a race, you may then go on to selecting any skills relevant to your character.
 # Skills
 ## Overview
-Skills are the primary means by which a player character would define themselves. These attributes represent various areas that the character may be proficient in. In addition to this, they also serve as actions the player can take throughout the game. Over time, a character's proficiency in a skill will increase through use, making them more and more effective in that area. 
+[[Creating a Character#Skill List|Skills]] are the primary means by which a player character would define themselves. These attributes represent various areas that the character may be proficient in. In addition to this, they also serve as actions the player can take throughout the game. Over time, a character's proficiency in a skill will increase through use, making them more and more effective in that area. 
 
-To begin, you may either choose 4 skills at a Beginner rank, or 3 skills at a Beginner rank and 1 at an Advanced level (See [[Creating a Character#Advancing Skills|Advancing Skills]] for more information about skill ranking).
+To begin, you may either choose 4 skills at a Beginner rank, or 3 skills at a Beginner rank and 1 at an Advanced rank (See [[Creating a Character#Advancing Skills|Advancing Skills]] for more information about skill ranking).
 ## Training Skills
 When first gained, the target number for a skill roll is a 10. However, this can be increased through *experience*. By using a skill (whether the roll succeeded or failed), you can add 1 *experience* to that skill. A skill's *complexity* determines how much *experience* is needed to increase a skill's TN by 2. For instance, a skill of *complexity* 3 would need 3 *experience* in order to make its TN an 12, and another 3 to make it a 14.
 ## Advancing Skills
@@ -478,4 +478,5 @@ When a player rolls a skill performing an action that would be considered a rank
 >> - Quickly notices what direction creatures went from a point
 
 
-# Inventory
+# Starting Equipment
+

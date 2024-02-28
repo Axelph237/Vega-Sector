@@ -10,7 +10,7 @@
 > | Humidity | Moderate |
 > | Inhabitants | Moon Leopards, Tree's Eye |
 
-*Return to parent page: [[Biomes]]*
+*Return to parent page: [[Locations]]*
 
 Large cliffs and plateaus cover this area full of dense greenery. The sounds of creatures populating these forests fill the air, between the occasional boom of thunder. Bright skies sparkle and fill with bolts of electricity, displaying the wonder of Ourobos' high charge.
 ## Description

@@ -10,7 +10,7 @@
 > | Humidity | Low |
 > | Inhabitants | Cragula  |
 
-*Return to parent page: [[Biomes]]*
+*Return to parent page: [[Locations]]*
 
 The Lavender Meadows are a beautiful sight to behold. Vast, rolling hills of a deep purple only broken by the occasional speckles of white and orange flowers crowning the grasses. Peaceful streams break the space between bluffs, a gentle breeze blowing across the air.
 ## Description

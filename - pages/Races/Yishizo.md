@@ -8,14 +8,6 @@
 > | ---- | ---- |
 > | Planet | [[Ourobos]] |
 > | Habitat | Lorem Ipsum |
-> 
-> ##### _Stats_
-> | Stat | Value |
-> | ---- | ----|
-> | Heft | 0 |
-> | Grace | 0|
-> | Ingenuity |0 |
-> | Empathy |0 |
 
 *Return to parent page: [[Races]]*
 
@@ -24,7 +16,7 @@
 >[!quote|author] Famous Figurehead <br>Figurehead description
 > _Race standard quote_
 
-## Description
+# Description
 
 # Subraces
 

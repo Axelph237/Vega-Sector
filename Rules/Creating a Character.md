@@ -478,5 +478,5 @@ When a player rolls a skill performing an action that would be considered a rank
 >> - Quickly notices what direction creatures went from a point
 
 
-# Starting Equipment
+# Inventory
 

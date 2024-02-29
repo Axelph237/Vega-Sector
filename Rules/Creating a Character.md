@@ -499,7 +499,8 @@ Large items include anything about 1' in length or less, such as:
 - Field equipment
 - Sawed off shotguns
 - Small animal carcasses
-- 
+- Throwing axes
+- Canteens
 ### Large Items
 Large items include anything more than about 1' in length, such as:
 - Rifles
@@ -508,3 +509,4 @@ Large items include anything more than about 1' in length, such as:
 - Large melee weapons
 - Large devices
 - Animal hides
+# Starting Equipment

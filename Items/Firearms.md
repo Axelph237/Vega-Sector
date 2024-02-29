@@ -2,9 +2,9 @@
 ____
 ## Sidearms
 
-| **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Notes** |
-| -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | --------- |
-| Revolver | 2d6          | 10/70     | (5/7)         | 6                 | 2             | d8        |           |
+| **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Notes**                            |
+| -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | ------------------------------------ |
+| Revolver | 2d6          | 10/70     | (5/7)         | 6                 | 2             | d8        | ![[Pasted image 20240229150434.png]] |
 ## SMGs
 
 | **Name**  | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Notes**                                                            |

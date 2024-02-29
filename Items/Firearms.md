@@ -5,7 +5,7 @@ ____
 | **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Notes** |
 | -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | --------- |
 | Revolver | 2d6          | 10/50     | (5/7)         | 6                 | 2             | d8        |           |
-| RED-36   | 2d6          | 20/70     | (4/7)         |                   |               |           |           |
+| MRED-36  | 2d6          | 20/70     | (4/7)         | 4                 | 2             | d10       |           |
 # SMGs
 
 | **Name**  | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Notes**                                                            |

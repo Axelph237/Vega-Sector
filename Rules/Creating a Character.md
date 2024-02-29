@@ -479,4 +479,4 @@ When a player rolls a skill performing an action that would be considered a rank
 
 
 # Inventory
-
+Each player has an inventory that is where they store everything on their person. A player's inventory has 

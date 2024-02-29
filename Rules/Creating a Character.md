@@ -479,4 +479,16 @@ When a player rolls a skill performing an action that would be considered a rank
 
 
 # Inventory
-Each player has an inventory that is where they store everything on their person. A player's inventory has 
+Each player has an inventory that is where they store everything on their person. A player's inventory has a number of small and large slots, designating what kind of items a player can carry on themselves at any given time. Additionally, every item has a size.
+## Item Sizes
+There are three primary item sizes: small, medium, and large. Most items will fall into one of these three categories. A fourth size, massive, is considered impossible to carry in one's inventory unless otherwise stated.
+### Small Items
+Small items include things like:
+- Rations
+- 
+### Medium Items
+### Large Items
+Large items include things like:
+- Rifles
+- Machine Guns
+- 

@@ -483,12 +483,18 @@ Each player has an inventory that is where they store everything on their person
 ## Item Sizes
 There are three primary item sizes: small, medium, and large. Most items will fall into one of these three categories. A fourth size, massive, is considered impossible to carry in one's inventory unless otherwise stated.
 ### Small Items
-Small items include things like:
+Small items include anything about 7" in length or less, such as:
 - Rations
-- 
+- Small devices
+- Small weapons
+- Pistols
+- Sidearms
+- Generally 
 ### Medium Items
+Large items include anything about 1' in length or less, such as:
+- 
 ### Large Items
-Large items include things like:
+Large items include anything about 1.5' in length or more, such as:
 - Rifles
 - Machine Guns
 - 

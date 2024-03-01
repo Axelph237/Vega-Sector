@@ -9,11 +9,11 @@ ____
 | Henry's Choice HG12 | 2d4          | 10/40     | (4/5)         | 10                | 3             | d6        | Small    | Reliable, fast, light.<br>*Quick Draw*                                 |
 # SMGs
 
-| **Name**  | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** |
-| --------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------- |
-| Queen Bee | 2d8          | 10/80     | (2/4)         | 16                | 8             | d4        | Medium   |           |
-|           |              |           |               |                   |               |           |          |           |
-|           |              |           |               |                   |               |           |          |           |
+| **Name**        | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** |
+| --------------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------- |
+| Queen Bee       | 2d8          | 10/80     | (6/9)         | 16                | 8             | d4        | Medium   |           |
+| NovaCore Dragon | 2d10         | 10/90     | (9/13)        | 12                | 6             | d4        | Medium   | *Fire*    |
+|                 |              |           |               |                   |               |           |          |           |
 # Shotguns
 
 | **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** |

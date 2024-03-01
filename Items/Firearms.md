@@ -9,12 +9,12 @@ ____
 | Henry's Choice HG12 | 2d4          | 10/40     | (4/5)         | 10                | 3             | d6        | Small    | Reliable, fast, light.<br>*Quick Draw*                                 | ![[Pasted image 20240301115522.png]] |
 # SMGs
 
-| **Name**                   | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                   | **Ref**                              |
-| -------------------------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------------------------- | ------------------------------------ |
-| Queen Bee                  | 2d12         | 10/80     | (9/13)        | 16                | 8             | d4        | Medium   |                             | ![[Pasted image 20240301115710.png]] |
-| NovaCore Hedgehog: Thermal | 2d10         | 10/90     | (9/13)        | 12                | 6             | d4        | Medium   | Fiery Tongue: Has *Burning* | ![[Pasted image 20240301115516.png]] |
-| Solaris Pocket Protector   | 2d8          |           |               |                   |               |           | Small    |                             | ![[Pasted image 20240301115744.png]] |
-|                            |              |           |               |                   |               |           |          |                             | ![[Pasted image 20240301120238.png]] |
+| **Name**                   | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                                                      | **Ref**                              |
+| -------------------------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | ---------------------------------------------------------------------------------------------- | ------------------------------------ |
+| Queen Bee                  | 2d12         | 10/80     | (9/13)        | 16                | 8             | d4        | Medium   |                                                                                                | ![[Pasted image 20240301115710.png]] |
+| NovaCore Hedgehog: Thermal | 2d10         | 10/90     | (9/13)        | 12                | 6             | d4        | Medium   | An SMG with a thermal conductor running through its magazines. <br>Fiery Tongue: Has *Burning* | ![[Pasted image 20240301115516.png]] |
+| Solaris Pocket Protector   | 2d8          |           |               |                   |               |           | Small    |                                                                                                | ![[Pasted image 20240301115744.png]] |
+|                            |              |           |               |                   |               |           |          |                                                                                                | ![[Pasted image 20240301120238.png]] |
 # Shotguns
 
 | **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** | **Ref**                              |

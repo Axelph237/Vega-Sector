@@ -6,7 +6,7 @@ ____
 | ------------------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | ---------------------------------------------------------------------- |
 | Revolver            | 2d6          | 10/50     | (5/7)         | 6                 | 2             | d8        | Small    |                                                                        |
 | MRED-36             | 2d6          | 20/70     | (4/7)         | 4                 | 2             | d10       | Small    | A small handheld railgun. MRED stands for "Mini Rail Expulsion Device" |
-| Henry's Choice HG12 | 2d4          | 10/40     | (5/6)         | 10                | 3             | d6        | Small    | Reliable, fast, light.<br>*Quick Draw*                                 |
+| Henry's Choice HG12 | 2d4          | 10/40     | (4/5)         | 10                | 3             | d6        | Small    | Reliable, fast, light.<br>*Quick Draw*                                 |
 # SMGs
 
 | **Name**  | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** |

@@ -13,7 +13,7 @@ ____
 | -------------------------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------------------------- | ------------------------------------ |
 | Queen Bee                  | 2d12         | 10/80     | (9/13)        | 16                | 8             | d4        | Medium   |                             | ![[Pasted image 20240301115710.png]] |
 | NovaCore Hedgehog: Thermal | 2d10         | 10/90     | (9/13)        | 12                | 6             | d4        | Medium   | Fiery Tongue: Has *Burning* | ![[Pasted image 20240301115516.png]] |
-|                            |              |           |               |                   |               |           | Small    |                             | ![[Pasted image 20240301115744.png]] |
+| Solaris Pocket Protector   | 2d8          |           |               |                   |               |           | Small    |                             | ![[Pasted image 20240301115744.png]] |
 |                            |              |           |               |                   |               |           |          |                             | ![[Pasted image 20240301120238.png]] |
 # Shotguns
 

@@ -11,16 +11,22 @@ ____
 
 | **Name**  | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** |
 | --------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------- |
-| Queen Bee | 2d8          | 10/80     | (2/4)         | 16                | 8             | d4        |          |           |
+| Queen Bee | 2d8          | 10/80     | (2/4)         | 16                | 8             | d4        | Medium   |           |
+|           |              |           |               |                   |               |           |          |           |
+|           |              |           |               |                   |               |           |          |           |
 # Shotguns
 
 | **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** |
 | -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------- |
 |          |              |           |               |                   |               |           |          |           |
+|          |              |           |               |                   |               |           |          |           |
+|          |              |           |               |                   |               |           |          |           |
 # Assault Rifles
 | **Name**     | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** |
 | ------------ | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------- |
 | Wood Chipper | 2d10         | 10/100    | (9/13)        | 6                 | 3             | d6        |          |           |
+|              |              |           |               |                   |               |           |          |           |
+|              |              |           |               |                   |               |           |          |           |
 # Sniper Rifles
 
 | **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                            |

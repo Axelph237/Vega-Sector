@@ -14,12 +14,13 @@ ____
 | Queen Bee                  | 2d8          | 10/80     | (6/9)         | 16                | 8             | d4        | Medium   |                             | ![[Pasted image 20240301115710.png]] |
 | NovaCore Hedgehog: Thermal | 2d10         | 10/90     | (9/13)        | 12                | 6             | d4        | Medium   | Fiery Tongue: Has *Burning* | ![[Pasted image 20240301115516.png]] |
 |                            |              |           |               |                   |               |           |          |                             | ![[Pasted image 20240301115744.png]] |
+|                            |              |           |               |                   |               |           |          |                             | ![[Pasted image 20240301120238.png]] |
 # Shotguns
 
 | **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** | **Ref**                              |
 | -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------- | ------------------------------------ |
 |          |              |           |               |                   |               |           |          |           | ![[Pasted image 20240301120037.png]] |
-|          |              |           |               |                   |               |           |          |           |                                      |
+|          |              |           |               |                   |               |           |          |           | ![[Pasted image 20240301120356.png]] |
 |          |              |           |               |                   |               |           |          |           |                                      |
 
 # Assault Rifles
@@ -27,15 +28,15 @@ ____
 | **Name**     | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** | **Ref**                              |
 | ------------ | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------- | ------------------------------------ |
 | Wood Chipper | 2d10         | 10/100    | (9/13)        | 6                 | 3             | d6        |          |           | ![[Pasted image 20240301120007.png]] |
-|              |              |           |               |                   |               |           |          |           |                                      |
-|              |              |           |               |                   |               |           |          |           |                                      |
+|              |              |           |               |                   |               |           |          |           | ![[Pasted image 20240301120303.png]] |
+|              |              |           |               |                   |               |           |          |           | ![[Pasted image 20240301120309.png]] |
 # Sniper Rifles
 
-| **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                            | **Ref** |
-| -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | -------------------------------------------------------------------- | ------- |
-| Longbow  | 1d20,1d10    | 100/300   | (14/17)       | 1                 | 1             | 1d8+10    |          | Hold Breath: Spend an extra stamina to increase your stability by 2. |         |
-|          |              |           |               |                   |               |           |          |                                                                      |         |
-|          |              |           |               |                   |               |           |          |                                                                      |         |
+| **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                            | **Ref**                              |
+| -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | -------------------------------------------------------------------- | ------------------------------------ |
+| Longbow  | 1d20,1d10    | 100/300   | (14/17)       | 1                 | 1             | 1d8+10    |          | Hold Breath: Spend an extra stamina to increase your stability by 2. | ![[Pasted image 20240301120223.png]] |
+|          |              |           |               |                   |               |           |          |                                                                      | ![[Pasted image 20240301120331.png]] |
+|          |              |           |               |                   |               |           |          |                                                                      |                                      |
 # Special
 
 | **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** | **Ref**                              |

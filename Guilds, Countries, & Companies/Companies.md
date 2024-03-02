@@ -8,4 +8,4 @@ Standard, generic brand weaponry. All extremely reliable, cheap, and effective. 
 ## Solaris
 Manufactures "eco-friendly" firearms and firearm equipment. Anything requiring electricity is likely solar powered. Known for using disposable magazines and biodegradable ammunition.
 ## Titan Forge Firearms
-New, sleek, and innovative designs. Easily distinguished for th
+New and innovative designs. Easily distinguished for their sleek designs, great ergonomics, and direct branding. While pricey, simply seeing someone wielding one of these marvels is sure to put most fights quickly to rest.

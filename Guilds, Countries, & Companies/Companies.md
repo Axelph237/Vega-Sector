@@ -7,3 +7,5 @@ NovaCore tends to play around with varying designs of their weapons. They are of
 Standard, generic brand weaponry. All extremely reliable, cheap, and effective. Utilize a cost-effective design in their weaponry to minimize costs.
 ## Solaris
 Manufactures "eco-friendly" firearms and firearm equipment. Anything requiring electricity is likely solar powered. Known for using disposable magazines and biodegradable ammunition.
+## Titan Forge Firearms
+New, sleek, and innovative designs. Easily distinguished for th

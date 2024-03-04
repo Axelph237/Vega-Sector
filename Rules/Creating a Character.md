@@ -347,7 +347,7 @@ When a player rolls a skill performing an action that would be considered a rank
 >> - Picks up on most lying
 >> - Quickly learns about people/things
 ### Parkour
-*Action:* Roll to climb large structures, leap farther than others, and fall gracefully. A failed roll may impose penalties related to the attempt.
+*Action:* Roll to climb large structures, leap farther than others, and fall gracefully.
 > [!column|3] *Rank Examples*
 >> [!skill|clean] Beginner
 >> - Climb structures your height with ease

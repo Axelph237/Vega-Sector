@@ -20,6 +20,8 @@ During a player's turn, they have the option to play up to two "hands." Each "ha
 Additionally, players can count *shared* cards towards any "hand" higher rank than a high card. This means that if a card such as a King is in the *shared* cards, they could play a King from their hand as a pair. They cannot, however, use the *shared* King as a high card.
 
 After a player has played up to two "hands" or has chosen to pass, they will discard the remaining cards in their hand. Their turn is now over. Play will then continue in phase order.
+## "Hand" Suit
+Under certain conditions, the suit of a hand may be ambiguous. When playing a high card, flush, or royal flush, the suit is that of the card(s) played. Otherwise, the suit is one of the suits played in the "hand." The suit used is the player's choice. For example, playing a 
 ## "Hand" Actions
 Each "hand" played represents an action that the player can then take.
 

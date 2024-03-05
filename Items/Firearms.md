@@ -27,8 +27,8 @@ ____
 
 | **Name**     | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** | **Ref**                              |
 | ------------ | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------- | ------------------------------------ |
-| Wood Chipper | 2d10         | 10/100    | (9/13)        | 6                 | 3             | d8        |          |           | ![[Pasted image 20240301120007.png]] |
-|              |              |           |               |                   |               |           |          |           | ![[Pasted image 20240301120303.png]] |
+| Wood Chipper | 2d10         | 20/100    | (9/13)        | 6                 | 3             | d8        |          |           | ![[Pasted image 20240301120007.png]] |
+| Titan's Beak | 2d8          | 20/110    |               |                   | 5             | d6        |          |           | ![[Pasted image 20240301120303.png]] |
 |              |              |           |               |                   |               |           |          |           | ![[Pasted image 20240301120309.png]] |
 # Sniper Rifles
 

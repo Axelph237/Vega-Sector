@@ -15,19 +15,19 @@ Each round of combat begins with an upkeep phase. During this phase, the followi
 ## Phases
 After upkeep is completed, play moves into the round *phases*. Starting with phase 1, any players in the *phase* take their turn (order of their choice), followed by any NPCs in that phase.
 # Player Turns
-During a player's turn, they have the option to play up to two "hands." Each "hand" must be a valid hand in poker. For instance, a player could look at their four cards and play two high card, a high card and a pair, two pair, etc. When one of that player's cards is used in a "hand," it may not be used a second time and is discarded.
+During a player's turn, they have the option to play up to two *ranks*. Each *rank* must be a valid hand in poker. For instance, a player could look at their four cards and play two high card, a high card and a pair, two pair, etc. When one of that player's cards is used in a "hand," it may not be used a second time and is discarded.
 
-Additionally, players can count *shared* cards towards any "hand" higher rank than a high card. This means that if a card such as a King is in the *shared* cards, they could play a King from their hand as a pair. They cannot, however, use the *shared* King as a high card.
+Additionally, players can count *shared* cards towards any *rank* higher value than a high card. This means that if a card such as a King is in the *shared* cards, they could play a King from their hand as a pair. They cannot, however, use the *shared* King as a high card.
 
 After a player has played up to two "hands" or has chosen to pass, they will discard the remaining cards in their hand. Their turn is now over. Play will then continue in phase order.
-## "Hand" Suit
+## Rank Suit
 Under certain conditions, the suit of a hand may be ambiguous. When playing a high card, flush, or royal flush, the suit is that of the card(s) played. Otherwise, the suit is one of the suits played in the "hand." The suit used is the player's choice. For example, playing a three of a kind with a 2 of hearts, 2 of spades, and 2 of diamonds could be played as a heart hand, spade hand, or a diamond hand. Jokers have no suit.
-## "Hand" Actions
-Each "hand" played represents an action that the player can then take.
+## Rank Actions
+Each *rank* played represents an action that the player can then take.
 
-| Hand                                                | Actions                                                                                                                    |
+| Rank                                                | Actions                                                                                                                    |
 | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Joker*                                              | Played as a wild in any other hand for value; suitless.                                                                    |
+| Joker*                                              | Played as a wild in any other rank for value; suitless.                                                                    |
 | <span style="color:#b7e189">High Card</span>        | 1 <span style="color:#b7e189">Simple </span>action                                                                         |
 | <span style="color:#38b7e5">Pair</span>             | 1 <span style="color:#38b7e5">Standard</span> action                                                                       |
 | <span style="color:#38b7e5">Two Pair</span>         | 1 <span style="color:#38b7e5">Standard</span> action + 1 *Charged* <span style="color:#b7e189">simple</span> action        |
@@ -72,5 +72,5 @@ During play, you may begin to realize that certain actions wouldn't affect a pla
 A GM may choose one of two ways to resolve enemy turns. One of which is by group, and the other is by individual enemies. Typically, if the number of enemies outnumbers the players, handling their actions by group is faster than individually. However, if the GM wants to make the combat feel more dynamic, they can take actions for each enemy individually. Regardless, enemy "hands" are played for an entire group of enemies.
 ## Determining Actions
 No matter which way a GM decides to resolve enemy turns, actions (and revenge) must be taken! Each type of enemy will have a set of actions that it will take depending on the roll of a D12. Typically, the higher the number the more dangerous of an action taken. As the GM, rolls may be changed in benefit or against the players. However, trust the dice, typically only change the value of the roll made by +/-1.
-## Playing Enemy "Hands"
-Like with player turns, enemies have the chance to play cards to take advantage of shifting tides in battle. Most enemy actions have a bonus effect if taken when a certain "hand" is also played. After enemy actions are determined for a group (either through group or individual rolls), the GM may play a "hand" from their set of cards (including *shared* cards). That "hand" counts for the entire group, so if actions were determined individually, all enemies might not always benefit from the hand played.
+## Playing Enemy Ranks
+Like with player turns, enemies have the chance to play cards to take advantage of shifting tides in battle. Most enemy actions have a bonus effect if taken when a certain *rank* is also played. After enemy actions are determined for a group (either through group or individual rolls), the GM may play a *rank* from their set of cards (including *shared* cards). That *rank* counts for the entire group, so if actions were determined individually, all enemies might not always benefit from the hand played.

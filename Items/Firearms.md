@@ -32,11 +32,11 @@ ____
 | NovaCore Viper: Personal | 2d12         | 40/130    | (9/14)        | 4                 | 3             | d12       | Large    | The Viper is a large anti-aircraft defense weapon. NovaCore in their strive for excellence has brought its excellence to the home. | ![[Pasted image 20240301120309.png]] |
 # Sniper Rifles
 
-| **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                            | **Ref**                              |
-| -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | -------------------------------------------------------------------- | ------------------------------------ |
-| Longbow  | 1d20,1d10    | 100/300   | (14/17)       | 1                 | 1             | 1d8+10    |          | Hold Breath: Spend an extra stamina to increase your stability by 2. | ![[Pasted image 20240301120223.png]] |
-|          |              |           |               |                   |               |           |          |                                                                      | ![[Pasted image 20240301120331.png]] |
-|          |              |           |               |                   |               |           |          |                                                                      |                                      |
+| **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                              | **Ref**                              |
+| -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | ---------------------------------------------------------------------- | ------------------------------------ |
+| Longbow  | 1d20,1d10    | 100/300   | (17/20)       | 1                 | 1             | 2d8+10    |          | *Hold Breath*: Spend an extra stamina to increase your stability by 2. | ![[Pasted image 20240301120223.png]] |
+|          |              |           |               |                   |               |           |          | *Hold Breath*                                                          | ![[Pasted image 20240301120331.png]] |
+|          |              |           |               |                   |               |           |          |                                                                        |                                      |
 # Special
 
 | **Name**    | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                                                                                                                                | **Ref**                              |

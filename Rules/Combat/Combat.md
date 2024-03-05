@@ -21,7 +21,7 @@ Additionally, players can count *shared* cards towards any "hand" higher rank th
 
 After a player has played up to two "hands" or has chosen to pass, they will discard the remaining cards in their hand. Their turn is now over. Play will then continue in phase order.
 ## "Hand" Suit
-Under certain conditions, the suit of a hand may be ambiguous. When playing a high card, flush, or royal flush, the suit is that of the card(s) played. Otherwise, the suit is one of the suits played in the "hand." The suit used is the player's choice. For example, playing a 
+Under certain conditions, the suit of a hand may be ambiguous. When playing a high card, flush, or royal flush, the suit is that of the card(s) played. Otherwise, the suit is one of the suits played in the "hand." The suit used is the player's choice. For example, playing a three of a kind with a 2 of hearts, 2 of spades, and 2 of diamonds could be played as a heart hand, spade hand, or a diamond hand. Jokers have no suit.
 ## "Hand" Actions
 Each "hand" played represents an action that the player can then take.
 

@@ -126,6 +126,12 @@
 		- Counter shading
 
 # Combat
+## Statistics
+- Any 1 card (incl Jokers): **11%**
+- Any  num card: **67%**
+- Any face card (incl Jokers): **33%**
+- Any value 10 card (incl Jokers): **41%**
+- 
 
 
 **Narrative Description:**

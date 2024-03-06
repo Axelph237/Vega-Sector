@@ -34,7 +34,7 @@ ____
 
 | **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                            | **Ref**                              |
 | -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | -------------------------------------------------------------------- | ------------------------------------ |
-| Longbow  | 1d20,1d10    | 100/300   | (14/17)       | 1                 | 1             | 1d8+10    |          | Hold Breath: Spend an extra stamina to increase your stability by 2. | ![[Pasted image 20240301120223.png]] |
+| Longbow  | 1d20,1d10    | 100/300   | (14/17)       | 1                 | 1             | 2d8+10    |          | Hold Breath: Spend an extra stamina to increase your stability by 2. | ![[Pasted image 20240301120223.png]] |
 |          |              |           |               |                   |               |           |          |                                                                      | ![[Pasted image 20240301120331.png]] |
 |          |              |           |               |                   |               |           |          |                                                                      |                                      |
 # Special

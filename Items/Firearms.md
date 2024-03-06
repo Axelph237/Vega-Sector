@@ -17,30 +17,30 @@ ____
 |                            |              |           |               |                   |               |           |          |                                                                                                                                         | ![[Pasted image 20240301120238.png]] |
 # Shotguns
 
-| **Name**                | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                           | **Ref**                              |
-| ----------------------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | ----------------------------------- | ------------------------------------ |
-| Titan's Claw            | 2d6          | 10/40     | (6/8)         | 2                 | 2             | 2d6       | Small    |                                     | ![[Pasted image 20240301120037.png]] |
-| NoveCore Breacher: Slug | 2d12         | 20/70     | (14/17)       | 3                 | 3             | 1d10      | Large    | Custodial Nightmare: Has *Breacher* | ![[Pasted image 20240301120356.png]] |
-|                         |              |           |               |                   |               |           |          |                                     |                                      |
+| **Name**            | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                           | **Ref**                              |
+| ------------------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | ----------------------------------- | ------------------------------------ |
+| Titan's Claw        | 2d6          | 10/40     | (6/8)         | 2                 | 2             | 2d6       | Small    |                                     | ![[Pasted image 20240301120037.png]] |
+| NoveCore Boar: Slug | 2d12         | 20/70     | (14/17)       | 3                 | 3             | 1d10      | Large    | Custodial Nightmare: Has *Breacher* | ![[Pasted image 20240301120356.png]] |
+|                     |              |           |               |                   |               |           |          |                                     |                                      |
 
 # Assault Rifles
 
-| **Name**     | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** | **Ref**                              |
-| ------------ | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------- | ------------------------------------ |
-| Wood Chipper | 2d10         | 10/100    | (9/13)        | 6                 | 3             | d8        |          |           | ![[Pasted image 20240301120007.png]] |
-|              |              |           |               |                   |               |           |          |           | ![[Pasted image 20240301120303.png]] |
-|              |              |           |               |                   |               |           |          |           | ![[Pasted image 20240301120309.png]] |
+| **Name**                 | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                                                                                          | **Ref**                              |
+| ------------------------ | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| Solaris Wood Chipper     | 2d10         | 30/100    | (9/13)        | 6                 | 3             | d10       | Large    |                                                                                                                                    | ![[Pasted image 20240301120007.png]] |
+| Titan's Beak             | 2d8          | 30/110    | (7/10)        | 10                | 4             | d8        | Large    |                                                                                                                                    | ![[Pasted image 20240301120303.png]] |
+| NovaCore Viper: Personal | 2d12         | 40/130    | (9/14)        | 4                 | 3             | d12       | Large    | The Viper is a large anti-aircraft defense weapon. NovaCore in their strive for excellence has brought its excellence to the home. | ![[Pasted image 20240301120309.png]] |
 # Sniper Rifles
 
-| **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                            | **Ref**                              |
-| -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | -------------------------------------------------------------------- | ------------------------------------ |
-| Longbow  | 1d20,1d10    | 100/300   | (14/17)       | 1                 | 1             | 2d8+10    |          | Hold Breath: Spend an extra stamina to increase your stability by 2. | ![[Pasted image 20240301120223.png]] |
-|          |              |           |               |                   |               |           |          |                                                                      | ![[Pasted image 20240301120331.png]] |
-|          |              |           |               |                   |               |           |          |                                                                      |                                      |
+| **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                              | **Ref**                              |
+| -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | ---------------------------------------------------------------------- | ------------------------------------ |
+| Longbow  | 1d20,1d10    | 100/300   | (17/20)       | 1                 | 1             | 2d8+10    | Large    | *Hold Breath*: Spend an extra stamina to increase your stability by 2. | ![[Pasted image 20240301120223.png]] |
+| GC-12.4  | 2d10         | 120/350   | (11/14)       | 4                 | 1             | 1d12+10   | Large    | Has *Hold Breath*                                                      | ![[Pasted image 20240301120331.png]] |
+
 # Special
 
-| **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes** | **Ref**                              |
-| -------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | --------- | ------------------------------------ |
-|          |              |           |               |                   |               |           |          |           | ![[Pasted image 20240301120124.png]] |
-|          |              |           |               |                   |               |           |          |           | ![[Pasted image 20240301120208.png]] |
-|          |              |           |               |                   |               |           |          |           |                                      |
+| **Name**    | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                                                                                                                                | **Ref**                              |
+| ----------- | ------------ | --------- | ------------- | ----------------- | ------------- | --------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+| Field Nurse | 2d6          | 10/60     | (6/9)         | 1                 | 1             | N/A       | Small    | The field nurse is a small sidearm that fires a rocket propelled payload towards its target. On impact, the payload delivers a dosage of the loaded serum to its target. | ![[Pasted image 20240301120124.png]] |
+|             |              |           |               |                   |               |           |          |                                                                                                                                                                          | ![[Pasted image 20240301120208.png]] |
+|             |              |           |               |                   |               |           |          |                                                                                                                                                                          |                                      |

@@ -1,8 +1,8 @@
-![[banner_2.jpg|p+tcc banner+small]]
+![[Pasted image 20240312093307.png|p+tc banner+small]]
 > [!infobox|wikipedia right n-th t-w txt-c wsmall]
-> ![[Pasted image 20240312091345.png|wsmall]]
+> ![[robo_1.jpg|wsmall]]
 >> [!info|bg-green c-green ] Picture Description
->##### Creature Name
+>##### Enemy Name
 > ##### _Location_
 > | Type | Location |
 > | ---- | ---- |
@@ -14,7 +14,7 @@
 > | Health | 0 |
 > | Phase | - |
 
-*Return to parent page: [[Creatures]]*
+*Return to parent page: [[Enemies]]*
 
 **This is the summary:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam maecenas sed enim. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. Suspendisse interdum consectetur libero id faucibus nisl tincidunt. Tristique senectus et netus et malesuada fames ac turpis egestas.
 # Actions

@@ -24,5 +24,5 @@
 | 3/4/5 | Attack/Action 1.                |             |
 | 6/7/8 | Alternate Attack/Action 2.      |             |
 | 9/10  | Heavy Attack/Action 3.          |             |
-| 11/12 | Special, ultimate action.       |             |
+| 11/12 | Special Attack/Ultimate action. |             |
 # Other Notable Info

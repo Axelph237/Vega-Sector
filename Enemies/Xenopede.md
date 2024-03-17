@@ -1,17 +1,17 @@
 ![[Pasted image 20240312093307.png|p+tc banner+small]]
 > [!infobox|wikipedia right n-th t-w txt-c wsmall]
-> ![[robo_1.jpg|wsmall]]
+> ![[Pasted image 20240317160004.png|wsmall]]
 >> [!info|bg-green c-green ] Picture Description
 >##### Xenopede
 > ##### Underground
 > | Type | Location |
 > | ---- | ---- |
-> | Planet | Umbral Dunes |
-> | Habitat |Underground |
+> | Planet | Ourobos |
+> | Habitat | Underground |
 > ##### *Stats*
 > | Stat | Value |
 > | ---- | ---- |
-> | Health | 78 |
+> | Health | 250 |
 > | Phase | - |
 
 *Return to parent page: [[Enemies]]*

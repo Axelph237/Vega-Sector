@@ -2,8 +2,8 @@
 > [!infobox|wikipedia right n-th t-w txt-c wsmall]
 > ![[robo_1.jpg|wsmall]]
 >> [!info|bg-green c-green ] Picture Description
->##### Enemy Name
-> ##### _Location_
+>##### Xenopede
+> ##### _Underground
 > | Type | Location |
 > | ---- | ---- |
 > | Planet | Lorem Ipsum |

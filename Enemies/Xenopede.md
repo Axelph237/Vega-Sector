@@ -2,22 +2,23 @@
 > [!infobox|wikipedia right n-th t-w txt-c wsmall]
 > ![[robo_1.jpg|wsmall]]
 >> [!info|bg-green c-green ] Picture Description
->##### Enemy Name
-> ##### _Location_
+>##### Xenopede
+> ##### Underground
 > | Type | Location |
 > | ---- | ---- |
-> | Planet | Lorem Ipsum |
-> | Habitat | Lorem Ipsum |
+> | Planet | Umbral Dunes |
+> | Habitat |Underground |
 > ##### *Stats*
 > | Stat | Value |
 > | ---- | ---- |
-> | Health | 0 |
+> | Health | 78 |
 > | Phase | - |
 
 *Return to parent page: [[Enemies]]*
 
-**This is the summary:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam maecenas sed enim. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. Suspendisse interdum consectetur libero id faucibus nisl tincidunt. Tristique senectus et netus et malesuada fames ac turpis egestas.
+**Xenopede:** 
 # Actions
+
 | 1D12  | Action                          | Rank Action |
 | ----- | ------------------------------- | ----------- |
 | 1/2   | Retreat, Rest, Recovery action. |             |
@@ -27,7 +28,3 @@
 | 11/12 | Special Attack/Ultimate action. |             |
 # Other Notable Info
 
-## L
-
-|        |     |     |
-| ------ | --- | --- |

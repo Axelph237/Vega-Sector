@@ -24,7 +24,7 @@
 | 1/2   | Retreat, Rest, Recovery action. |             |
 | 3/4/5 | Pircer                          |             |
 | 6/7/8 | Web shot                        |             |
-| 9/10  | Heavy Attack/Action 3.          |             |
-| 11/12 | Special Attack/Ultimate action. |             |
+| 9/10  | Constrict                       |             |
+| 11/12 | Posinous/paralysis strike.      |             |
 # Other Notable Info
 

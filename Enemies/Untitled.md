@@ -26,8 +26,3 @@
 | 9/10  | Heavy Attack/Action 3.          |             |
 | 11/12 | Special Attack/Ultimate action. |             |
 # Other Notable Info
-
-## L
-
-|        |     |     |
-| ------ | --- | --- |

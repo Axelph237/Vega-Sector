@@ -27,7 +27,7 @@ Each *rank* played represents an action that the player can then take.
 
 | Rank                                                | Actions                                                                                                                    |
 | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Joker*                                              | Played as a wild in any other rank for value; suitless.                                                                    |
+| Joker                                               | Played as a wild in any other rank for value; suitless.                                                                    |
 | <span style="color:#b7e189">High Card</span>        | 1 <span style="color:#b7e189">Simple </span>action                                                                         |
 | <span style="color:#38b7e5">Pair</span>             | 1 <span style="color:#38b7e5">Standard</span> action                                                                       |
 | <span style="color:#38b7e5">Two Pair</span>         | 1 <span style="color:#38b7e5">Standard</span> action + 1 *Charged* <span style="color:#b7e189">simple</span> action        |

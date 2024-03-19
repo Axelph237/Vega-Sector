@@ -30,6 +30,7 @@ ____
 | Solaris Wood Chipper     | 2d10         | 30/100    | (9/13)        | 6                 | 3             | d10       | Large    |                                                                                                                                    | ![[Pasted image 20240301120007.png]] |
 | Titan's Beak             | 2d8          | 30/110    | (7/10)        | 10                | 4             | d8        | Large    |                                                                                                                                    | ![[Pasted image 20240301120303.png]] |
 | NovaCore Viper: Personal | 2d12         | 40/130    | (9/14)        | 4                 | 3             | d12       | Large    | The Viper is a large anti-aircraft defense weapon. NovaCore in their strive for excellence has brought its excellence to the home. | ![[Pasted image 20240301120309.png]] |
+| LRR-                     |              |           |               |                   |               |           |          |                                                                                                                                    |                                      |
 # Sniper Rifles
 
 | **Name** | **Handling** | **Range** | **Stability** | **Magazine Size** | **Fire Rate** | **Power** | **Size** | **Notes**                                                              | **Ref**                              |
